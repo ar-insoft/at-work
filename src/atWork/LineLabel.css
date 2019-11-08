@@ -1,0 +1,14 @@
+
+.ui.label.zdanie {
+    width: 550px;
+    padding: 10px 20px;
+    line-height: 1.5;
+    font-size: 1em;
+}
+
+.ui.label.translation {
+    color: #e8e8e8;
+}
+.ui.label.translation:hover {
+    color: rgba(0, 0, 0, .6);
+}

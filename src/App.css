@@ -1,0 +1,41 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #09d3ac;
+}
+
+.ui.card.zdanie {
+  width: 450px;
+  padding: 10px 20px;
+}
+
+.translation {
+  color: white;
+}
+.ui.card.translation {
+  color: white;
+}
+
+.translation:hover {
+  color: black;
+}
+.ui.card.translation:hover, .ui.label.translation:hover {
+  color: black;
+}
