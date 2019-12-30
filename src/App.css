@@ -2,28 +2,22 @@
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
+.line-container {
+  text-align: left;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.ui.label.zdanie {
+    width: 1150px;
+    padding: 10px 20px;
+    line-height: 1.5;
+    font-size: 1em;
 }
 
-.App-link {
-  color: #09d3ac;
+.ui.label.translation {
+    color: #e8e8e8;
 }
-
-.ui.card.zdanie {
-  width: 450px;
-  padding: 10px 20px;
+.ui.label.translation:hover {
+    color: rgba(0, 0, 0, .6);
 }
 
 .translation {
