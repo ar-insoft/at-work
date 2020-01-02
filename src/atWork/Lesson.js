@@ -56,6 +56,7 @@ class Lesson extends Component {
         const mp3Path = '/data/ep' + epNo + '.mp3'
         return (
             <Container>
+                epNo = {epNo}
                 <audio id="track" src={mp3Path}
                     onTimeUpdate={this.onTimeUpdate}>
                     <p>Your browser does not support the audio element</p>

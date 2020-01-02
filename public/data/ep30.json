@@ -1,0 +1,325 @@
+[
+	{
+		"lineNo": 0,
+		"linePl": "Anna: (przez telefon) Tak, mamy dużo w magazynie. Są 4 funty za sztukę… Są dobrej jakości…",
+		"mp3End": "12.9",
+		"lineEn": "Anna: (On the phone) Yes, we have plenty in stock. They're £4 per unit… They are good quality ones…",
+		"mp3Start": "5.0"
+	},
+	{
+		"lineNo": 1,
+		"linePl": "Narrator: Firma z Francji, do której wcześniej zadzwoniła Anna, oddzwoniła. Miejmy nadzieję, że składają zamówienie.",
+		"mp3End": "20.2",
+		"lineEn": "Narrator: The company in France that Anna called earlier has called her back. Let's hope they're making an order.",
+		"mp3Start": "12.9"
+	},
+	{
+		"lineNo": 2,
+		"linePl": "Anna:… technologia laserowa nie jest tania… hmm, rozumiem… Cóż, dzięki za oddzwonienie. PA.",
+		"mp3End": "29.7",
+		"lineEn": "Anna: …laser technology isn't cheap… hmm, I see… Well, thanks for calling back. Bye.",
+		"mp3Start": "20.2"
+	},
+	{
+		"lineNo": 3,
+		"linePl": "Paul: Wszystko w porządku Anna?",
+		"mp3End": "32.1",
+		"lineEn": "Paul: Everything OK Anna?",
+		"mp3Start": "29.7"
+	},
+	{
+		"lineNo": 4,
+		"linePl": "Anna: Niezupełnie. Jedna z firm, które nazwałem przeziębieniem, oddzwoniła…",
+		"mp3End": "37.5",
+		"lineEn": "Anna: Not really. One of the companies I cold called has rung back…",
+		"mp3Start": "32.1"
+	},
+	{
+		"lineNo": 5,
+		"linePl": "Paul: Dobrze, dobrze…",
+		"mp3End": "38.5",
+		"lineEn": "Paul: Good, good…",
+		"mp3Start": "37.5"
+	},
+	{
+		"lineNo": 6,
+		"linePl": "Anna:… ale nie chcą złożyć zamówienia. Mówią, że jesteśmy za drogie.",
+		"mp3End": "43.3",
+		"lineEn": "Anna: …but they don't want to place an order. They say we're too expensive.",
+		"mp3Start": "38.5"
+	},
+	{
+		"lineNo": 7,
+		"linePl": "Paul: Więc pozwoliłeś im odejść? Nie negocjowałeś z nimi?",
+		"mp3End": "48.5",
+		"lineEn": "Paul: So you let them go? Didn't you negotiate with them?",
+		"mp3Start": "43.3"
+	},
+	{
+		"lineNo": 8,
+		"linePl": "Anna: Och, miałam to zrobić? Nie byłem pewien, co powiedzieć.",
+		"mp3End": "53.7",
+		"lineEn": "Anna: Oh, was I meant to? I wasn't sure what to say.",
+		"mp3Start": "48.5"
+	},
+	{
+		"lineNo": 9,
+		"linePl": "Tom: Masz problemy, Anno? Nie martw się, jestem pewien, że mogę pomóc. Negocjacje to moja sprawa!",
+		"mp3End": "60.9",
+		"lineEn": "Tom: Having trouble Anna? Don't worry, I'm sure that I can help. Negotiating is my thing!",
+		"mp3Start": "53.7"
+	},
+	{
+		"lineNo": 10,
+		"linePl": "Narrator: „Negocjacje to moja sprawa”! Jaki on jest? Pamiętaj, że zdobył nagrodę Pear Salesman of the Year, więc musi robić coś dobrze.",
+		"mp3End": "71.1",
+		"lineEn": "Narrator: \"Negotiating is my thing\"! What is he like? Mind you, he has won a Pear Salesman of the Year award so he must be doing something right.",
+		"mp3Start": "60.9"
+	},
+	{
+		"lineNo": 11,
+		"linePl": "Anna: Jesteś pewien, że Tom? Nie chcesz negocjować własnych ofert?",
+		"mp3End": "76.1",
+		"lineEn": "Anna: Are you sure Tom? Don't you want to negotiate your own deals?",
+		"mp3Start": "71.1"
+	},
+	{
+		"lineNo": 12,
+		"linePl": "Tom: Jestem ci winien jedną Annę po tym, jak uratowałeś mi bekon z panem Socratesem tamtej nocy. A oprócz ciebie i mnie…",
+		"mp3End": "85.4",
+		"lineEn": "Tom: I owe you one Anna after you saved my bacon with Mr Socrates the other night. And besides you and me…",
+		"mp3Start": "76.1"
+	},
+	{
+		"lineNo": 13,
+		"linePl": "Paul: Chodźcie dwoje. Rusz się. Europa czeka na nas! Czy ktoś ma krem ​​kremowy?",
+		"mp3End": "91.3",
+		"lineEn": "Paul: Come on you two. Get a move on. Europe is waiting for us! Custard cream anyone?",
+		"mp3Start": "85.4"
+	},
+	{
+		"lineNo": 14,
+		"linePl": "Tom: Nie, dziękuję. Dobrze. Teraz musisz oddzwonić do francuskiej firmy i zapytać, jaką cenę są gotowi zapłacić.",
+		"mp3End": "99.9",
+		"lineEn": "Tom: No thanks. Right. Now you need to call that French company back and ask them what kind of price they are willing to pay.",
+		"mp3Start": "91.3"
+	},
+	{
+		"lineNo": 15,
+		"linePl": "Anna: A potem powiesz, że to w porządku?",
+		"mp3End": "102.8",
+		"lineEn": "Anna: And then say that's fine?",
+		"mp3Start": "99.9"
+	},
+	{
+		"lineNo": 16,
+		"linePl": "Tom: Nie! Negocjować. Powiedz „Nie sądzę, abyśmy mogli pójść tak nisko”.",
+		"mp3End": "108.4",
+		"lineEn": "Tom: No! Negotiate. Say \"I don't think we can go that low\".",
+		"mp3Start": "102.8"
+	},
+	{
+		"lineNo": 17,
+		"linePl": "Anna: „Nie sądzę, żebyśmy mogli zejść tak nisko”.",
+		"mp3End": "113.3",
+		"lineEn": "Anna: \"I don't think we can go that low\".",
+		"mp3Start": "108.4"
+	},
+	{
+		"lineNo": 18,
+		"linePl": "Tom: Jeśli chcą większej zniżki, powiedz im, że będą musieli kupić więcej akcji.",
+		"mp3End": "119.8",
+		"lineEn": "Tom: If they want a bigger discount, tell them they will have to buy more stock.",
+		"mp3Start": "113.3"
+	},
+	{
+		"lineNo": 19,
+		"linePl": "Anna: Więcej akcji, większy rabat.",
+		"mp3End": "122.5",
+		"lineEn": "Anna: More stock, bigger discount.",
+		"mp3Start": "119.8"
+	},
+	{
+		"lineNo": 20,
+		"linePl": "Tom: Tak. A jeśli nadal nie możesz uzgodnić ceny, powiedz im „Spotkamy się w połowie drogi”.",
+		"mp3End": "129",
+		"lineEn": "Tom: Yeah. And if you still can't agree a price, tell them \"I'll meet you half way\".",
+		"mp3Start": "122.5"
+	},
+	{
+		"lineNo": 21,
+		"linePl": "Anna: Spotkać się w połowie drogi ?! To oznacza podróż do Paryża!",
+		"mp3End": "132.9",
+		"lineEn": "Anna: Meet half way?! That means going to Paris!",
+		"mp3Start": "129"
+	},
+	{
+		"lineNo": 22,
+		"linePl": "Tom: Nie. W połowie ceny. Ta linia zawsze działa dla mnie. Raz sprzedałem w ten sposób mnóstwo plastikowych gruszek.",
+		"mp3End": "142.9",
+		"lineEn": "Tom: No. Half way on the price. That line always works for me. I sold a load of plastic pears that way once.",
+		"mp3Start": "132.9"
+	},
+	{
+		"lineNo": 23,
+		"linePl": "Anna: Więc to „Spotkamy się w połowie drogi”. Dzięki Tom. Jestem pod wrażeniem. Ty ty…",
+		"mp3End": "151.7",
+		"lineEn": "Anna: So that's \"I'll meet you half way\". Thanks Tom. I'm really impressed. You… you…",
+		"mp3Start": "142.9"
+	},
+	{
+		"lineNo": 24,
+		"linePl": "Tom: Naprawdę, naprawdę ?!",
+		"mp3End": "153.6",
+		"lineEn": "Tom: Am I, really?!",
+		"mp3Start": "151.7"
+	},
+	{
+		"lineNo": 25,
+		"linePl": "Anna: Co? Chciałem powiedzieć, że naprawdę znasz swoje rzeczy - pomimo tego, co mówią inni ludzie.",
+		"mp3End": "158.4",
+		"lineEn": "Anna: What? I was going to say, you really do know your stuff – despite what other people say.",
+		"mp3Start": "153.6"
+	},
+	{
+		"lineNo": 26,
+		"linePl": "Tom: Co? Co?",
+		"mp3End": "161.6",
+		"lineEn": "Tom: What? Uh?",
+		"mp3Start": "158.4"
+	},
+	{
+		"lineNo": 27,
+		"linePl": "Anna: Właśnie, idę teraz, aby zadzwonić.",
+		"mp3End": "164.4",
+		"lineEn": "Anna: Right, I'm off to make that call right now.",
+		"mp3Start": "161.6"
+	},
+	{
+		"lineNo": 28,
+		"linePl": "Narrator: Powodzenia, Anna i dobra robota Tom! Miło słyszeć, jak udziela przydatnych porad, ale czy to zadziała? Przypomnijmy sobie frazy, które sugerował Anna podczas negocjacji sprzedaży:",
+		"mp3End": "180.1",
+		"lineEn": "Narrator: Good luck Anna and well done Tom! Nice to hear him give some useful advice but will it work? Let's remind ourselves of the phrases he suggested Anna uses when negotiating a sale:",
+		"mp3Start": "164.4"
+	},
+	{
+		"lineNo": 29,
+		"linePl": "Jaką cenę chcesz zapłacić?",
+		"mp3End": "182.4",
+		"lineEn": "What kind of price are you willing to pay?",
+		"mp3Start": "180.1"
+	},
+	{
+		"lineNo": 30,
+		"linePl": "Nie sądzę, żebyśmy mogli pójść tak nisko.",
+		"mp3End": "186.2",
+		"lineEn": "I don't think we can go that low.",
+		"mp3Start": "182.4"
+	},
+	{
+		"lineNo": 31,
+		"linePl": "Jeśli kupisz więcej akcji, mogę zaoferować ci większą zniżkę.",
+		"mp3End": "191.5",
+		"lineEn": "If you buy more stock, I can offer you a bigger discount.",
+		"mp3Start": "186.2"
+	},
+	{
+		"lineNo": 32,
+		"linePl": "Spotkamy się w połowie drogi.",
+		"mp3End": "194.9",
+		"lineEn": "I'll meet you half way.",
+		"mp3Start": "191.5"
+	},
+	{
+		"lineNo": 33,
+		"linePl": "Narrator: Zobaczmy, jak się ma Anna.",
+		"mp3End": "198.8",
+		"lineEn": "Narrator: Let's see how Anna has got on.",
+		"mp3Start": "194.9"
+	},
+	{
+		"lineNo": 34,
+		"linePl": "Anna: Sukces! Zgodzili się kupić 5000 imperialnych cytryn.",
+		"mp3End": "208.1",
+		"lineEn": "Anna: Success! They've agreed to buy 5,000 Imperial Lemons.",
+		"mp3Start": "198.8"
+	},
+	{
+		"lineNo": 35,
+		"linePl": "Tom: Genialny. Wiedziałem, że będziesz świetna. Czy te moje zabójcze linie zadziałały?",
+		"mp3End": "214.9",
+		"lineEn": "Tom: Brilliant. I knew you would be great. Did those killer lines of mine work?",
+		"mp3Start": "208.1"
+	},
+	{
+		"lineNo": 36,
+		"linePl": "Anna: W pewnym sensie - ale kiedy powiedziałam, jaką cenę chcą zapłacić, podała pełną cenę! Tak długo, jak przesyłam im dzisiaj umowę, więc lepiej pójdę po kopertę i wyślę ją jak najszybciej.",
+		"mp3End": "228.2",
+		"lineEn": "Anna: Sort of – but when I said what price were they looking to pay, they said the full price! As long as I send them the contract today so I'd better go and get an envelope and post it as soon as I can.",
+		"mp3Start": "214.9"
+	},
+	{
+		"lineNo": 37,
+		"linePl": "Tom: Och, świetnie.",
+		"mp3End": "230.1",
+		"lineEn": "Tom: Oh great.",
+		"mp3Start": "228.2"
+	},
+	{
+		"lineNo": 38,
+		"linePl": "Anna: Tom… Tom… możesz podejść do kredensu i zdobyć dla mnie kopertę z górnej półki?",
+		"mp3End": "239.5",
+		"lineEn": "Anna: Tom… Tom… can you come over here to the stationery cupboard and get an envelope from the top shelf for me?",
+		"mp3Start": "230.1"
+	},
+	{
+		"lineNo": 39,
+		"linePl": "Tom: Tak, przypuśćmy, że więc ... Idę ... (Drzwi się zamykają) ... och!",
+		"mp3End": "244.3",
+		"lineEn": "Tom: Yeah, suppose so… I'm coming... (Door slams shut) …oh!",
+		"mp3Start": "239.5"
+	},
+	{
+		"lineNo": 40,
+		"linePl": "Anna: Oh Tom, dlaczego to zrobiłeś? Nie chce się otworzyć ... jest zamknięty ... pomocy, pomocy!",
+		"mp3End": "254.6",
+		"lineEn": "Anna: Oh Tom, why did you do that? It won't open… it's locked… help, help!",
+		"mp3Start": "244.3"
+	},
+	{
+		"lineNo": 41,
+		"linePl": "Tom: Pomóż!",
+		"mp3End": "256.3",
+		"lineEn": "Tom: Help!",
+		"mp3Start": "254.6"
+	},
+	{
+		"lineNo": 42,
+		"linePl": "Narrator: Uch. To powinno być interesujące. Jak zamierzają wyjaśnić, że są zamknięte w szafce na artykuły papiernicze? Do następnego razu. PA!",
+		"mp3End": "266.2",
+		"lineEn": "Narrator: Uh oh. This should be interesting. How are they going to explain being locked in the stationery cupboard? Until next time. Bye!",
+		"mp3Start": "256.3"
+	},
+	{
+		"lineNo": 43,
+		"linePl": "Tom: Wypuść nas! Utknęliśmy!",
+		"mp3End": "268.6",
+		"lineEn": "Tom: Let us out! We're stuck!",
+		"mp3Start": "266.2"
+	},
+	{
+		"lineNo": 44,
+		"linePl": "Wyzwanie słuchania:",
+		"lineEn": "Listening challenge:"
+	},
+	{
+		"lineNo": 45,
+		"linePl": "Co firma we Francji zgadza się kupować od Tip Top Trading?",
+		"lineEn": "What does the company in France agree to buy from Tip Top Trading?"
+	},
+	{
+		"lineNo": 46,
+		"linePl": "(Odpowiedź: 5000 cytryn imperialnych)",
+		"lineEn": "(Answer: 5,000 Imperial Lemons)"
+	}
+]

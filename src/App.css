@@ -2,8 +2,28 @@
   text-align: center;
 }
 
+.line {
+  width: 100%;
+  background-color: #e8e8e8;
+}
+.lineNo {
+  float:left;width:100px;
+}
+.sentences {
+  margin:0 auto;
+  text-align: left;
+  display: inline-block;
+}
+.times {
+  float: right;
+  width:100px;
+}
 .line-container {
   text-align: left;
+  background-color: #e8e8e8;
+  display: flex;
+  align-items: left;
+  margin: 1px;
 }
 
 .ui.label.zdanie {
