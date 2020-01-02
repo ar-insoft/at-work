@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import { Tab } from "semantic-ui-react";
-import Lesson from './Lesson';
+//import Lesson from './Lesson';
 import { LessonEffect } from './LessonEffect'
 
 class Tabs extends Component {

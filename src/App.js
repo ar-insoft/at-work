@@ -1,7 +1,6 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
-import Lesson from './atWork/Lesson';
+//import Lesson from './atWork/Lesson';
 import Tabs from './atWork/Tabs';
 import 'semantic-ui-css/semantic.min.css'
 

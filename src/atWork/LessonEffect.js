@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { Container, Label } from "semantic-ui-react";
+import { Container } from "semantic-ui-react";
 
 export const LessonEffect = ({ epNo }) => {
     const [lesson, setLesson] = useState([])
@@ -20,7 +20,7 @@ export const LessonEffect = ({ epNo }) => {
 
     const onTimeUpdate = () => {
         const audio = document.getElementById('track')
-        const duration = audio.duration
+        //const duration = audio.duration
         const currentTime = Math.round(audio.currentTime * 10) / 10;
 
         //this.updateTrackTime(currentTime, duration)
@@ -53,7 +53,7 @@ export const LessonEffect = ({ epNo }) => {
             </audio>
 
             {lesson.map((linia, index) => {
-                let audioPart = (lesson.length > index) ? lesson[index] : ''
+                //let audioPart = (lesson.length > index) ? lesson[index] : ''
                 return (
                     <div className="line">
                         <div className="lineNo">

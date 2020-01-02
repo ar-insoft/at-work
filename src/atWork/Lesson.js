@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import { Grid, Container, Card, Reveal, Image, Label } from "semantic-ui-react";
+import { Container, Label } from "semantic-ui-react";
 //import LineLabel from "./LineLabel";
 
 
@@ -26,7 +26,7 @@ class Lesson extends Component {
 
     onTimeUpdate = () => {
         const audio = document.getElementById('track')
-        const duration = audio.duration
+        //const duration = audio.duration
         const currentTime = Math.round(audio.currentTime * 10) / 10;
 
         //this.updateTrackTime(currentTime, duration)
@@ -63,7 +63,7 @@ class Lesson extends Component {
                 </audio>
 
                 {this.state.lesson.map((linia, index) => {
-                    let audioPart = (this.state.lesson.length > index) ? this.state.lesson[index] : ''
+                    //let audioPart = (this.state.lesson.length > index) ? this.state.lesson[index] : ''
                     return (
                         <div className="line-container">
                             {linia.lineNo}
@@ -82,7 +82,7 @@ class Lesson extends Component {
     }
 }
 
-const textPl = "Narrator: Witamy ponownie w języku angielskim w pracy. Nadal jesteśmy w pierwszym tygodniu Anny w zajęte biura Tip Top Trading. Jak leci Anna?"
-const textEn = "Narrator:  Welcome back to English at Work. We're still in Anna's first week in the busy offices of Tip Top Trading. How's it going Anna?"
+//const textPl = "Narrator: Witamy ponownie w języku angielskim w pracy. Nadal jesteśmy w pierwszym tygodniu Anny w zajęte biura Tip Top Trading. Jak leci Anna?"
+//const textEn = "Narrator:  Welcome back to English at Work. We're still in Anna's first week in the busy offices of Tip Top Trading. How's it going Anna?"
 
 export default Lesson;
