@@ -2,6 +2,7 @@ import React, { Component } from "react";
 import { Tab } from "semantic-ui-react";
 //import Lesson from './Lesson';
 import { LessonEffect } from './LessonEffect'
+import {Boxes} from './development/Boxes'
 
 class Tabs extends Component {
     constructor(props) {
@@ -24,6 +25,13 @@ class Tabs extends Component {
                     </Tab.Pane>
             })
         }),
+        {
+            menuItem: 'Boxes',
+            render: () =>
+                <Tab.Pane>
+                    <Boxes />
+                </Tab.Pane>
+        },
     ]
 
     handleTabChange = (e, { activeIndex }) => this.setState({ tabActiveIndex: activeIndex })

@@ -1,0 +1,31 @@
+.lessEffect_line {
+    width: 100%;
+    background-color: #e8e8e8;
+    border: 1px solid darkblue;
+}
+.lessEffect_lineNo {
+    float:left;
+    width:100px;
+    border: 1px solid blue;
+}
+.lessEffect_sentences {
+    margin: 0 auto;
+    text-align: left;
+    display: inline-block;
+}
+.lessEffect_sentence_pl {
+    float: left;
+    overflow: auto;
+    width: 400px;
+    background-color: antiquewhite;
+}
+.lessEffect_sentence_en {
+    float: left;
+    width: 400px;
+    background-color: azure;
+}
+.lessEffect_times {
+    float: right;
+    width: 100px;
+    border: 1px solid blue;
+}

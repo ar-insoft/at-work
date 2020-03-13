@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { Container } from "semantic-ui-react";
+import './LessonEffect.css';
 
 export const LessonEffect = ({ epNo }) => {
     const [lesson, setLesson] = useState([])
@@ -55,17 +56,17 @@ export const LessonEffect = ({ epNo }) => {
             {lesson.map((linia, index) => {
                 //let audioPart = (lesson.length > index) ? lesson[index] : ''
                 return (
-                    <div className="line">
-                        <div className="lineNo">
+                    <div className="lessEffect_line">
+                        <div className="lessEffect_lineNo">
                             {linia.lineNo}
                         </div>
-                        <div className="times">
+                        <div className="lessEffect_times">
                             <div>{linia.mp3Start}</div>
                             <div>{linia.mp3End}</div>
                         </div>
-                        <div className="sentences">
-                            <div className="" onClick={() => playPart(index)}>{linia.linePl}</div>
-                            <div className="" onClick={() => playPart(index)}>{linia.lineEn}</div>
+                        <div className="lessEffect_sentences">
+                            <div className="lessEffect_sentence_pl" onClick={() => playPart(index)}>{linia.linePl}</div>
+                            <div className="lessEffect_sentence_en" onClick={() => playPart(index)}>{linia.lineEn}</div>
                             {/* <Label className="zdanie" onClick={() => playPart(index)}>{linia.linePl}</Label>
                             <Label className="zdanie translation" onClick={() => playPart(index)}>{linia.lineEn}</Label> */}
                         </div>
