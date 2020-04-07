@@ -47,7 +47,7 @@ export const LessonEffect = ({ epNo }) => {
 
     return (
         <Container>
-            epNo = {epNo}
+            {/* epNo = {epNo} */}
             <audio id="track" src={mp3Path}
                 onTimeUpdate={onTimeUpdate}>
                 <p>Your browser does not support the audio element</p>
@@ -56,21 +56,23 @@ export const LessonEffect = ({ epNo }) => {
             {lesson.map((linia, index) => {
                 //let audioPart = (lesson.length > index) ? lesson[index] : ''
                 return (
-                    <div className="lessEffect_line">
-                        <div className="lessEffect_lineNo">
-                            {linia.lineNo}
-                        </div>
-                        <div className="lessEffect_times">
-                            <div>{linia.mp3Start}</div>
-                            <div>{linia.mp3End}</div>
-                        </div>
-                        <div className="lessEffect_sentences">
-                            <div className="lessEffect_sentence_pl" onClick={() => playPart(index)}>{linia.linePl}</div>
-                            <div className="lessEffect_sentence_en" onClick={() => playPart(index)}>{linia.lineEn}</div>
-                            {/* <Label className="zdanie" onClick={() => playPart(index)}>{linia.linePl}</Label>
-                            <Label className="zdanie translation" onClick={() => playPart(index)}>{linia.lineEn}</Label> */}
-                        </div>
-                        {/* <button type="button" onClick={() => this.playPart(index)} >play</button> */}
+                     <div className="less_line">
+                            <div className="less_line_left">
+                                <div className="less_line_lineNo padding">{linia.lineNo}</div>
+                                <div className="less_line_tekstPl padding" onClick={() => playPart(index)}>
+                                    {linia.linePl}
+                                </div>
+                            </div>
+                            <div className="less_line_right">
+                                <div className="less_line_tekstEn padding" onClick={() => playPart(index)}>
+                                    <div className="text_hidden">{linia.lineEn}</div>                                    
+                                </div>
+                                <div className="less_line_times padding">
+                                    <div>{linia.mp3Start}</div>
+                                    <div>{linia.mp3End}</div>
+                                </div>
+                            </div>
+
                     </div>
                 )
             })}

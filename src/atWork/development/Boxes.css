@@ -35,3 +35,38 @@
 div.parent div.child {
     color: black;
 }
+
+div.flex {
+     display: flex;
+}
+.box2a {
+    width: 200px;
+    border: 1px solid red;
+}
+/* ------------------------------------------------------------ */
+.box3left {
+    width: 50%;
+}
+.box3no {
+    width: 150px;
+    border: 1px solid red;
+}
+.box3tekstPl {
+    width: 100%;
+    text-align: right;
+    border: 1px solid darkblue;
+}
+.box3right {
+    width: 50%;
+    justify-content: flex-end;
+    border: 1px solid greenyellow;
+}
+.box3tekstEn {
+    width: 100%;
+    text-align: left;
+    border: 1px solid lightskyblue;
+}
+.box3times {
+    width: 150px;
+    border: 1px solid red;
+}

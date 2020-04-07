@@ -1,6 +1,52 @@
+.padding {
+    padding: 10px;
+}
+
+.less_line {
+    width: 100%;
+    display: flex;
+    border: 1px solid blue;
+    background-color: #e8e8e8;
+}
+.less_line_left {
+    width: 50%;
+    display: flex;
+}
+.less_line_lineNo {
+    width: 150px;
+    border: 1px solid red;
+}
+.less_line_tekstPl {
+    width: 100%;
+    text-align: left;
+    border: 1px solid darkblue;
+}
+.less_line_right {
+    width: 50%;
+    display: flex;
+    justify-content: flex-end;
+    border: 1px solid greenyellow;
+}
+.less_line_tekstEn {
+    width: 100%;
+    text-align: left;
+    border: 1px solid lightskyblue;
+}
+.text_hidden {
+    display: none;
+}
+.less_line_tekstEn:hover .text_hidden { 
+    display: block; 
+}
+.less_line_times {
+    width: 150px;
+    border: 1px solid red;
+}
+
+/* ------------------------------------ */
 .lessEffect_line {
     width: 100%;
-    background-color: #e8e8e8;
+    background-color: gold;
     border: 1px solid darkblue;
 }
 .lessEffect_lineNo {

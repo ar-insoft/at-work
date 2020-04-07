@@ -20,7 +20,7 @@ class Tabs extends Component {
                 menuItem: 'L ' + lessonNo,
                 render: () =>
                     <Tab.Pane>
-                        {index}
+                        {/* {index} */}
                         <LessonEffect epNo={lessonNo} />
                     </Tab.Pane>
             })
