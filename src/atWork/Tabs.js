@@ -15,7 +15,7 @@ class Tabs extends Component {
     }
 
     taby = () => [
-        ...['06','30'].map((lessonNo, index) => {
+        ...['01', '06', '21','30'].map((lessonNo, index) => {
             return ({
                 menuItem: 'L ' + lessonNo,
                 render: () =>

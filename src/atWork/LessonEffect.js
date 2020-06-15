@@ -5,6 +5,7 @@ import './LessonEffect.css';
 export const LessonEffect = ({ epNo }) => {
     const [lesson, setLesson] = useState([])
     const [timeToStopPlayingPart, setTimeToStopPlayingPart] = useState(null)
+    const [edit, setEdit] = useState(false)
 
     useEffect(() => {
         load(epNo)
@@ -45,8 +46,11 @@ export const LessonEffect = ({ epNo }) => {
         player.play()
     }
 
+    if(!edit)
     return (
-        <Container>
+        <>
+            <button onClick={() => setEdit(true)} className="header-button"><strong>edit</strong></button>
+            <Container>
             {/* epNo = {epNo} */}
             <audio id="track" src={mp3Path}
                 onTimeUpdate={onTimeUpdate}>
@@ -72,10 +76,56 @@ export const LessonEffect = ({ epNo }) => {
                                     <div>{linia.mp3End}</div>
                                 </div>
                             </div>
-
                     </div>
                 )
             })}
         </Container>
+        </>
+        )
+    if (edit)
+    return (
+        <>
+            <button onClick={() => setEdit(false)} className="header-button">stop edit</button>
+            <audio id="track" src={mp3Path}
+                onTimeUpdate={onTimeUpdate}>
+                <p>Your browser does not support the audio element</p>
+            </audio>
+
+            {lesson.map((linia, index) => {
+                //let audioPart = (lesson.length > index) ? lesson[index] : ''
+                return (
+                    <div className="less_line">
+                        <div className="less_line_left">
+                            <div className="less_line_tekstPl " onClick={() => playPart(index)}>
+                                <textarea id={"epPl" + index} name='textPl' value={linia.linePl} readOnly
+                                    className="lesson_edit_textarea" />
+                            </div>
+                        </div>
+                        <div className="less_line_lineNo padding">
+                            {linia.lineNo}
+                            <button onClick={() => alert('add '+ index)} className="">add</button>
+                            <button onClick={() => alert('jooin ' + index)} className="header-button">join</button>
+                        </div>
+                        <div className="less_line_right">
+                            <div className="less_line_times padding">
+                                <div>
+                                    <button onClick={() => alert('subStart ' + index)} className="">{'<'}</button>
+                                    {linia.mp3Start}
+                                    <button onClick={() => alert('addStart ' + index)} className="">{'>'}</button>
+                                </div>
+                                <div>
+                                    {linia.mp3End}
+
+                                </div>
+                            </div>
+                            <div className="less_line_tekstEn " onClick={() => playPart(index)}>
+                                <textarea id={"epPl" + index} name='textPl' value={linia.lineEn} readOnly
+                                    className="lesson_edit_textarea" />
+                            </div>
+                        </div>
+                    </div>
+                )
+            })}
+        </>
     )
 }
