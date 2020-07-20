@@ -25,9 +25,20 @@ export const LessonEffect = ({ epNo }) => {
 
     const save = () => {
         const fileName = 'ep' + epNo + '.json'
-
-        var blob = new Blob([JSON.stringify(lesson)], { type: "text/plain;charset=utf-8" });
+        const lessons = normalize()
+        var blob = new Blob([JSON.stringify(lessons)], { type: "text/plain;charset=utf-8" });
         saveAs(blob, fileName);
+    }
+    const normalize = () => {
+        const lessons = [...lesson]
+        for (let index = 0; index < lessons.length; index++) {
+            const element = lessons[index];
+            element.lineNo = index + 1
+            element.mp3Start = formatTime(element.mp3Start)
+            element.mp3End = formatTime(element.mp3End)
+        }
+        setLesson(lessons)
+        return lessons
     }
 
     const onTimeUpdate = () => {
