@@ -1,7 +1,11 @@
 .App {
   text-align: center;
 }
-
+.wrapped {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
 .line {
   width: 100%;
   background-color: #e8e8e8;

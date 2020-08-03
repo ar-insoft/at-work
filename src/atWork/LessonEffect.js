@@ -5,6 +5,8 @@ import './LessonEffect.css';
 
 export const LessonEffect = ({ epNo }) => {
     const [lesson, setLesson] = useState([])
+    const [status, setStatus] = useState('...')
+    const [jsonLoaded, setJsonLoaded] = useState(false)
     const [timeToStopPlayingPart, setTimeToStopPlayingPart] = useState(null)
     const [playingIndex, setPlayingIndex] = useState(null)
     const [currentPlayingTime, setCurrentPlayingTime] = useState(null)
@@ -15,13 +17,25 @@ export const LessonEffect = ({ epNo }) => {
     }, [epNo])
 
     async function load(epNo) {
-        const jsonName = '/data/ep' + epNo + '.json'
+        const jsonName = '/atWork/ep' + epNo + '.json'
         const response = await fetch(jsonName);
+        const contentType = response.headers.get("content-type")
+        const contentTypeOk = contentType && contentType.indexOf("application/json") !== -1
+        //console.log('contentType ' + epNo, contentType)
+        //console.log('response ' + epNo, response)
+        if (!response.ok || !contentTypeOk) {
+            setStatus('no json')
+            setLesson([])
+            setJsonLoaded(false)
+            return
+        }
         const myJson = await response.json();
+        setStatus('')
         setLesson(myJson)
+        setJsonLoaded(true)
     }
             
-    const mp3Path = '/data/ep' + epNo + '.mp3'
+    const mp3Path = '/atWork/ep' + epNo + '.mp3'
 
     const save = () => {
         const fileName = 'ep' + epNo + '.json'
@@ -126,11 +140,17 @@ export const LessonEffect = ({ epNo }) => {
         }
         return num
     }
+    if (!jsonLoaded)
+        return (
+            <>
+                {epNo} {status}
+            </>
+        )
 
     if(!edit)
     return (
         <>
-            <button onClick={() => setEdit(true)} className="header-button"><strong>edit</strong></button>
+            <button onClick={() => setEdit(true)} className="header-button"><strong>edit</strong></button> {epNo} {status}
             <Container>
             {/* epNo = {epNo} */}
             <audio id="track" src={mp3Path}

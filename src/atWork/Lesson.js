@@ -18,7 +18,7 @@ class Lesson extends Component {
 
     async load() {
         const epNo = this.props.epNo
-        const jsonName = '/data/ep' + epNo + '.json'
+        const jsonName = '/atWork/ep' + epNo + '.json'
         const response = await fetch(jsonName);
         const myJson = await response.json();
         this.setState({ lesson: myJson })
@@ -53,7 +53,7 @@ class Lesson extends Component {
 
     render() {
         const epNo = this.props.epNo
-        const mp3Path = '/data/ep' + epNo + '.mp3'
+        const mp3Path = '/atWork/ep' + epNo + '.mp3'
         return (
             <Container>
                 epNo = {epNo}
