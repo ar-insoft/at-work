@@ -1,0 +1,331 @@
+[
+	{
+		"lineNo": 0,
+		"lineEn": "Paul:   Good afternoon.",
+		"linePl": "Paul: Dzień dobry.\r",
+		"mp3Start": "1.5",
+		"mp3End": "5"
+	},
+	{
+		"lineNo": 1,
+		"lineEn": "Anna & Tom: Hi, good afternoon.",
+		"linePl": "Anna i Tom: Cześć, dzień dobry.\r",
+		"mp3Start": "5",
+		"mp3End": "6.9"
+	},
+	{
+		"lineNo": 2,
+		"lineEn": "Paul:   Anna, Tom, room 301 please. Now.",
+		"linePl": "Paul: Anna, Tom, pokój 301 proszę. Teraz.\r",
+		"mp3Start": "6.9",
+		"mp3End": "11"
+	},
+	{
+		"lineNo": 3,
+		"lineEn": "Narrator: Welcome back to Tip Top Trading, where things are a teeny bit tense today. Paul has called Tom and Anna into room 301, the place where difficult conversations happen. Perhaps Paul has found out about yesterday's unhappy clients.",
+		"linePl": "Narrator: Witaj ponownie w Tip Top Trading, gdzie rzeczy są trochę spięte dzisiaj. Paul nazwał Toma i Annę w pokoju 301, miejscu, w którym dochodzi do trudnych rozmów. Być może Paul się o tym dowiedział wczorajsi nieszczęśliwi klienci.\r",
+		"mp3Start": "11",
+		"mp3End": "28.8"
+	},
+	{
+		"lineNo": 4,
+		"lineEn": "Anna:   Oh dear.",
+		"linePl": "Anna: Oh kochanie.\r",
+		"mp3Start": "28.8",
+		"mp3End": "30.1"
+	},
+	{
+		"lineNo": 5,
+		"lineEn": "Narrator: You should be okay Anna. After the way you coped with Mr Lime, you should be praised.",
+		"linePl": "Narrator: Powinieneś być w porządku Anna. Po tym, jak poradziłeś sobie z panem Lime, ty powinny być chwalone.\r",
+		"mp3Start": "30.1",
+		"mp3End": "36.3"
+	},
+	{
+		"lineNo": 6,
+		"lineEn": "Anna:   Really? What do you think Paul will say?",
+		"linePl": "Anna: Naprawdę? Jak myślisz, co powie Paul?\r",
+		"mp3Start": "36.3",
+		"mp3End": "39.3"
+	},
+	{
+		"lineNo": 7,
+		"lineEn": "Narrator: Well, if he is pleased, he'll say things like:",
+		"linePl": "Narrator: Cóż, jeśli jest zadowolony, powie coś takiego jak:\r",
+		"mp3Start": "39.3",
+		"mp3End": "42.4"
+	},
+	{
+		"lineNo": 8,
+		"lineEn": "Well done.",
+		"linePl": "Dobra robota.\r",
+		"mp3Start": "42.4",
+		"mp3End": "43.5"
+	},
+	{
+		"lineNo": 9,
+		"lineEn": "You handled it well.",
+		"linePl": "Dobrze sobie z tym poradziłeś.\r",
+		"mp3Start": "43.5",
+		"mp3End": "45.4"
+	},
+	{
+		"lineNo": 10,
+		"lineEn": "Great job.",
+		"linePl": "Dobra robota.\r",
+		"mp3Start": "45.4",
+		"mp3End": "46.8"
+	},
+	{
+		"lineNo": 11,
+		"lineEn": "I'm really impressed.",
+		"linePl": "Jestem pod wrażeniem.\r",
+		"mp3Start": "46.8",
+		"mp3End": "49"
+	},
+	{
+		"lineNo": 12,
+		"lineEn": "Anna:  And if he's not?",
+		"linePl": "Anna: A jeśli nie jest?\r",
+		"mp3Start": "49",
+		"mp3End": "50.9"
+	},
+	{
+		"lineNo": 13,
+		"lineEn": "Narrator: Well, I suppose – oop. Here’s Paul now!",
+		"linePl": "Narrator: Cóż, przypuszczam - oop. Oto Paul teraz!\r",
+		"mp3Start": "50.9",
+		"mp3End": "54.7"
+	},
+	{
+		"lineNo": 14,
+		"lineEn": "Paul: Well, Tom, Anna... Yesterday was not a great day. Two clients came in with serious complaints. Mrs Kumquat received a delivery of imitation bananas that were purple, not very convincing. And Mr Lime ordered grapefruits, but got pineapples. Tom.",
+		"linePl": "Paul: Cóż, Tom, Anna ... Wczoraj nie był wspaniały dzień. Przyszło dwóch klientów poważne skargi. Pani Kumquat otrzymała dostawę imitacji bananów które były purpurowe, niezbyt przekonujące. A pan Lime zamówił grapefruity, ale dostałem ananasy. Tomek.\r",
+		"mp3Start": "54.7",
+		"mp3End": "78.3"
+	},
+	{
+		"lineNo": 15,
+		"lineEn": "Tom:   Yes.",
+		"linePl": "Tom: Tak.\r",
+		"mp3Start": "78.3",
+		"mp3End": "79.8"
+	},
+	{
+		"lineNo": 16,
+		"lineEn": "Paul:   Were you responsible for these errors?",
+		"linePl": "Paul: Czy jesteś odpowiedzialny za te błędy?\r",
+		"mp3Start": "79.8",
+		"mp3End": "81.4"
+	},
+	{
+		"lineNo": 17,
+		"lineEn": "Tom:   Well... yes, but…",
+		"linePl": "Tom: Cóż ... tak, ale ...\r",
+		"mp3Start": "81.4",
+		"mp3End": "84.3"
+	},
+	{
+		"lineNo": 18,
+		"lineEn": "Paul:   Look, mistakes happen. But it seems that Mrs Kumquat left our offices even angrier than when she came in and she says she will never use Tip Top Trading again.",
+		"linePl": "Paul: Słuchaj, błędy się zdarzają. Wygląda jednak na to, że pani Kumquat opuściła nasze biura jeszcze bardziej wściekła niż kiedy weszła i mówi, że nigdy nie użyje Tipa Przejdź ponownie do Top Trading.\r",
+		"mp3Start": "84.3",
+		"mp3End": "93.8"
+	},
+	{
+		"lineNo": 19,
+		"lineEn": "Tom:   I tried my best.",
+		"linePl": "Tom: Starałem się jak mogłem.\r",
+		"mp3Start": "93.8",
+		"mp3End": "96.6"
+	},
+	{
+		"lineNo": 20,
+		"lineEn": "Paul:  Hmmm. I understand you told her to spray-paint the bananas and to 'stop being such a miserable old witch'.",
+		"linePl": "Paul: Hmmm. Rozumiem, że powiedziałeś jej, żeby malowała sprayem banany i \"przestań będąc tak nieszczęsną starą czarownicą \".\r",
+		"mp3Start": "96.6",
+		"mp3End": "102.8"
+	},
+	{
+		"lineNo": 21,
+		"lineEn": "Tom: Yeah, well look, she'd been very rude to me.",
+		"linePl": "Tom: Tak, dobrze, była dla mnie bardzo niegrzeczna.\r",
+		"mp3Start": "102.8",
+		"mp3End": "105.9"
+	},
+	{
+		"lineNo": 22,
+		"lineEn": "Paul:   If you weren't such a good salesman I would fire you for that. Anna.",
+		"linePl": "Paul: Gdybyś nie był takim dobrym sprzedawcą, wystrzeliłbym cię za to. Ania.\r",
+		"mp3Start": "105.9",
+		"mp3End": "109.3"
+	},
+	{
+		"lineNo": 23,
+		"lineEn": "Anna:   Yes.",
+		"linePl": "Anna: Tak.\r",
+		"mp3Start": "109.3",
+		"mp3End": "110.5"
+	},
+	{
+		"lineNo": 24,
+		"lineEn": "Paul:   Well done. Not only was Mr Lime satisfied that his problem would be resolved, but we might even get some extra business from him, thanks to your Imperial Lemon proposal.",
+		"linePl": "Paul: Dobra robota. Pan Lime nie tylko był zadowolony, że jego problem będzie rozwiązany, ale dzięki temu możemy otrzymać od niego dodatkowe usługi twoją propozycję Imperial Lemon.\r",
+		"mp3Start": "110.5",
+		"mp3End": "121.4"
+	},
+	{
+		"lineNo": 25,
+		"lineEn": "Anna:   I hope so.",
+		"linePl": "Anna: Mam nadzieję.\r",
+		"mp3Start": "121.4",
+		"mp3End": "122.6"
+	},
+	{
+		"lineNo": 26,
+		"lineEn": "Paul:   You were in a difficult situation and you handled it well. You remained calm, friendly and professional. So, great job. I'm really impressed. I'm going to…",
+		"linePl": "Paul: Byłeś w trudnej sytuacji i dobrze sobie z tym radziłeś. Zostałaś spokojny, przyjazny i profesjonalny. Świetna robota. Jestem pod wrażeniem. Jestem zamierzam…\r",
+		"mp3Start": "122.6",
+		"mp3End": "135.8"
+	},
+	{
+		"lineNo": 27,
+		"lineEn": "(phone rings)",
+		"linePl": "(telefon dzwoni)\r",
+		"mp3Start": "135.8",
+		"mp3End": "136.9"
+	},
+	{
+		"lineNo": 28,
+		"lineEn": "Paul:   Who's that? Oh no. It's a call from the USA.",
+		"linePl": "Paul: Kto to jest? O nie. To połączenie z USA.\r",
+		"mp3Start": "136.9",
+		"mp3End": "139.5"
+	},
+	{
+		"lineNo": 29,
+		"lineEn": "Tom:   Oh god!",
+		"linePl": "Tom: O Boże!\r",
+		"mp3Start": "139.5",
+		"mp3End": "141.1"
+	},
+	{
+		"lineNo": 30,
+		"lineEn": "Anna:   What?",
+		"linePl": "Anna: Co?\r",
+		"mp3Start": "141.1",
+		"mp3End": "142.7"
+	},
+	{
+		"lineNo": 31,
+		"lineEn": "Tom: It’s the boss!",
+		"linePl": "Tom: To szef!\r",
+		"mp3Start": "142.7",
+		"mp3End": "143.7"
+	},
+	{
+		"lineNo": 32,
+		"lineEn": "Anna:  Whose boss?",
+		"linePl": "Anna: Czyj szef?\r",
+		"mp3Start": "143.7",
+		"mp3End": "144.9"
+	},
+	{
+		"lineNo": 33,
+		"lineEn": "Tom:  Ours! The big, big boss, based in America.",
+		"linePl": "Tom: Nasze! Wielki, wielki szef z siedzibą w Ameryce.\r",
+		"mp3Start": "144.9",
+		"mp3End": "148.5"
+	},
+	{
+		"lineNo": 34,
+		"lineEn": "Paul:  Shhhh! (on the phone) Hellooo? Ah, good afternoon Mr Socrates, I mean, er- morning, ha ha, where you are it's … yes, no, n-yes …. I'm not sure. Mrs Kumquat … did she? … well, it was very unfortunate …. purple, yes …. totally unacceptable …. I will. If you'd like I could …. Mr Socrates? Hello? Mr Socrates? Oh, he's gone.",
+		"linePl": "Paul: Ciii! (przez telefon) Hellooo? Ach, dzień dobry, panie Socrates, mam na myśli, er- rano, ha ha, gdzie jesteś ... tak, nie, n-tak .... Nie jestem pewny. Pani Kumquat ... prawda? ... cóż, to było bardzo niefortunne .... fioletowy, tak .... całkowicie nie do przyjęcia .... Będę. Jeśli chcesz, mogę .... Panie Socrates? Dzień dobry? Panie Socrates? Och, już go nie ma.\r",
+		"mp3Start": "148.5",
+		"mp3End": "183.4"
+	},
+	{
+		"lineNo": 35,
+		"lineEn": "Right where was I? Tom, great work. Anna, I'm disappointed. No, no, Anna, great work, I want you to take charge of the Imperial Lemon presentation. Tom, if you speak to a client like that again there will be disciplinary action. Mrs Kumquat was so angry she even emailed Mr Socrates. Ok, that’s it.",
+		"linePl": "Właśnie gdzie byłem? Tom, świetna robota. Anna, jestem rozczarowany. Nie? Nie, Anna, świetna robota, chcę, żebyś przejął Imperial Lemon prezentacja. Tom, jeśli znowu będziesz rozmawiał z takim klientem, to będzie postępowanie dyscyplinarne. Pani Kumquat była tak wściekła, że wysłała nawet e-maila do pana\r Sokrates. Ok, to wszystko.\r",
+		"mp3Start": "183.4",
+		"mp3End": "208.9"
+	},
+	{
+		"lineNo": 36,
+		"lineEn": "Narrator: Phew! What a relief for Anna. Let's listen again to some of the phrases Paul used to praise her:",
+		"linePl": "Narrator: Uff! Co za ulga dla Anny. Posłuchajmy jeszcze paru zdań, które Paul\r uwielbiał ją:\r",
+		"mp3Start": "208.9",
+		"mp3End": "220.8"
+	},
+	{
+		"lineNo": 37,
+		"lineEn": "Well done.",
+		"linePl": "Dobra robota.\r",
+		"mp3Start": "220.8",
+		"mp3End": "222.1"
+	},
+	{
+		"lineNo": 38,
+		"lineEn": "You were in a difficult situation and you handled it well.",
+		"linePl": "Byłeś w trudnej sytuacji i dobrze sobie z tym poradziłeś.\r",
+		"mp3Start": "222.1",
+		"mp3End": "226.2"
+	},
+	{
+		"lineNo": 39,
+		"lineEn": "So, great job. I'm really impressed.",
+		"linePl": "Świetna robota. Jestem pod wrażeniem.\r",
+		"mp3Start": "226.2",
+		"mp3End": "229.7"
+	},
+	{
+		"lineNo": 40,
+		"lineEn": "He also explained why he thought Anna had done a good job:",
+		"linePl": "Wyjaśnił także, dlaczego uważał, że Anna wykonała dobrą robotę:\r",
+		"mp3Start": "229.7",
+		"mp3End": "235.3"
+	},
+	{
+		"lineNo": 41,
+		"lineEn": "You remained calm, friendly and professional.",
+		"linePl": "Zachowałeś spokój, przyjaźń i profesjonalizm.\r",
+		"mp3Start": "235.3",
+		"mp3End": "239.5"
+	},
+	{
+		"lineNo": 42,
+		"lineEn": "Excellent work Anna. But Tom's mistakes have given everyone a lot of work to do tomorrow.",
+		"linePl": "Doskonała robota Anna. Ale błędy Toma dały wszystkim bardzo dużo do zrobienia jutro.\r",
+		"mp3Start": "239.5",
+		"mp3End": "245.5"
+	},
+	{
+		"lineNo": 43,
+		"lineEn": "Paul:  First thing tomorrow we need to sort this mess out. Tom, I want you to phone every single client and check the orders. Anna, you can go to the warehouse and find out what's going on in there!",
+		"linePl": "Paul: Po pierwsze jutro musimy rozwiązać ten bałagan. Tom, chcę, żebyś zadzwoń do każdego klienta i sprawdź zamówienia. Anna, możesz iść do magazyn i dowiedz się, co się tam dzieje!\r",
+		"mp3Start": "245.5",
+		"mp3End": "256.8"
+	},
+	{
+		"lineNo": 44,
+		"lineEn": "• Listening comprehension question",
+		"linePl": "· Pytanie ze słuchania ze zrozumieniem\r",
+		"mp3Start": "",
+		"mp3End": ""
+	},
+	{
+		"lineNo": 45,
+		"lineEn": "In which country is the ‘big boss’ of Tip Top Trading based?",
+		"linePl": "W którym kraju ma siedzibę \"wielki szef\" Tip Top Trading?\r",
+		"mp3Start": "",
+		"mp3End": ""
+	},
+	{
+		"lineNo": 46,
+		"lineEn": "America / United States",
+		"linePl": "Ameryka / Stany Zjednoczone",
+		"mp3Start": "",
+		"mp3End": ""
+	}
+]
