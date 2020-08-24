@@ -1,107 +1,100 @@
 [
 	{
-		"lineNo": 0,
+		"lineNo": 1,
 		"lineEn": "Narrator:  Welcome back to English at Work. We're still in Anna's first week in the busy offices of Tip Top Trading. How's it going Anna?",
 		"linePl": "Narrator: Witamy ponownie w języku angielskim w pracy. Nadal jesteśmy w pierwszym tygodniu Anny w zajęte biura Tip Top Trading. Jak leci Anna?\r",
-		"mp3Start": "1.5",
+		"mp3Start": "3.6",
 		"mp3End": "13.5"
 	},
 	{
-		"lineNo": 1,
+		"lineNo": 2,
 		"lineEn": "Anna:  Everything's still so new to me. I keep needing to ask people for help!",
 		"linePl": "Anna: Wszystko jest dla mnie wciąż nowe. Wciąż muszę prosić ludzi o pomoc!\r",
 		"mp3Start": "13.5",
-		"mp3End": "19.2"
-	},
-	{
-		"lineNo": 2,
-		"lineEn": "Narrator:  Well, that's only natural at the beginning. To ask people politely for help use the words would and could. You can also use the word please, but don't make the mistake of thinking's enough to make what you say polite.",
-		"linePl": "Narrator: Cóż, na początku jest to naturalne. Prosić grzecznie ludzi o pomoc użyj słów would i could. Możesz także użyć słowa please, ale nie popełnij błędu w myśleniu, że to wystarczy aby to co mówisz było uprzejme.\r",
-		"mp3Start": "19.2",
-		"mp3End": "37.5"
+		"mp3End": "19.0"
 	},
 	{
 		"lineNo": 3,
-		"lineEn": "Anna:  Er, ok.",
-		"linePl": "Anna: Er, ok.\r",
-		"mp3Start": "37.5",
-		"mp3End": "38.3"
+		"lineEn": "Narrator:  Well, that's only natural at the beginning. To ask people politely for help use the words would and could. ",
+		"linePl": "Narrator: Cóż, na początku jest to naturalne. Prosić grzecznie ludzi o pomoc użyj słów would i could. \n",
+		"mp3Start": "19.0",
+		"mp3End": "26.6"
 	},
 	{
+		"linePl": "Możesz także użyć słowa please, ale nie popełnij błędu w myśleniu, że to wystarczy aby to co mówisz było uprzejme.",
+		"lineEn": "You can also use the word please, but don't make the mistake of thinking's enough to make what you say polite.",
 		"lineNo": 4,
-		"lineEn": "Paul: Hello Anna!",
-		"linePl": "Paul: Witaj Anno!\r",
-		"mp3Start": "38.3",
-		"mp3End": "41.2"
+		"mp3Start": "26.6",
+		"mp3End": "36.0"
 	},
 	{
 		"lineNo": 5,
-		"lineEn": "Anna:  Oh hi, Paul!",
-		"linePl": "Anna: Cześć, Paul!\r",
-		"mp3Start": "41.2",
-		"mp3End": "42.9"
+		"lineEn": "Anna:  Er, ok.",
+		"linePl": "Anna: Er, ok.\r",
+		"mp3Start": "36.0",
+		"mp3End": "37.5"
 	},
 	{
 		"lineNo": 6,
-		"lineEn": "Paul:  I was wondering if you could do something for me?",
-		"linePl": "Paul: Zastanawiałem się, czy możesz coś dla mnie zrobić?\r",
-		"mp3Start": "42.9",
-		"mp3End": "45.6"
+		"lineEn": "Paul: Hello Anna! Anna:  Oh hi, Paul!",
+		"linePl": "Paul: Witaj Anno!\r Anna: Cześć, Paul!\r",
+		"mp3Start": "38.3",
+		"mp3End": "42.5"
 	},
 	{
 		"lineNo": 7,
-		"lineEn": "Anna:   Yes of course.",
-		"linePl": "Anna: Tak, oczywiście.\r",
-		"mp3Start": "45.6",
+		"lineEn": "Paul:  I was wondering if you could do something for me? Anna:   Yes of course.",
+		"linePl": "Paul: Zastanawiałem się, czy możesz coś dla mnie zrobić?\r Anna: Tak, oczywiście.\r",
+		"mp3Start": "42.5",
 		"mp3End": "46.5"
 	},
 	{
 		"lineNo": 8,
-		"lineEn": "Paul:   Would you be able print out a file for me? It's a document on CBL – Convincing Bananas Limited – they're one of our suppliers. The file should be on the system and could I have it in the next ten minutes please, as they're on their way here for a meeting?",
-		"linePl": "Paul: Czy byłbyś w stanie wydrukować plik dla mnie? To jest dokument dotyczący CBL - Convincing Bananas Limited - to jeden z naszych dostawców. Plik powinien być w systemie i czy mogę go mieć w ciągu następnych dziesięciu minut proszę, bo oni są w drodze tutaj na spotkanie?\r",
-		"mp3Start": "46.5",
-		"mp3End": "61.8"
+		"lineEn": "Paul:   Would you be able print out a file for me? It's a document on CBL – Convincing Bananas Limited – they're one of our suppliers. ",
+		"linePl": "Paul: Czy byłbyś w stanie wydrukować plik dla mnie? To jest dokument dotyczący CBL - Convincing Bananas Limited - to jeden z naszych dostawców. ",
+		"mp3Start": "46.3",
+		"mp3End": "54.5"
 	},
 	{
+		"linePl": "Plik powinien być w systemie i czy mogę go mieć w ciągu następnych dziesięciu minut proszę, bo oni są w drodze tutaj na spotkanie?\n",
+		"lineEn": "The file should be on the system and could I have it in the next ten minutes please, as they're on their way here for a meeting?",
 		"lineNo": 9,
-		"lineEn": "Anna:   Yes. Oh no, I've no idea how to find it! Tom...?!",
-		"linePl": "Anna: Tak. O nie, nie mam pojęcia, jak to znaleźć! Tom...?!\r",
-		"mp3Start": "61.8",
-		"mp3End": "66.5"
+		"mp3Start": "54.6",
+		"mp3End": "61.4"
 	},
 	{
 		"lineNo": 10,
-		"lineEn": "Tom:  Er, ask Denise. She should know.",
-		"linePl": "Tom: Er, zapytaj Denise. Powinna wiedzieć.\r",
-		"mp3Start": "66.5",
-		"mp3End": "71.4"
+		"lineEn": "Anna:   Yes. Oh no, I've no idea how to find it! ",
+		"linePl": "Anna: Tak. O nie, nie mam pojęcia, jak to znaleźć! \n",
+		"mp3Start": "61.5",
+		"mp3End": "65.6"
 	},
 	{
 		"lineNo": 11,
-		"lineEn": "Anna: Ok, thanks Tom, I'll ask her.",
-		"linePl": "Anna: Ok, dzięki Tom, zapytam ją.\r",
-		"mp3Start": "71.4",
-		"mp3End": "73.6"
+		"lineEn": "Tom...?! Tom:  Er, ask Denise. She should know.",
+		"linePl": "Tom...?! Tom: Er, zapytaj Denise. Powinna wiedzieć.\n",
+		"mp3Start": "66.6",
+		"mp3End": "71.0"
 	},
 	{
 		"lineNo": 12,
-		"lineEn": "Denise: (on the phone to Sharon) I'd warned her, you know, I said 'Victoria, if you don't change your hairdresser-",
-		"linePl": "Denise: (przez telefon do Sharon) Ostrzegłem ją, wiesz, powiedziałem „Victoria, jeśli ty nie zmienisz fryzjera\r",
-		"mp3Start": "73.6",
-		"mp3End": "83.1"
+		"lineEn": "Anna: Ok, thanks Tom, I'll ask her.",
+		"linePl": "Anna: Ok, dzięki Tom, zapytam ją.\r",
+		"mp3Start": "71.0",
+		"mp3End": "73.6"
 	},
 	{
 		"lineNo": 13,
-		"lineEn": "Anna:   Denise?",
-		"linePl": "Anna: Denise?\r",
-		"mp3Start": "83.1",
-		"mp3End": "84.1"
+		"lineEn": "Denise: (on the phone to Sharon) I'd warned her, you know, I said 'Victoria, if you don't change your hairdresser-",
+		"linePl": "Denise: (przez telefon do Sharon) Ostrzegłem ją, wiesz, powiedziałem „Victoria, jeśli ty nie zmienisz fryzjera\r",
+		"mp3Start": "78.0",
+		"mp3End": "82.4"
 	},
 	{
 		"lineNo": 14,
-		"lineEn": "Denise: One day you'll… hold on a moment. Anna?",
-		"linePl": "Denise: Któregoś dnia… chwileczkę. Ania?\r",
-		"mp3Start": "84.1",
+		"lineEn": "Anna:   Denise? Denise: One day you'll… hold on a moment. Anna?",
+		"linePl": "Anna: Denise?\r Denise: Któregoś dnia… chwileczkę. Ania?\r",
+		"mp3Start": "82.5",
 		"mp3End": "87.7"
 	},
 	{
@@ -109,56 +102,56 @@
 		"lineEn": "Anna:   Please email me the background file on CBL.",
 		"linePl": "Anna: Proszę prześlij do mnie plik background o CBL.\r",
 		"mp3Start": "87.7",
-		"mp3End": "91"
+		"mp3End": "90.9"
 	},
 	{
 		"lineNo": 16,
-		"lineEn": "Denise: Er!",
-		"linePl": "Denise: Er!\r",
+		"lineEn": "Denise: Er! Anna:   Thank you.",
+		"linePl": "Denise: Er!\r Anna: Dziękuję.\r",
 		"mp3Start": "91",
-		"mp3End": "91.9"
-	},
-	{
-		"lineNo": 17,
-		"lineEn": "Anna:   Thank you.",
-		"linePl": "Anna: Dziękuję.\r",
-		"mp3Start": "91.9",
 		"mp3End": "93.4"
 	},
 	{
-		"lineNo": 18,
-		"lineEn": "Denise: (on the phone) Who does that girl think she is?... Anna... new girl... I told you about her... yes with the saucepans, that's the one. She's only been here five minutes and she's already acting like the Queen of Sheba...",
-		"linePl": "Denise: (przez telefon) Ta dziewczyna myśli że kim jest? Anna ... nowa dziewczyna ... Mówiłam ci o niej ... tak z rondelkami, to ta. Była tylko tutaj pięć minut, a ona już zachowuje się jak Królowa Saba ...\r",
+		"lineNo": 17,
+		"lineEn": "Denise: (on the phone) Who does that girl think she is?... Anna... new girl... I told you about her... yes with the saucepans, that's the one. ",
+		"linePl": "Denise: (przez telefon) Ta dziewczyna myśli że kim jest? Anna ... nowa dziewczyna ... Mówiłam ci o niej ... tak z rondelkami, to ta. \n",
 		"mp3Start": "93.4",
+		"mp3End": "104.0"
+	},
+	{
+		"linePl": "Była tylko tutaj pięć minut, a ona już zachowuje się jak Królowa Saba ...",
+		"lineEn": "She's only been here five minutes and she's already acting like the Queen of Sheba...",
+		"lineNo": 18,
+		"mp3Start": "104.0",
 		"mp3End": "109.8"
 	},
 	{
 		"lineNo": 19,
 		"lineEn": "Anna:   Oh and Denise, please send it to me within five minutes, Paul needs it soon. Thank you.",
 		"linePl": "Anna: Oh i Denise, proszę, wyślij mi to w ciągu pięciu minut, Paul potrzebuje wkrótce. Dziękuję Ci.\r",
-		"mp3Start": "109.8",
-		"mp3End": "117.1"
+		"mp3Start": "112.0",
+		"mp3End": "116.8"
 	},
 	{
 		"lineNo": 20,
 		"lineEn": "Denise: Really!",
 		"linePl": "Denise: Naprawdę!\r",
 		"mp3Start": "117.1",
-		"mp3End": "120.1"
+		"mp3End": "119.6"
 	},
 	{
 		"lineNo": 21,
 		"lineEn": "Tom:  He he, good to see who's the boss, eh Denise?",
 		"linePl": "Tom: On, dobrze wiedzieć, kto jest szefem, co, Denise?\r",
-		"mp3Start": "120.1",
-		"mp3End": "122.6"
+		"mp3Start": "119.7",
+		"mp3End": "121.8"
 	},
 	{
 		"lineNo": 22,
 		"lineEn": "Denise: Really!",
 		"linePl": "Denise: Naprawdę!\r",
-		"mp3Start": "122.6",
-		"mp3End": "123.7"
+		"mp3Start": "121.8",
+		"mp3End": "123.1"
 	},
 	{
 		"lineNo": 23,
@@ -179,21 +172,21 @@
 		"lineEn": "Narrator:  You were a bit rude when you asked her to help.",
 		"linePl": "Narrator: Byłeś trochę niegrzeczny, kiedy poprosiłeś ją o pomoc.\r",
 		"mp3Start": "129.1",
-		"mp3End": "132.5"
+		"mp3End": "131.2"
 	},
 	{
 		"lineNo": 26,
 		"lineEn": "Anna:   Was I?",
 		"linePl": "Anna: Byłam?\r",
-		"mp3Start": "132.5",
-		"mp3End": "132.9"
+		"mp3Start": "131.3",
+		"mp3End": "132.6"
 	},
 	{
 		"lineNo": 27,
 		"lineEn": "Narrator: Remember what I said Anna. Just using ‘please’ to ask someone to do something can sound a little rude.",
 		"linePl": "Narrator: Pamiętaj, co powiedziałem Annie. Wystarczy użyć „proszę”, aby poprosić kogoś o zrobienie coś może brzmieć trochę niegrzecznie.\r",
-		"mp3Start": "132.9",
-		"mp3End": "140"
+		"mp3Start": "132.6",
+		"mp3End": "139.8"
 	},
 	{
 		"lineNo": 28,
@@ -206,28 +199,28 @@
 		"lineNo": 29,
 		"lineEn": "Narrator: Instead of saying 'Please send me the file' you could say 'Could you possibly send me the file?' or 'Would you mind sending me the file?'",
 		"linePl": "Narrator: Zamiast powiedzieć „Prześlij mi plik”, możesz powiedzieć „Mogę może wysłać mi plik? lub „Czy miałbyś coś przeciwko przesłaniu mi pliku?”\r",
-		"mp3Start": "141.3",
-		"mp3End": "147.8"
+		"mp3Start": "141.0",
+		"mp3End": "150.1"
 	},
 	{
 		"lineNo": 30,
 		"lineEn": "Anna:   Oh! English is so confusing! I'll try to remember that. Oh no, the printer isn't even set up! Tom?",
 		"linePl": "Anna: Oh! Angielski jest bardzo mylący! Spróbuję to zapamiętać. O nie, drukarka nawet nie jest skonfigurowany! Tomek?\r",
-		"mp3Start": "147.8",
-		"mp3End": "152"
+		"mp3Start": "150.6",
+		"mp3End": "160.0"
 	},
 	{
 		"lineNo": 31,
 		"lineEn": "Tom:  Yeah?",
 		"linePl": "Tom: Tak?\r",
-		"mp3Start": "152",
+		"mp3Start": "160.2",
 		"mp3End": "161.6"
 	},
 	{
 		"lineNo": 32,
 		"lineEn": "Anna:  Please help me with…I mean, could you possibly help me with the printer?",
 		"linePl": "Anna: Proszę, pomóż mi… Mam na myśli, czy mógłbyś mi pomóc z drukarką?\r",
-		"mp3Start": "161.6",
+		"mp3Start": "161.1",
 		"mp3End": "166.6"
 	},
 	{
@@ -235,34 +228,34 @@
 		"lineEn": "Tom:  Er... I need to finish this email to a really important new client.",
 		"linePl": "Tom: Er ... muszę dokończyć ten e-mail do naprawdę ważnego nowego klienta.\r",
 		"mp3Start": "166.6",
-		"mp3End": "173"
+		"mp3End": "172.8"
 	},
 	{
 		"lineNo": 34,
 		"lineEn": "Anna: But it's really urgent. Would you mind writing your email later?",
 		"linePl": "Anna: Ale to naprawdę pilne. Czy mógłbyś napisać swój e-mail później?\r",
-		"mp3Start": "173",
-		"mp3End": "179.1"
+		"mp3Start": "172.7",
+		"mp3End": "178.8"
 	},
 	{
 		"lineNo": 35,
 		"lineEn": "Tom:  Okay, since you asked so nicely. Let's have a look...",
 		"linePl": "Tom: Dobra, skoro tak ładnie prosiłeś. Spójrzmy...\r",
-		"mp3Start": "179.1",
+		"mp3Start": "178.8",
 		"mp3End": "183.2"
 	},
 	{
 		"lineNo": 36,
 		"lineEn": "Narrator: Well, it's a good thing Anna has understood how to use 'could' and 'would' to ask for things, before she upsets anyone else. Let's hear those phrases again:",
 		"linePl": "Narrator: Cóż, dobrze, że Anna zrozumiała, jak używać „mógł” i „chciałby” prosić o rzeczy, zanim zdenerwuje kogokolwiek innego. Posłuchajmy tych zwrotów jeszcze raz:\r",
-		"mp3Start": "183.2",
-		"mp3End": "195.8"
+		"mp3Start": "185.3",
+		"mp3End": "195.4"
 	},
 	{
 		"lineNo": 37,
 		"lineEn": "Paul:  I was wondering if you could do something for me?",
 		"linePl": "Paul: Zastanawiałem się, czy możesz coś dla mnie zrobić?\r",
-		"mp3Start": "195.8",
+		"mp3Start": "195.9",
 		"mp3End": "198.9"
 	},
 	{
@@ -270,42 +263,42 @@
 		"lineEn": "Paul:  Would you be able print out a file for me?",
 		"linePl": "Paul: Czy byłbyś w stanie wydrukować plik dla mnie?\r",
 		"mp3Start": "198.9",
-		"mp3End": "206.5"
+		"mp3End": "203.0"
 	},
 	{
 		"lineNo": 39,
 		"lineEn": "Paul:   Could I have it within ten minutes please?",
 		"linePl": "Paul: Czy mogę prosić o to w ciągu dziesięciu minut?\r",
-		"mp3Start": "206.5",
-		"mp3End": "209.5"
+		"mp3Start": "203.1",
+		"mp3End": "206.5"
 	},
 	{
 		"lineNo": 40,
 		"lineEn": "Anna:  Could you possibly help me with the printer?",
 		"linePl": "Anna: Czy możesz mi pomóc z drukarką?\r",
-		"mp3Start": "209.5",
-		"mp3End": "210.5"
+		"mp3Start": "206.5",
+		"mp3End": "209.6"
 	},
 	{
 		"lineNo": 41,
 		"lineEn": "Anna:  Would you mind writing your email later?",
 		"linePl": "Anna: Czy mógłbyś napisać swój e-mail później?\r",
-		"mp3Start": "210.5",
+		"mp3Start": "209.9",
 		"mp3End": "212.2"
 	},
 	{
 		"lineNo": 42,
 		"lineEn": "Narrator: The printer seems to be working well, but how well are Anna and Denise working together? Are these two going to be enemies?",
 		"linePl": "Narrator: Drukarka wydaje się działać dobrze, ale jak dobrze są Anna i Denise pracować razem? Czy ci dwaj będą wrogami?\r",
-		"mp3Start": "212.2",
-		"mp3End": "223.9"
+		"mp3Start": "215.0",
+		"mp3End": "223.0"
 	},
 	{
 		"lineNo": 43,
 		"lineEn": "Denise:  Really! 'Denise do this! Denise do that!' I'm telling you Sharon, I've almost had enough! I get treated like I'm some kind of servant!",
 		"linePl": "Denise: Naprawdę! Denise, zrób to! Denise, zrób to! Mówię ci Sharon, prawie już miał dość! Traktuję mnie jak jakiegoś sługę!\r",
-		"mp3Start": "223.9",
-		"mp3End": "232.8"
+		"mp3Start": "223.1",
+		"mp3End": "232.5"
 	},
 	{
 		"lineNo": 44,

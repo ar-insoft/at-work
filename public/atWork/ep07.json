@@ -1,398 +1,412 @@
 [
 	{
-		"lineNo": 0,
-		"lineEn": "Narrator: Ah hello! Welcome back to Tip Top Trading – the UK's leading wholesaler of imitation fruit. Today you're joining us in the middle of the action! Anna is with an important client Mr Lime, from Citrus Ventures. He's angry and she'll have to calm him down. She could cope brilliantly here or this could be a horrible mess!",
-		"linePl": "Narrator: Ah cześć! Witamy ponownie w Tip Top Trading - wiodącym hurtowniku w Wielkiej Brytanii imitacji owoców. Dzisiaj dołączasz do nas w samym środku akcji! Anna jest z ważnym klientem, panem Lime, z Citrus Ventures. Jest zły i będzie musiała go uspokoić. Może świetnie sobie poradzić, a może to zrobić być okropny bałagan!\r",
-		"mp3Start": "1.5",
-		"mp3End": "30.8"
-	},
-	{
 		"lineNo": 1,
-		"lineEn": "Anna: Well Mr Lime, how can I help you?",
-		"linePl": "Anna: Cóż, panie Lime, jak mogę ci pomóc?\r",
-		"mp3Start": "30.8",
-		"mp3End": "33"
+		"lineEn": "Narrator: Ah hello! Welcome back to Tip Top Trading – the UK's leading wholesaler of imitation fruit.",
+		"linePl": "Narrator: Ah cześć! Witamy ponownie w Tip Top Trading - wiodącym hurtowniku w Wielkiej Brytanii imitacji owoców. ",
+		"mp3Start": "5.0",
+		"mp3End": "13.1"
 	},
 	{
+		"linePl": "Dzisiaj dołączasz do nas w samym środku akcji! Anna jest z ważnym klientem, panem Lime, z Citrus Ventures. Jest zły i będzie musiała go uspokoić. \n",
+		"lineEn": "Today you're joining us in the middle of the action! Anna is with an important client Mr Lime, from Citrus Ventures. He's angry and she'll have to calm him down. ",
 		"lineNo": 2,
-		"lineEn": "Mr Lime: On Monday I was meant to receive 8,000 plastic grapefruit from Tip Top Trading.",
-		"linePl": "Mr Lime: W poniedziałek miałem otrzymać 8000 plastikowych grejpfrutów z Tip Top Trading.\r",
-		"mp3Start": "33",
-		"mp3End": "39.3"
+		"mp3Start": "13.7",
+		"mp3End": "25.8"
 	},
 	{
+		"linePl": "Może świetnie sobie poradzić, a może to zrobić być okropny bałagan!",
+		"lineEn": "She could cope brilliantly here or this could be a horrible mess!",
 		"lineNo": 3,
-		"lineEn": "Anna: Yes.",
-		"linePl": "Anna: Tak.\r",
-		"mp3Start": "39.3",
-		"mp3End": "40.1"
+		"mp3Start": "25.8",
+		"mp3End": "30.6"
 	},
 	{
 		"lineNo": 4,
-		"lineEn": "Mr Lime: The delivery was made on Tuesday.",
-		"linePl": "Mr Lime: Dostawa została zrealizowana we wtorek.\r",
-		"mp3Start": "40.1",
-		"mp3End": "42.7"
+		"lineEn": "Anna: Well Mr Lime, how can I help you?",
+		"linePl": "Anna: Cóż, panie Lime, jak mogę ci pomóc?\r",
+		"mp3Start": "30.6",
+		"mp3End": "32.8"
 	},
 	{
 		"lineNo": 5,
-		"lineEn": "Anna: Oh dear.",
-		"linePl": "Anna: Oh dear.\r",
-		"mp3Start": "42.7",
-		"mp3End": "44.3"
+		"lineEn": "Mr Lime: On Monday I was meant to receive 8,000 plastic grapefruit from Tip Top Trading.",
+		"linePl": "Mr Lime: W poniedziałek miałem otrzymać 8000 plastikowych grejpfrutów z Tip Top Trading.\r",
+		"mp3Start": "32.9",
+		"mp3End": "39.1"
 	},
 	{
 		"lineNo": 6,
-		"lineEn": "Mr Lime: And instead of 8,000 plastic grapefruit, I got 800,000 plastic pineapples!",
-		"linePl": "Mr Lime: A zamiast 8000 plastikowych grejpfrutów dostałem 800 000 plastikowych ananasów!\r",
-		"mp3Start": "44.3",
-		"mp3End": "51.5"
+		"lineEn": "Anna: Yes.",
+		"linePl": "Anna: Tak.\r",
+		"mp3Start": "39.2",
+		"mp3End": "39.9"
 	},
 	{
 		"lineNo": 7,
-		"lineEn": "Narrator: Right Anna, this is serious. You're going to have to apologise and show that you really mean it. Say: I'm really sorry to hear that.",
-		"linePl": "Narrator: Dobra Anna, to jest poważne. Będziesz musiał przeprosić i pokazać że naprawdę tak myślisz. Powiedz: bardzo mi przykro to słyszeć.\r",
-		"mp3Start": "51.5",
-		"mp3End": "61.4"
+		"lineEn": "Mr Lime: The delivery was made on Tuesday.",
+		"linePl": "Mr Lime: Dostawa została zrealizowana we wtorek.\r",
+		"mp3Start": "40.0",
+		"mp3End": "42.7"
 	},
 	{
 		"lineNo": 8,
-		"lineEn": "Anna: I'm really sorry to hear that, Mr Lime.",
-		"linePl": "Anna: Bardzo mi przykro to słyszeć, panie Lime.\r",
-		"mp3Start": "61.4",
-		"mp3End": "64.8"
+		"lineEn": "Anna: Oh dear.",
+		"linePl": "Anna: Oh dear.\r",
+		"mp3Start": "42.7",
+		"mp3End": "43.9"
 	},
 	{
 		"lineNo": 9,
-		"lineEn": "Mr Lime: What on earth am I going to do with 800,000 plastic pineapples?",
-		"linePl": "Pan Lime: Co ja mam zamiar zrobić z 800 000 plastikowych ananasów?\r",
-		"mp3Start": "64.8",
-		"mp3End": "69.3"
+		"lineEn": "Mr Lime: And instead of 8,000 plastic grapefruit, I got 800,000 plastic pineapples!",
+		"linePl": "Mr Lime: A zamiast 8000 plastikowych grejpfrutów dostałem 800 000 plastikowych ananasów!\r",
+		"mp3Start": "44.1",
+		"mp3End": "51.3"
 	},
 	{
 		"lineNo": 10,
-		"lineEn": "Narrator: Show Mr Lime that you understand the problem. These are phrases you can use:",
-		"linePl": "Narrator: Pokaż Mr Lime, że rozumiesz problem. To są wyrazy można użyć:\r",
-		"mp3Start": "69.3",
-		"mp3End": "75.3"
+		"lineEn": "Narrator: Right Anna, this is serious. You're going to have to apologise and show that you really mean it. Say: I'm really sorry to hear that.",
+		"linePl": "Narrator: Dobra Anna, to jest poważne. Będziesz musiał przeprosić i pokazać że naprawdę tak myślisz. Powiedz: bardzo mi przykro to słyszeć.\r",
+		"mp3Start": "51.8",
+		"mp3End": "61.2"
 	},
 	{
 		"lineNo": 11,
-		"lineEn": "That's totally unacceptable.",
-		"linePl": "To całkowicie nie do przyjęcia.\r",
-		"mp3Start": "75.3",
-		"mp3End": "78.6"
+		"lineEn": "Anna: I'm really sorry to hear that, Mr Lime.",
+		"linePl": "Anna: Bardzo mi przykro to słyszeć, panie Lime.\r",
+		"mp3Start": "61.7",
+		"mp3End": "64.4"
 	},
 	{
 		"lineNo": 12,
+		"lineEn": "Mr Lime: What on earth am I going to do with 800,000 plastic pineapples?",
+		"linePl": "Pan Lime: Co ja mam zamiar zrobić z 800 000 plastikowych ananasów?\r",
+		"mp3Start": "64.6",
+		"mp3End": "69.1"
+	},
+	{
+		"lineNo": 13,
+		"lineEn": "Narrator: Show Mr Lime that you understand the problem. These are phrases you can use:",
+		"linePl": "Narrator: Pokaż Mr Lime, że rozumiesz problem. To są wyrazy można użyć:\r",
+		"mp3Start": "69.5",
+		"mp3End": "75.3"
+	},
+	{
+		"lineNo": 14,
+		"lineEn": "That's totally unacceptable.",
+		"linePl": "To całkowicie nie do przyjęcia.\r",
+		"mp3Start": "75.4",
+		"mp3End": "78.6"
+	},
+	{
+		"lineNo": 15,
 		"lineEn": "That must have been very inconvenient for you.",
 		"linePl": "To musiało być dla ciebie bardzo niewygodne.\r",
 		"mp3Start": "78.6",
 		"mp3End": "82.1"
 	},
 	{
-		"lineNo": 13,
-		"lineEn": "And then promise to fix the problem. Say:",
-		"linePl": "A potem obiecuję rozwiązać problem. Mówić:\r",
+		"lineNo": 16,
+		"lineEn": "And then promise to fix the problem.",
+		"linePl": "A potem obiecaj rozwiązać problem. \n",
 		"mp3Start": "82.1",
-		"mp3End": "84.8"
+		"mp3End": "84.5"
 	},
 	{
-		"lineNo": 14,
-		"lineEn": "You have my word that we will sort this out.",
-		"linePl": "Masz moje słowo, że to rozwiążemy.\r",
-		"mp3Start": "84.8",
+		"lineNo": 17,
+		"lineEn": " Say: You have my word that we will sort this out.",
+		"linePl": "Powiedz: Masz moje słowo, że to rozwiążemy.\n",
+		"mp3Start": "84.6",
 		"mp3End": "88.8"
 	},
 	{
-		"lineNo": 15,
+		"lineNo": 18,
 		"lineEn": "We can do something to make up for the inconvenience.",
 		"linePl": "Możemy zrobić coś, aby nadrobić niedogodności.\r",
 		"mp3Start": "88.8",
 		"mp3End": "92.6"
 	},
 	{
-		"lineNo": 16,
+		"lineNo": 19,
 		"lineEn": "It won't happen again.",
 		"linePl": "To się więcej nie powtórzy.\r",
 		"mp3Start": "92.6",
 		"mp3End": "94.5"
 	},
 	{
-		"lineNo": 17,
+		"lineNo": 20,
 		"lineEn": "Mr Lime: 800,000 plastic pineapples!",
 		"linePl": "Mr Lime: 800 000 plastikowych ananasów!\r",
-		"mp3Start": "94.5",
+		"mp3Start": "94.8",
 		"mp3End": "98.3"
 	},
 	{
-		"lineNo": 18,
+		"lineNo": 21,
 		"lineEn": "Anna: That's totally unacceptable.",
 		"linePl": "Anna: To całkowicie nie do przyjęcia.\r",
 		"mp3Start": "98.3",
-		"mp3End": "102.1"
-	},
-	{
-		"lineNo": 19,
-		"lineEn": "Mr Lime: I didn't even have anywhere to put them - and pineapples are so much bigger than grapefruit!",
-		"linePl": "Pan Lime: Nie miałem nawet gdzie je dać - i ananasy są tak bardzo większe niż grejpfrut!\r",
-		"mp3Start": "102.1",
-		"mp3End": "107.3"
-	},
-	{
-		"lineNo": 20,
-		"lineEn": "Anna: It must have been very inconvenient for you.",
-		"linePl": "Anna: To musiało być dla ciebie bardzo niewygodne.\r",
-		"mp3Start": "107.3",
-		"mp3End": "110"
-	},
-	{
-		"lineNo": 21,
-		"lineEn": "Mr Lime: It certainly was! When he took my order, your colleague Tom told me that Tip Top Trading was the most reliable firm in the industry!",
-		"linePl": "Mr Lime: Z pewnością było! Kiedy wziął moje zamówienie, twój kolega Tom, to powiedział Tip Top Trading jest najbardziej niezawodną firmą w branży!\r",
-		"mp3Start": "110",
-		"mp3End": "117.8"
+		"mp3End": "101.8"
 	},
 	{
 		"lineNo": 22,
+		"lineEn": "Mr Lime: I didn't even have anywhere to put them - and pineapples are so much bigger than grapefruit!",
+		"linePl": "Pan Lime: Nie miałem nawet gdzie je dać - i ananasy są tak bardzo większe niż grejpfrut!\r",
+		"mp3Start": "101.9",
+		"mp3End": "107.3"
+	},
+	{
+		"lineNo": 23,
+		"lineEn": "Anna: It must have been very inconvenient for you.",
+		"linePl": "Anna: To musiało być dla ciebie bardzo niewygodne.\r",
+		"mp3Start": "107.3",
+		"mp3End": "109.3"
+	},
+	{
+		"lineNo": 24,
+		"lineEn": "Mr Lime: It certainly was! When he took my order, your colleague Tom told me that Tip Top Trading was the most reliable firm in the industry!",
+		"linePl": "Mr Lime: Z pewnością było! Kiedy on wziął moje zamówienie, twój kolega Tom, to powiedział Tip Top Trading jest najbardziej niezawodną firmą w branży!\n",
+		"mp3Start": "109.6",
+		"mp3End": "117.8"
+	},
+	{
+		"lineNo": 25,
 		"lineEn": "Anna: You have my word that we will sort this out. We'll remove the pineapples and have your grapefruit sent via express delivery this afternoon.",
 		"linePl": "Anna: Masz moje słowo, że to rozwiążemy. Usuniemy ananasy i grejpfruty zostaną wysłane po południu przesyłką ekspresową.\r",
 		"mp3Start": "117.8",
 		"mp3End": "126.5"
 	},
 	{
-		"lineNo": 23,
+		"lineNo": 26,
 		"lineEn": "Mr Lime: Good. Thank you.",
 		"linePl": "Pan Lime: Dobrze. Dziękuję Ci.\r",
 		"mp3Start": "126.5",
-		"mp3End": "129.4"
-	},
-	{
-		"lineNo": 24,
-		"lineEn": "Anna: And we could include some of our latest-edition imitation oranges to make up for the inconvenience.",
-		"linePl": "Anna: I moglibyśmy dołączyć do naszej produkcji niektóre z naszych najnowszych imitacji pomarańczy za niedogodności.\r",
-		"mp3Start": "129.4",
-		"mp3End": "135.4"
-	},
-	{
-		"lineNo": 25,
-		"lineEn": "Mr Lime: Oh! Well, that would be nice!",
-		"linePl": "Mr Lime: Oh! Cóż, byłoby miło!\r",
-		"mp3Start": "135.4",
-		"mp3End": "138.2"
-	},
-	{
-		"lineNo": 26,
-		"lineEn": "Narrator: Tip top Anna! Excellent work and excellent words.",
-		"linePl": "Narrator: Tip top Anna! Znakomita praca i doskonałe słowa.\r",
-		"mp3Start": "138.2",
-		"mp3End": "142"
+		"mp3End": "128.4"
 	},
 	{
 		"lineNo": 27,
-		"lineEn": "Anna: They're made with revolutionary premium faux-orange, laser-curve- definition technology... you will be the first to have them!",
-		"linePl": "Anna: Wykonane są z rewolucyjną faux-orange premium, laser-curvedefinition technologia ... będziesz pierwszym, który je będzie!\r",
-		"mp3Start": "142",
-		"mp3End": "150.7"
+		"lineEn": "Anna: And we could include some of our latest-edition imitation oranges to make up for the inconvenience.",
+		"linePl": "Anna: I moglibyśmy dołączyć coś z naszej najnowszej edycji imitacje pomarańczy za niedogodności.\n",
+		"mp3Start": "128.6",
+		"mp3End": "134.9"
 	},
 	{
 		"lineNo": 28,
+		"lineEn": "Mr Lime: Oh! Well, that would be nice!",
+		"linePl": "Mr Lime: Oh! Cóż, byłoby miło!\r",
+		"mp3Start": "135.1",
+		"mp3End": "137.9"
+	},
+	{
+		"lineNo": 29,
+		"lineEn": "Narrator: Tip top Anna! Excellent work and excellent words.",
+		"linePl": "Narrator: Tip top Anna! Znakomita praca i doskonałe słowa.\r",
+		"mp3Start": "138.1",
+		"mp3End": "141.7"
+	},
+	{
+		"lineNo": 30,
+		"lineEn": "Anna: They're made with revolutionary premium faux-orange, laser-curve- definition technology... you will be the first to have them!",
+		"linePl": "Anna: Wykonane są z rewolucyjną faux-orange premium, laser-curvedefinition technologia ... będziesz pierwszym, który je będzie miał!\n",
+		"mp3Start": "142.3",
+		"mp3End": "150.7"
+	},
+	{
+		"lineNo": 31,
 		"lineEn": "Mr Lime: Wow, now that's good customer service! Tell me, do you have any other artificial fruits in this range?",
 		"linePl": "Mr Lime: Wow, teraz to dobra obsługa klienta! Powiedz mi, czy masz jakieś inne sztuczne owoce w tym zakresie?\r",
 		"mp3Start": "150.7",
 		"mp3End": "158.5"
 	},
 	{
-		"lineNo": 29,
+		"lineNo": 32,
 		"lineEn": "Anna: Yes. Well, it's a bit of a secret, but you're a trusted client, so I think I can tell you...",
-		"linePl": "Anna: Tak. Cóż, to trochę tajemnica, ale jesteś zaufanym klientem, więc myślę, że mogę powiesz ...\r",
+		"linePl": "Anna: Tak. Cóż, to trochę tajemnica, ale jesteś zaufanym klientem, więc myślę, że mogę powiedzieć ...\n",
 		"mp3Start": "158.5",
 		"mp3End": "166.4"
 	},
 	{
-		"lineNo": 30,
+		"lineNo": 33,
 		"lineEn": "Mr Lime: Go on...",
 		"linePl": "Mr Lime: No dalej ...\r",
 		"mp3Start": "166.4",
 		"mp3End": "167.6"
 	},
 	{
-		"lineNo": 31,
+		"lineNo": 34,
 		"lineEn": "Anna: We're about to unveil a new Imperial Lemon.",
 		"linePl": "Anna: Niedługo odsłonimy nową Imperialną Lemon.\r",
 		"mp3Start": "167.6",
 		"mp3End": "170.8"
 	},
 	{
-		"lineNo": 32,
+		"lineNo": 35,
 		"lineEn": "Mr Lime: Really?",
 		"linePl": "Mr Lime: Naprawdę?\r",
 		"mp3Start": "170.8",
 		"mp3End": "172.3"
 	},
 	{
-		"lineNo": 33,
+		"lineNo": 36,
 		"lineEn": "Anna: I can't tell you any more for now. But…",
 		"linePl": "Anna: Nie mogę ci teraz nic więcej powiedzieć. Ale…\r",
 		"mp3Start": "172.3",
-		"mp3End": "175.4"
+		"mp3End": "175.2"
 	},
 	{
-		"lineNo": 34,
+		"lineNo": 37,
 		"lineEn": "Mr Lime: Yes...",
 		"linePl": "Mr Lime: Tak ...\r",
 		"mp3Start": "175.4",
 		"mp3End": "176.2"
 	},
 	{
-		"lineNo": 35,
+		"lineNo": 38,
 		"lineEn": "Anna: Maybe we could present it to you more formally in a couple of weeks, when it's ready for release...?",
 		"linePl": "Anna: Może moglibyśmy przedstawić to bardziej formalnie za kilka tygodni, kiedy jest gotowy do wydania ...?\r",
 		"mp3Start": "176.2",
 		"mp3End": "182.9"
 	},
 	{
-		"lineNo": 36,
+		"lineNo": 39,
 		"lineEn": "Mr Lime: Sounds perfect.",
 		"linePl": "Mr Lime: Brzmi doskonale.\r",
 		"mp3Start": "182.9",
-		"mp3End": "184.9"
-	},
-	{
-		"lineNo": 37,
-		"lineEn": "Anna: You would be the first to see it!",
-		"linePl": "Anna: Najpierw to zobaczysz!\r",
-		"mp3Start": "184.9",
-		"mp3End": "186.9"
-	},
-	{
-		"lineNo": 38,
-		"lineEn": "Mr Lime: Excellent. Thank you, er... Anna, isn't it?",
-		"linePl": "Mr Lime: Excellent. Dziękuję, eee ... Anna, prawda?\r",
-		"mp3Start": "186.9",
-		"mp3End": "191.2"
-	},
-	{
-		"lineNo": 39,
-		"lineEn": "Anna: Yes.",
-		"linePl": "Anna: Tak.\r",
-		"mp3Start": "191.2",
-		"mp3End": "192.5"
+		"mp3End": "184.4"
 	},
 	{
 		"lineNo": 40,
-		"lineEn": "Mr Lime: A very pretty name.",
-		"linePl": "Mr Lime: Bardzo ładne imię.\r",
-		"mp3Start": "192.5",
-		"mp3End": "193.6"
+		"lineEn": "Anna: You would be the first to see it!",
+		"linePl": "Anna: Najpierw to zobaczysz!\r",
+		"mp3Start": "184.4",
+		"mp3End": "186.5"
 	},
 	{
 		"lineNo": 41,
-		"lineEn": "Anna: Thanks. It's spelled the same forwards and backwards.",
-		"linePl": "Anna: Dzięki. Jest napisane tak samo w przód iw tył.\r",
-		"mp3Start": "193.6",
-		"mp3End": "197.1"
+		"lineEn": "Mr Lime: Excellent. Thank you, er... Anna, isn't it?",
+		"linePl": "Mr Lime: Excellent. Dziękuję, eee ... Anna, prawda?\r",
+		"mp3Start": "186.7",
+		"mp3End": "191.5"
 	},
 	{
 		"lineNo": 42,
+		"lineEn": "Anna: Yes.",
+		"linePl": "Anna: Tak.\r",
+		"mp3Start": "190.8",
+		"mp3End": "192.1"
+	},
+	{
+		"lineNo": 43,
+		"lineEn": "Mr Lime: A very pretty name.",
+		"linePl": "Mr Lime: Bardzo ładne imię.\r",
+		"mp3Start": "192.1",
+		"mp3End": "193.2"
+	},
+	{
+		"lineNo": 44,
+		"lineEn": "Anna: Thanks. It's spelled the same forwards and backwards.",
+		"linePl": "Anna: Dzięki. Jest napisane tak samo w przód iw tył.\r",
+		"mp3Start": "193.3",
+		"mp3End": "197.1"
+	},
+	{
+		"lineNo": 45,
 		"lineEn": "Mr Lime: Is it really?",
 		"linePl": "Mr Lime: Czy to naprawdę?\r",
 		"mp3Start": "197.1",
 		"mp3End": "198.6"
 	},
 	{
-		"lineNo": 43,
+		"lineNo": 46,
 		"lineEn": "Anna: Anyway, Mr Lime, we'll fix this grapefruit problem for you, and I promise you, it won't happen again.",
 		"linePl": "Anna: W każdym razie, panie Lime, naprawimy dla ciebie ten problem grejpfrutowy i obiecuję ty, to się więcej nie powtórzy.\r",
 		"mp3Start": "198.6",
-		"mp3End": "205.8"
-	},
-	{
-		"lineNo": 44,
-		"lineEn": "Mr Lime: Good, good. You're new here, aren't you Anna? Anna: Yes.",
-		"linePl": "Mr Lime: Dobrze, dobrze. Jesteś tu nowy, prawda Anna? Anna: Tak.\r",
-		"mp3Start": "205.8",
-		"mp3End": "209.8"
-	},
-	{
-		"lineNo": 45,
-		"lineEn": "Mr Lime: Well I look forward to working with you.",
-		"linePl": "Mr Lime: Cóż, nie mogę się doczekać współpracy z tobą.\r",
-		"mp3Start": "209.8",
-		"mp3End": "212.5"
-	},
-	{
-		"lineNo": 46,
-		"lineEn": "Narrator: What a success! Mr Lime has come away a very happy customer! Here are the phrases Anna used while apologising:",
-		"linePl": "Narrator: Co za sukces! Pan Lime odszedł z bardzo szczęśliwym klientem! Tu są zwroty, których użyła Anna podczas przeprosin:\r",
-		"mp3Start": "212.5",
-		"mp3End": "222.4"
+		"mp3End": "205.6"
 	},
 	{
 		"lineNo": 47,
+		"lineEn": "Mr Lime: Good, good. You're new here, aren't you Anna? Anna: Yes.",
+		"linePl": "Mr Lime: Dobrze, dobrze. Jesteś tu nowy, prawda Anna? Anna: Tak.\r",
+		"mp3Start": "205.6",
+		"mp3End": "209.8"
+	},
+	{
+		"lineNo": 48,
+		"lineEn": "Mr Lime: Well I look forward to working with you.",
+		"linePl": "Mr Lime: Cóż, nie mogę się doczekać współpracy z tobą.\r",
+		"mp3Start": "209.8",
+		"mp3End": "212.3"
+	},
+	{
+		"lineNo": 49,
+		"lineEn": "Narrator: What a success! Mr Lime has come away a very happy customer! Here are the phrases Anna used while apologising:",
+		"linePl": "Narrator: Co za sukces! Pan Lime odszedł z bardzo szczęśliwym klientem! Tu są zwroty, których użyła Anna podczas przeprosin:\r",
+		"mp3Start": "213.0",
+		"mp3End": "222.2"
+	},
+	{
+		"lineNo": 50,
 		"lineEn": "I'm really sorry to hear that, Mr Lime.",
 		"linePl": "Przykro mi to słyszeć, panie Lime.\r",
 		"mp3Start": "222.4",
 		"mp3End": "224.7"
 	},
 	{
-		"lineNo": 48,
+		"lineNo": 51,
 		"lineEn": "That's totally unacceptable.",
 		"linePl": "To całkowicie nie do przyjęcia.\r",
 		"mp3Start": "224.7",
 		"mp3End": "227.8"
 	},
 	{
-		"lineNo": 49,
+		"lineNo": 52,
 		"lineEn": "It must have been very inconvenient for you.",
 		"linePl": "To musiało być dla ciebie bardzo niewygodne.\r",
 		"mp3Start": "227.8",
 		"mp3End": "231.1"
 	},
 	{
-		"lineNo": 50,
+		"lineNo": 53,
 		"lineEn": "You have my word that we will sort this out.",
 		"linePl": "Masz moje słowo, że to rozwiążemy.\r",
 		"mp3Start": "231.1",
 		"mp3End": "235.1"
 	},
 	{
-		"lineNo": 51,
+		"lineNo": 54,
 		"lineEn": "And we could include some of our latest-edition imitation oranges to make up for the inconvenience.",
 		"linePl": "I moglibyśmy dołączyć niektóre z naszych najnowszych imitacji pomarańczy, aby nadrobić zaległości niedogodność.\r",
 		"mp3Start": "235.1",
 		"mp3End": "242"
 	},
 	{
-		"lineNo": 52,
+		"lineNo": 55,
 		"lineEn": "I promise you, it won't happen again.",
 		"linePl": "Obiecuję, że to się więcej nie powtórzy.\r",
 		"mp3Start": "242",
-		"mp3End": "245.6"
+		"mp3End": "245.4"
 	},
 	{
-		"lineNo": 53,
+		"lineNo": 56,
 		"lineEn": "What will Anna's boss Paul have to say about her work today? Join us next week to find out.",
-		"linePl": "Co szef Paula Paul ma dziś do powiedzenia na temat swojej pracy? Dołącz do nas dalej tydzień, aby się dowiedzieć.\r",
-		"mp3Start": "245.6",
-		"mp3End": "252.6"
+		"linePl": "Co Anny szef Paul ma do powiedzenia na temat jej dzisiejszej pracy? Dołącz do nas dalej tydzień, aby się dowiedzieć.\n",
+		"mp3Start": "246.0",
+		"mp3End": "252.3"
 	},
 	{
-		"lineNo": 54,
+		"lineNo": 57,
 		"lineEn": "• Listening comprehension question",
 		"linePl": "· Pytanie ze słuchania ze zrozumieniem\r",
 		"mp3Start": "",
 		"mp3End": ""
 	},
 	{
-		"lineNo": 55,
+		"lineNo": 58,
 		"lineEn": "How many plastic grapefruit was Mr Lime meant to receive from Tip Top Trading?",
 		"linePl": "Ile plastikowych grejpfrutów miał Pan Lime otrzymać od Tip Top Trading?\r",
 		"mp3Start": "",
 		"mp3End": ""
 	},
 	{
-		"lineNo": 56,
+		"lineNo": 59,
 		"lineEn": "8,000",
 		"linePl": "8 000 ",
 		"mp3Start": "",

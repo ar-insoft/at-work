@@ -1,0 +1,415 @@
+[
+	{
+		"lineNo": 0,
+		"lineEn": "Narrator: Hello, Anna's just arrived at her desk to start the day at Tip Top Trading.",
+		"linePl": "Narrator: Witaj, Anna właśnie przyszła do swojego biurka, żeby rozpocząć dzień w Tip Top Trading. Paul idzie w jej stronę, jedząc herbatniki, wygląda na trochę zmartwiony.\r",
+		"mp3Start": "1.5",
+		"mp3End": "9.5"
+	},
+	{
+		"lineNo": 1,
+		"lineEn": "Paul is walking towards her, eating a biscuit, he looks a bit bothered.",
+		"linePl": "Paul: Anna?\r",
+		"mp3Start": "9.5",
+		"mp3End": "14.3"
+	},
+	{
+		"lineNo": 2,
+		"lineEn": "Paul:  Anna? Anna:  Yes, Paul.",
+		"linePl": "Anna: Tak, Paul.\r",
+		"mp3Start": "14.3",
+		"mp3End": "17.8"
+	},
+	{
+		"lineNo": 3,
+		"lineEn": "Paul:  Come and have a biscuit in my office.",
+		"linePl": "Paul: Przyjdź i miej ciastko w moim biurze. Teraz Anna, o panie Lime.\r",
+		"mp3Start": "17.8",
+		"mp3End": "19.9"
+	},
+	{
+		"lineNo": 4,
+		"lineEn": "Now Anna, about Mr Lime.",
+		"linePl": "Anna: Nie powiedziałem tak!\r",
+		"mp3Start": "19.9",
+		"mp3End": "27.7"
+	},
+	{
+		"lineNo": 5,
+		"lineEn": "Anna:  I didn't say yes!",
+		"linePl": "Paul: Pardon? Tak do czego?\r",
+		"mp3Start": "27.7",
+		"mp3End": "29.5"
+	},
+	{
+		"lineNo": 6,
+		"lineEn": "Paul:  Pardon? Yes to what?",
+		"linePl": "Anna: Och, nic.\r",
+		"mp3Start": "29.5",
+		"mp3End": "31.6"
+	},
+	{
+		"lineNo": 7,
+		"lineEn": "Anna:  Oh, nothing. Paul:  You sent him an email yesterday and copied me in. Anna:  Yes.",
+		"linePl": "Paul: Wysłałeś mu e-maila wczoraj i kopie do mnie.\r Anna: Tak.\r",
+		"mp3Start": "31.6",
+		"mp3End": "36.6"
+	},
+	{
+		"lineNo": 8,
+		"lineEn": "Paul:  Your email reads: boxes ok. pls c-d-u cfirm wnt 300 ta.",
+		"linePl": "Paul: Twój e-mail odczytuje: pudła ok. pls c-d-u cfirm wnt 300 ta.\r",
+		"mp3Start": "36.6",
+		"mp3End": "47.4"
+	},
+	{
+		"lineNo": 9,
+		"lineEn": "Anna:  Yes: please could you confirm you want 300.",
+		"linePl": "Anna: Tak: czy mógłbyś potwierdzić, że chcesz 300.\r",
+		"mp3Start": "47.4",
+		"mp3End": "51.5"
+	},
+	{
+		"lineNo": 10,
+		"lineEn": "Paul:  Right. Now that's not really the best way of writing an email to a client, is it?",
+		"linePl": "Paul: W porządku. Teraz to nie jest najlepszy sposób na pisanie wiadomości e-mail do klienta, prawda?\r",
+		"mp3Start": "51.5",
+		"mp3End": "57.5"
+	},
+	{
+		"lineNo": 11,
+		"lineEn": "Anna:  Oh.",
+		"linePl": "Anna: Oh.\r",
+		"mp3Start": "57.5",
+		"mp3End": "58.7"
+	},
+	{
+		"lineNo": 12,
+		"lineEn": "Paul:  Please could you re-send your message to Mr Lime, using actual words that make sense.",
+		"linePl": "Paul: Proszę przesłać wiadomość do pana Lime'a, posługując się prawdziwymi słowami, które mają sens.\r",
+		"mp3Start": "58.7",
+		"mp3End": "65.5"
+	},
+	{
+		"lineNo": 13,
+		"lineEn": "Anna:  Okay.",
+		"linePl": "Anna: Dobra.\r",
+		"mp3Start": "65.5",
+		"mp3End": "67.1"
+	},
+	{
+		"lineNo": 14,
+		"lineEn": "Paul:  Thank you. Have a chocolate crunchy!",
+		"linePl": "Paul: Dziękuję. Mają czekoladowe chrupiące!\r",
+		"mp3Start": "67.1",
+		"mp3End": "69.9"
+	},
+	{
+		"lineNo": 15,
+		"lineEn": "Anna:  Thanks.",
+		"linePl": "Anna: Dzięki.\r",
+		"mp3Start": "69.9",
+		"mp3End": "72.1"
+	},
+	{
+		"lineNo": 16,
+		"lineEn": "Tom:  Morning Anna.",
+		"linePl": "Tom: Rano Anna.\r",
+		"mp3Start": "72.1",
+		"mp3End": "77.8"
+	},
+	{
+		"lineNo": 17,
+		"lineEn": "Anna:  Hello.",
+		"linePl": "Anna: Witaj.\r",
+		"mp3Start": "77.8",
+		"mp3End": "79.9"
+	},
+	{
+		"lineNo": 18,
+		"lineEn": "Tom:  Let me guess, Paul just spoke to you about your email?",
+		"linePl": "Tom: Pozwól mi zgadnąć, Paul mówił ci o twoim e-mailu?\r",
+		"mp3Start": "79.9",
+		"mp3End": "83.5"
+	},
+	{
+		"lineNo": 19,
+		"lineEn": "Anna:  How do you know?",
+		"linePl": "Anna: Skąd wiesz?\r",
+		"mp3Start": "83.5",
+		"mp3End": "84.9"
+	},
+	{
+		"lineNo": 20,
+		"lineEn": "Tom:  You copied me in remember, I just read it – or tried to.",
+		"linePl": "Tom: Skopiowałaś do mnie, po prostu ją przeczytałem - lub próbowałem.\r",
+		"mp3Start": "84.9",
+		"mp3End": "88.6"
+	},
+	{
+		"lineNo": 21,
+		"lineEn": "Anna:  But what's the problem? Other people write like that!",
+		"linePl": "Anna: Ale jaki jest problem? Inni ludzie tak pisują!\r",
+		"mp3Start": "88.6",
+		"mp3End": "93.2"
+	},
+	{
+		"lineNo": 22,
+		"lineEn": "Tom:  No, maybe some people write text messages like that in an SMS message on their phones, but that is completely the wrong style for an email to a client.",
+		"linePl": "Tom: Nie, być może niektórzy ludzie piszą takie wiadomości tekstowe w wiadomościach SMS na swoich telefonach, ale to jest całkowicie złym stylem dla poczty elektronicznej dla klienta.\r",
+		"mp3Start": "93.2",
+		"mp3End": "104.5"
+	},
+	{
+		"lineNo": 23,
+		"lineEn": "Narrator: Okay Anna, let's stop listening to Tom, he's a waste of space. These are the kinds of phrases you need in a business-related email:",
+		"linePl": "Narrator: Okej Anna, przestań słuchać Toma, jest stratą przestrzeni. Są to rodzaje zwrotów, których potrzebujesz w e-mailu związanym z firmą:\r",
+		"mp3Start": "104.5",
+		"mp3End": "113.2"
+	},
+	{
+		"lineNo": 24,
+		"lineEn": "Dear Mr Lime...",
+		"linePl": "Szanowny Pan Lime ...\r",
+		"mp3Start": "113.2",
+		"mp3End": "115.8"
+	},
+	{
+		"lineNo": 25,
+		"lineEn": "I hope you are well.",
+		"linePl": "Mam nadzieję, że masz się dobrze.\r",
+		"mp3Start": "115.8",
+		"mp3End": "117.8"
+	},
+	{
+		"lineNo": 26,
+		"lineEn": "I am writing regarding...",
+		"linePl": "Piszę o ...\r",
+		"mp3Start": "117.8",
+		"mp3End": "120.4"
+	},
+	{
+		"lineNo": 27,
+		"lineEn": "Please could you confirm...",
+		"linePl": "Proszę, możesz potwierdzić ...\r",
+		"mp3Start": "120.4",
+		"mp3End": "123"
+	},
+	{
+		"lineNo": 28,
+		"lineEn": "Yours sincerely, or",
+		"linePl": "Z poważaniem, lub\r",
+		"mp3Start": "123",
+		"mp3End": "125.8"
+	},
+	{
+		"lineNo": 29,
+		"lineEn": "Best wishes.",
+		"linePl": "Wszystkiego najlepszego.\r",
+		"mp3Start": "125.8",
+		"mp3End": "127.6"
+	},
+	{
+		"lineNo": 30,
+		"lineEn": "Anna: Thank you! I'll rewrite my message. There! I'd better get it checked before I send. Denise?",
+		"linePl": "Anna: Dziękuję! Przepisuję moją wiadomość. Tam! Lepiej go sprawdzić przed wysłaniem. Denise?\r",
+		"mp3Start": "127.6",
+		"mp3End": "137.7"
+	},
+	{
+		"lineNo": 31,
+		"lineEn": "Denise: (On the phone) yes... the other problem with Stephanie is that her legs are just too long...",
+		"linePl": "Denise: (przez telefon) tak ... drugi problem z Stephanie polega na tym, że jej nogi są za długie ...\r",
+		"mp3Start": "137.7",
+		"mp3End": "144.9"
+	},
+	{
+		"lineNo": 32,
+		"lineEn": "Anna:  Oh, she's on the phone.",
+		"linePl": "Anna: Oh, ona jest na telefonie.\r",
+		"mp3Start": "144.9",
+		"mp3End": "147"
+	},
+	{
+		"lineNo": 33,
+		"lineEn": "Denise: ... yes, like trees...",
+		"linePl": "Denise: ... tak, jak drzewa ...\r",
+		"mp3Start": "147",
+		"mp3End": "149.6"
+	},
+	{
+		"lineNo": 34,
+		"lineEn": "Anna:  I'll have to ask Tom. Tom?",
+		"linePl": "Anna: Będę musiał prosić Tom. Tom?\r",
+		"mp3Start": "149.6",
+		"mp3End": "151.2"
+	},
+	{
+		"lineNo": 35,
+		"lineEn": "Tom:  Mm?",
+		"linePl": "Tom: Mm?\r",
+		"mp3Start": "151.2",
+		"mp3End": "153.1"
+	},
+	{
+		"lineNo": 36,
+		"lineEn": "Anna:  Could you read this through before I send it?",
+		"linePl": "Anna: Czy możesz to przeczytać przed wysłaniem go?\r",
+		"mp3Start": "153.1",
+		"mp3End": "155.5"
+	},
+	{
+		"lineNo": 37,
+		"lineEn": "Tom:  Hang on, let me just finish this sentence. It’s really important. I’m ready, let’s have a look. Okay. (reading) Dear Mr Lime, I hope you are well. I am writing regarding your request for luxury boxes for the Imperial Lemon Delivery. We will indeed be able to supply them. Please could you confirm that you want 300. Best wishes, Anna.",
+		"linePl": "Tom: Poczekaj, pozwól mi tylko zakończyć to zdanie. To naprawdę ważne. Jestem gotowy, przyjrzyjmy się. W porządku. (czytanie) Szanowny Panie Lime, mam nadzieję, że dobrze. Piszę o twojej prośby o luksusowe pudełka na Imperial Lemon Delivery. Naprawdę będziemy w stanie je dostarczyć. Proszę, możesz potwierdzić, że chcesz 300. Życzenia, Anna.\r",
+		"mp3Start": "155.5",
+		"mp3End": "178.6"
+	},
+	{
+		"lineNo": 38,
+		"lineEn": "Anna:  Well? © British Broadcasting Corporation 2012",
+		"linePl": "Anna: cóż?\r",
+		"mp3Start": "178.6",
+		"mp3End": "180.2"
+	},
+	{
+		"lineNo": 39,
+		"lineEn": "Tom:  It’s good, it's much better. Send it. Hopefully Mr Lime will think your last message was just someone sitting on your keyboard by mistake.",
+		"linePl": "Tom: To dobrze, jest znacznie lepiej. Wyślij to. Mam nadzieję, że pan Lime będzie pomyśleć, że twoim ostatnim przesłaniem była tylko ktoś usiadł na klawiaturze.\r",
+		"mp3Start": "180.2",
+		"mp3End": "188.7"
+	},
+	{
+		"lineNo": 40,
+		"lineEn": "Anna:  Thanks.",
+		"linePl": "Anna: Dzięki.\r",
+		"mp3Start": "188.7",
+		"mp3End": "189.8"
+	},
+	{
+		"lineNo": 41,
+		"lineEn": "Tom:  You're not...",
+		"linePl": "Tom: Nie jesteś ...\r",
+		"mp3Start": "189.8",
+		"mp3End": "191.9"
+	},
+	{
+		"lineNo": 42,
+		"lineEn": "Anna:  What?",
+		"linePl": "Anna: Co?\r",
+		"mp3Start": "191.9",
+		"mp3End": "192.8"
+	},
+	{
+		"lineNo": 43,
+		"lineEn": "Tom:  Nothing. It's none of my business.",
+		"linePl": "Tom: Nic. To nie moja sprawa.\r",
+		"mp3Start": "192.8",
+		"mp3End": "195"
+	},
+	{
+		"lineNo": 44,
+		"lineEn": "Anna:  What?",
+		"linePl": "Anna: Co?\r",
+		"mp3Start": "195",
+		"mp3End": "196"
+	},
+	{
+		"lineNo": 45,
+		"lineEn": "Tom: You're not ever going to go to lunch with Mr Lime are you? I mean, in a non-business way...",
+		"linePl": "Tom: Nigdy nie pójdziesz na obiad z panem Lime? Mam na myśli, w niesłużbowy sposób ...\r",
+		"mp3Start": "196",
+		"mp3End": "201"
+	},
+	{
+		"lineNo": 46,
+		"lineEn": "Anna:  No of course not!",
+		"linePl": "Anna: Oczywiście, że nie!\r",
+		"mp3Start": "201",
+		"mp3End": "202.8"
+	},
+	{
+		"lineNo": 47,
+		"lineEn": "Tom:  I mean I don’t care… it's just... important to... stay professional.",
+		"linePl": "Tom: To znaczy, że mnie to nie obchodzi ... to jest ... ważne, aby ... być profesjonalnym.\r",
+		"mp3Start": "202.8",
+		"mp3End": "207.7"
+	},
+	{
+		"lineNo": 48,
+		"lineEn": "Anna:  Yes.",
+		"linePl": "Anna: Tak.\r",
+		"mp3Start": "207.7",
+		"mp3End": "208.8"
+	},
+	{
+		"lineNo": 49,
+		"lineEn": "Narrator: Hmmm.... well, I had a feeling Anna's email was going to cause problems. But at least she won't make a mistake like that again. Here’s a reminder of the phrases she used in her new, improved email.",
+		"linePl": "Narrator: Hmmm .... no cóż, poczułam, że poczta Anna będzie powodować problemy. Ale przynajmniej tak się nie powtórzy. Oto przypomnienia o frazach, które wykorzystała w swoim nowym, udoskonalonym e-mailu.\r",
+		"mp3Start": "208.8",
+		"mp3End": "221.6"
+	},
+	{
+		"lineNo": 50,
+		"lineEn": "Dear Mr Lime...",
+		"linePl": "Szanowny Pan Lime ...\r",
+		"mp3Start": "221.6",
+		"mp3End": "223.4"
+	},
+	{
+		"lineNo": 51,
+		"lineEn": "I hope you are well.",
+		"linePl": "Mam nadzieję, że masz się dobrze.\r",
+		"mp3Start": "223.4",
+		"mp3End": "225.4"
+	},
+	{
+		"lineNo": 52,
+		"lineEn": "I am writing regarding...",
+		"linePl": "Piszę o ...\r",
+		"mp3Start": "225.4",
+		"mp3End": "227.6"
+	},
+	{
+		"lineNo": 53,
+		"lineEn": "Please could you confirm...",
+		"linePl": "Proszę, możesz potwierdzić ...\r",
+		"mp3Start": "227.6",
+		"mp3End": "230.6"
+	},
+	{
+		"lineNo": 54,
+		"lineEn": "Best wishes.",
+		"linePl": "Wszystkiego najlepszego.\r",
+		"mp3Start": "230.6",
+		"mp3End": "232.8"
+	},
+	{
+		"lineNo": 55,
+		"lineEn": "Until next time, bye!",
+		"linePl": "Do następnego razu, do widzenia!\r",
+		"mp3Start": "232.8",
+		"mp3End": "235.1"
+	},
+	{
+		"lineNo": 56,
+		"lineEn": " Listening Challenge",
+		"linePl": "• Słuchanie Wyzwanie\r",
+		"mp3Start": "",
+		"mp3End": ""
+	},
+	{
+		"lineNo": 57,
+		"lineEn": "What is Anna trying to confirm in her email?",
+		"linePl": "Co Anna próbuje potwierdzić w swoim e-mailu?\r",
+		"mp3Start": "",
+		"mp3End": ""
+	},
+	{
+		"lineNo": 58,
+		"lineEn": "(Answer: That her company can provide 300 luxury boxes to Mr Lime) © British Broadcasting Corporation 2012",
+		"linePl": "(Odpowiedź: że jej firma może dostarczyć 300 luksusowych pudełek do pana Limego) ",
+		"mp3Start": "",
+		"mp3End": ""
+	}
+]

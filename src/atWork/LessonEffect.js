@@ -93,8 +93,9 @@ export const LessonEffect = ({ epNo }) => {
         setLesson(newArray)
     }
     const addParts = (index) => {
-        const newArray = index > 0 ? lesson.slice(0, index) : []
+        const newArray = lesson.slice(0, index + 1)
         const postArray = index + 1 < lesson.length - 1 ? lesson.slice(index + 1) : []
+        //console.log('addParts index=' + index +' ' + newArray.length + ' ' + postArray.length)
         const newLine = {
             linePl: '', lineEn: '', lineNo: lesson[index].lineNo,
             mp3Start: lesson[index].mp3End, mp3End: lesson[index + 1].mp3Start,
@@ -105,6 +106,11 @@ export const LessonEffect = ({ epNo }) => {
     const handleChangeLinePl = (index, value) => {
         const lessons = [...lesson]
         lessons[index].linePl = value
+        setLesson(lessons)
+    }
+    const handleChangeLineEn = (index, value) => {
+        const lessons = [...lesson]
+        lessons[index].lineEn = value
         setLesson(lessons)
     }
     const subStart = (index) => {
@@ -120,17 +126,17 @@ export const LessonEffect = ({ epNo }) => {
             setLesson(lessons)
         }
         return {
-            decrementStart: function (index) {
-                changeTimeValue(index, 'mp3Start', -incrementValue)
+            decrementStart: function (index, value = -incrementValue) {
+                changeTimeValue(index, 'mp3Start', value)
             },
-            incrementStart: function (index) {
-                changeTimeValue(index, 'mp3Start', incrementValue)
+            incrementStart: function (index, value = incrementValue) {
+                changeTimeValue(index, 'mp3Start', value)
             },
-            incrementEnd: function (index) {
-                changeTimeValue(index, 'mp3End', incrementValue)
+            incrementEnd: function (index, value = incrementValue) {
+                changeTimeValue(index, 'mp3End', value)
             },
-            decrementEnd: function (index) {
-                changeTimeValue(index, 'mp3End', -incrementValue)
+            decrementEnd: function (index, value = -incrementValue) {
+                changeTimeValue(index, 'mp3End', value)
             },
         }
     })()
@@ -211,21 +217,35 @@ export const LessonEffect = ({ epNo }) => {
                             <br />
                             {playingIndex === index ? formatTime(currentPlayingTime) : ''}
                         </div>
+                        <div className="playDiv" onClick={() => playPart(index)}></div>
                         <div className="less_line_right">
                             <div className="less_line_times padding">
                                 <div>
-                                    <button onClick={() => changeTime.decrementStart(index)} className="">{'<'}</button>
+                                    <button onClick={() => changeTime.decrementStart(index)}
+                                        onDoubleClick={() => changeTime.decrementStart(index, -0.5)}>
+                                        {'<'}
+                                    </button>
                                     {formatTime(linia.mp3Start)}
-                                    <button onClick={() => changeTime.incrementStart(index)} className="">{'>'}</button>
+                                    <button onClick={() => changeTime.incrementStart(index)}
+                                        onDoubleClick={() => changeTime.incrementStart(index, 0.5)}>
+                                        {'>'}
+                                    </button>
                                 </div>
                                 <div>
-                                    <button onClick={() => changeTime.decrementEnd(index)} className="">{'<'}</button>
+                                    <button onClick={() => changeTime.decrementEnd(index)}
+                                        onDoubleClick={() => changeTime.decrementEnd(index, -0.5)}>
+                                        {'<'}
+                                    </button>
                                     {formatTime(linia.mp3End)}
-                                    <button onClick={() => changeTime.incrementEnd(index)} className="">{'>'}</button>
+                                    <button onClick={() => changeTime.incrementEnd(index)}
+                                        onDoubleClick={() => changeTime.incrementEnd(index, 0.5)}>
+                                        {'>'}
+                                    </button>
                                 </div>
                             </div>
-                            <div className="less_line_tekstEn " onClick={() => playPart(index)}>
-                                <textarea id={"epPl" + index} name='textPl' value={linia.lineEn} readOnly
+                            <div className="less_line_tekstEn ">
+                                <textarea id={"epPl" + index} name='textPl' value={linia.lineEn}
+                                    onChange={event => handleChangeLineEn(index, event.target.value)}
                                     className="lesson_edit_textarea" />
                             </div>
                         </div>
