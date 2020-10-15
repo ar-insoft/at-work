@@ -169,125 +169,118 @@
 	},
 	{
 		"lineNo": 25,
-		"lineEn": "Well that's mainly to announce that we need to start developing",
-		"linePl": "To głównie po to, aby ogłosić, że musimy zacząć się rozwijać",
+		"lineEn": "Well that's mainly to announce that we need to start developing a good stock management system so we can meet the huge demand I’m expecting for these laser-curved fruits. ",
+		"linePl": "To głównie po to, aby ogłosić, że musimy zacząć się rozwijać dobry system zarządzania zapasami, dzięki czemu możemy sprostać ogromnemu popytowi jaki spodziewam się na owoce zakrzywione laserowo. ",
 		"mp3Start": "131.3",
-		"mp3End": "135.5"
-	},
-	{
-		"lineNo": 26,
-		"lineEn": "a good stock management system so we can meet the huge demand I’m expecting for these laser-curved fruits. ",
-		"linePl": "dobry system zarządzania zapasami, dzięki czemu możemy sprostać ogromnemu popytowi spodziewam się owoców zakrzywionych laserowo. ",
-		"mp3Start": "135.5",
 		"mp3End": "142.3"
 	},
 	{
-		"lineNo": 27,
+		"lineNo": 26,
 		"lineEn": "Anna, I'd like you to lead on that.",
-		"linePl": "Anna, chciałbym, żebyś to poprowadził.",
+		"linePl": "Anna, chciałbym, żebyś to poprowadziła.",
 		"mp3Start": "142.3",
 		"mp3End": "145.1"
 	},
 	{
-		"lineNo": 28,
+		"lineNo": 27,
 		"lineEn": "(quiet murmur of surprise)",
 		"linePl": "(cichy pomruk zaskoczenia)",
 		"mp3Start": "145.1",
 		"mp3End": "147.8"
 	},
 	{
-		"lineNo": 29,
+		"lineNo": 28,
 		"lineEn": "Anna: Me? You want me to be in charge of the stock management systems?",
-		"linePl": "Anna: Ja? Chcesz, żebym był odpowiedzialny za systemy zarządzania zapasami?",
+		"linePl": "Anna: Ja? Chcesz, żebym była odpowiedzialna za systemy zarządzania zapasami?",
 		"mp3Start": "147.8",
-		"mp3End": "152.2"
+		"mp3End": "152.0"
 	},
 	{
-		"lineNo": 30,
+		"lineNo": 29,
 		"lineEn": "Paul: Anna's had some excellent ideas already and I think she'll do a great job.",
 		"linePl": "Paul: Anna ma już świetne pomysły i myślę, że wykona świetną robotę.",
-		"mp3Start": "152.2",
+		"mp3Start": "152.0",
 		"mp3End": "157"
 	},
 	{
-		"lineNo": 31,
+		"lineNo": 30,
 		"lineEn": "For these new fruits, stock control will be key to supplying our customers with laser-curve oranges, laser-curve lemons, laser-curve…",
 		"linePl": "W przypadku tych nowych owoców kontrola zapasów będzie kluczem do zaopatrzenia naszych klientów z pomarańczowymi krzywymi laserowymi, cytrynowymi krzywymi laserowymi, krzywymi laserowymi…",
 		"mp3Start": "157",
 		"mp3End": "166.8"
 	},
 	{
-		"lineNo": 32,
+		"lineNo": 31,
 		"lineEn": "Narrator: Well, that was good news for Anna, but not surprising, after all her hard work. She opened the meeting well, too. Here's a reminder of the phrases she used:",
-		"linePl": "Narrator: Cóż, to była dobra wiadomość dla Anny, ale nic dziwnego, mimo wszystko jej ciężko praca. Ona również dobrze otworzyła spotkanie. Oto przypomnienie zwrotów ona użyła:",
-		"mp3Start": "166.8",
-		"mp3End": "180"
+		"linePl": "Narrator: Cóż, to była dobra wiadomość dla Anny, ale nic dziwnego, po tej jej całej ciężkiej pracy. Ona również dobrze otworzyła spotkanie. Oto przypomnienie zwrotów ona użyła:",
+		"mp3Start": "169.6",
+		"mp3End": "179.5"
 	},
 	{
-		"lineNo": 33,
+		"lineNo": 32,
 		"lineEn": "Anna: Thank you for coming.",
 		"linePl": "Anna: Dziękuję za przybycie.",
 		"mp3Start": "180",
 		"mp3End": "181.6"
 	},
 	{
-		"lineNo": 34,
+		"lineNo": 33,
 		"lineEn": "There are four items on the agenda today.",
 		"linePl": "Dzisiaj są cztery punkty porządku obrad.",
 		"mp3Start": "181.6",
 		"mp3End": "185.1"
 	},
 	{
-		"lineNo": 35,
+		"lineNo": 34,
 		"lineEn": "Firstly... Secondly...",
 		"linePl": "Po pierwsze... Po drugie...",
 		"mp3Start": "185.1",
 		"mp3End": "188.5"
 	},
 	{
-		"lineNo": 36,
+		"lineNo": 35,
 		"lineEn": "After that... Then...",
 		"linePl": "Po tym... Następnie...",
 		"mp3Start": "188.5",
 		"mp3End": "191.8"
 	},
 	{
-		"lineNo": 37,
+		"lineNo": 36,
 		"lineEn": "And finally... Any other business.",
 		"linePl": "I w końcu... Każdy inny biznes.",
 		"mp3Start": "191.8",
 		"mp3End": "195.7"
 	},
 	{
-		"lineNo": 38,
+		"lineNo": 37,
 		"lineEn": "And then we can wrap up.",
 		"linePl": "A potem możemy zakończyć.",
 		"mp3Start": "195.7",
 		"mp3End": "198.4"
 	},
 	{
-		"lineNo": 39,
+		"lineNo": 38,
 		"lineEn": "Narrator: There’s only one problem for Anna now, winning over Mr Ingle the warehouse manager – that won’t be easy. Well, time for me to wrap up now. See you soon! Bye!",
-		"linePl": "Narrator: Teraz jest tylko jeden problem dla Anny, wygrana z panem Ingle kierownik magazynu - to nie będzie łatwe. Czas na podsumowanie teraz. Do zobaczenia wkrótce! PA!",
+		"linePl": "Narrator: Teraz jest tylko jeden problem dla Anny, przekonanie z pana Ingle kierownika magazynu - to nie będzie łatwe. Czas na podsumowanie teraz. Do zobaczenia wkrótce! PA!",
 		"mp3Start": "198.4",
 		"mp3End": "210.4"
 	},
 	{
-		"lineNo": 40,
+		"lineNo": 39,
 		"lineEn": " Listening Challenge",
 		"linePl": " Wyzwanie słuchania",
 		"mp3Start": "",
 		"mp3End": ""
 	},
 	{
-		"lineNo": 41,
+		"lineNo": 40,
 		"lineEn": "What was the second item on the agenda for today's meeting?",
 		"linePl": "Jaki był drugi punkt porządku dziennego dzisiejszego spotkania?",
 		"mp3Start": "",
 		"mp3End": ""
 	},
 	{
-		"lineNo": 42,
+		"lineNo": 41,
 		"lineEn": "(Answer: Plans for a team-building activity)",
 		"linePl": "(Odpowiedź: Plany działania integracyjnego) ",
 		"mp3Start": "",

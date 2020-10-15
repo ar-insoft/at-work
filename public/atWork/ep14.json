@@ -3,13 +3,13 @@
 		"lineNo": 1,
 		"lineEn": "Narrator: Hello. We're back at Tip Top Trading. Anna is very busy dealing with Mr Lime's big order for Imperial Lemons. (phone rings)",
 		"linePl": "Narrator: Cześć. Wróciliśmy do Tip Top Trading. Anna jest bardzo zajęta zajmowaniem się dużym zamówieniem Pana Lime na Imperialne Cytryny.\r (telefon dzwoni)\r",
-		"mp3Start": "3.7",
+		"mp3Start": "4.1",
 		"mp3End": "13.0"
 	},
 	{
 		"lineNo": 2,
 		"lineEn": "Anna:   Yes?... Who?... I can't hear you. Mr what? What? Mr Who? I don't know, you tell me. Oh, you are Mr Hu... H-U: Hu. Er... No, Tom's busy. Call back later. Bye. (hangs up) Tom, Mr Hu called you.",
-		"linePl": "Anna: Tak? ... Kto? ... Nie słyszę cię. Panie, co? Co? Mr Who? Nie wiem, ty mi powiedz. Och, jesteś panem Hu ... H-U: Hu. Eee ... Nie, Tom jest zajęty. Oddzwonić później. PA. (rozłącza się) Tom, pan Hu zadzwonił do ciebie.\r",
+		"linePl": "Anna: Tak? ... Kto? ... Nie słyszę cię. Panie, co? Co? Mr Who? Nie wiem, ty mi powiedz. Och, jesteś panem Hu ... H-U: Hu. Eee ... Nie, Tom jest zajęty. Oddzwoń później. PA. (rozłącza się) Tom, pan Hu zadzwonił do ciebie.\n",
 		"mp3Start": "14.2",
 		"mp3End": "38.5"
 	},
@@ -67,13 +67,13 @@
 		"lineEn": "(door closing)",
 		"linePl": "(zamykanie drzwi)\r",
 		"mp3Start": "77.9",
-		"mp3End": "78.7"
+		"mp3End": "78.5"
 	},
 	{
 		"lineNo": 11,
 		"lineEn": "Paul:   Now, Anna... biscuit? Anna:  Thank you.",
 		"linePl": "Paul: A teraz, Anna ... herbatnik?\r Anna: Dziękuję.\r",
-		"mp3Start": "78.7",
+		"mp3Start": "78.6",
 		"mp3End": "82.2"
 	},
 	{
@@ -87,7 +87,7 @@
 		"lineNo": 13,
 		"lineEn": "Anna: (to herself/whispering) \"I'm a little bit concerned...\" Doesn't that mean something bad?",
 		"linePl": "Anna: (do siebie / szeptu) \"Trochę się martwię ...\" Czy to nie znaczy coś złego?\r",
-		"mp3Start": "85.7",
+		"mp3Start": "86.0",
 		"mp3End": "90.7"
 	},
 	{
@@ -95,7 +95,7 @@
 		"lineEn": "Narrator: Yes, Anna, Paul is using a polite turn of phrase to say he is unhappy about something. Let's see what he's got to say....",
 		"linePl": "Narrator: Tak, Anna, Paul używa uprzejmego zwrotu, by powiedzieć, że jest nieszczęśliwy o coś. Zobaczmy, co ma do powiedzenia ...\r",
 		"mp3Start": "90.7",
-		"mp3End": "99.5"
+		"mp3End": "99.2"
 	},
 	{
 		"lineNo": 15,
@@ -115,7 +115,7 @@
 		"lineNo": 17,
 		"lineEn": "Narrator: It means the way you talk on the phone is not good enough and you have to improve it – to work on it to make it better.",
 		"linePl": "Narrator: Oznacza to, że sposób, w jaki rozmawiasz przez telefon, nie jest wystarczająco dobry i masz go ulepszyć - pracować nad nim, aby było lepiej.\r",
-		"mp3Start": "106.7",
+		"mp3Start": "107.0",
 		"mp3End": "114.5"
 	},
 	{
@@ -136,7 +136,7 @@
 		"lineNo": 20,
 		"lineEn": "Paul:   Anna, are you listening to me?",
 		"linePl": "Paul: Anna, słuchasz mnie?\r",
-		"mp3Start": "123.3",
+		"mp3Start": "123.7",
 		"mp3End": "125.4"
 	},
 	{
@@ -154,7 +154,7 @@
 		"mp3End": "142.3"
 	},
 	{
-		"linePl": "Może ty powinni myśleć o byciu bardziej uprzejmym wobec klientów; to jest ważne dla wizerunek firmy.\n",
+		"linePl": "Może powinnaś pomyśleć o byciu bardziej uprzejmym wobec klientów; to jest ważne dla wizerunek firmy.\n",
 		"lineEn": "Perhaps you should think about being a bit more polite to clients; it's important for the image of the company.",
 		"lineNo": 23,
 		"mp3Start": "142.2",
@@ -219,7 +219,7 @@
 	{
 		"lineNo": 32,
 		"lineEn": "But, look, I'll help you if you like. I'm a bit of an expert on the phone. I'll give you some lessons.",
-		"linePl": "Ale spójrz, pomogę ci, jeśli chcesz. Jestem ekspertem w telefonie. Chory Daj ci trochę lekcji.\r",
+		"linePl": "Ale spójrz, pomogę ci, jeśli chcesz. Jestem ekspertem w telefonie. Dam ci trochę lekcji.\n",
 		"mp3Start": "184.5",
 		"mp3End": "192.7"
 	},
@@ -233,7 +233,7 @@
 	{
 		"lineNo": 34,
 		"lineEn": "Denise:  Come in early tomorrow morning, before the others get here and we'll practise.",
-		"linePl": "Denise: Przyjdź jutro rano, zanim inni tu przyjdą, a my to zrobimy ćwiczyć.\r",
+		"linePl": "Denise: Przyjdź jutro rano, zanim inni tu przyjdą, i poćwiczyczymy.\n",
 		"mp3Start": "194.4",
 		"mp3End": "200.1"
 	},
@@ -247,7 +247,7 @@
 	{
 		"lineNo": 36,
 		"lineEn": "Narrator: Wow! Denise is actually being nice to Anna. Amazing! Although from what I've heard of Denise on the phone, she's only ever gossiping with friends.",
-		"linePl": "Narrator: Wow! Denise w rzeczywistości jest miła dla Anny. Niesamowity! Chociaż z czego Słyszałem o Denise przez telefon, ona tylko plotkuje z przyjaciółmi.\r",
+		"linePl": "Narrator: Wow! Denise w rzeczywistości jest miła dla Anny. Niesamowite! Chociaż z czego Słyszałem o Denise przez telefon, ona jedynie tylko plotkuje z przyjaciółmi.\n",
 		"mp3Start": "204.4",
 		"mp3End": "214.9"
 	},
@@ -262,8 +262,8 @@
 		"lineNo": 38,
 		"lineEn": "I'm a little bit concerned about...",
 		"linePl": "Jestem trochę zaniepokojony ...\r",
-		"mp3Start": "223.5",
-		"mp3End": "226.7"
+		"mp3Start": "223.8",
+		"mp3End": "226.5"
 	},
 	{
 		"lineNo": 39,

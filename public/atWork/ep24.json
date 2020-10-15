@@ -1,0 +1,387 @@
+[
+	{
+		"lineNo": 1,
+		"lineEn": "Fire alarm Denise: Tom? Tom: Here. Denise: Anna? Anna: Here Denise. Denise: And Paul?",
+		"linePl": "Alarm przeciwpożarowy\r Denise: Tom?\r Tom: Tutaj.\r Denise: Anna?\r Anna: Tutaj Denise.\r Denise: A Paul?\r",
+		"mp3Start": "4.4",
+		"mp3End": "8.3"
+	},
+	{
+		"lineNo": 2,
+		"lineEn": "Paul: Yes, yes I'm here and there's no need to panic. That was just a fire drill – a practice.",
+		"linePl": "Paul: Tak, tak, jestem tutaj i nie ma powodu do paniki. To były tylko ćwiczenia przeciwpożarowe - praktyka.\r",
+		"mp3Start": "8.5",
+		"mp3End": "15.0"
+	},
+	{
+		"lineNo": 3,
+		"lineEn": "Narrator: Phew, Tip Top Trading is safe – for now. It was just a fire drill. What a busy day this is turning out to be. ",
+		"linePl": "Narrator: Uff, Tip Top Trading jest bezpieczny - na razie. To były tylko ćwiczenia przeciwpożarowe. Cóż to za pracowity dzień okazał się być. ",
+		"mp3Start": "15.1",
+		"mp3End": "23.9"
+	},
+	{
+		"linePl": "Hej, Anno, pamiętaj, że następnym razem może być naprawdę, więc czy jesteś szczęśliwy, co powiedzieć, jeśli musisz przejąć kontrolę?\n",
+		"lineEn": "Hey Anna, remember next time it could be for real so are you happy about what to say if you have to take charge?",
+		"lineNo": 4,
+		"mp3Start": "24.8",
+		"mp3End": "31.3"
+	},
+	{
+		"lineNo": 5,
+		"lineEn": "Anna: Oh, not really.",
+		"linePl": "Anna: Och, niezupełnie.\r",
+		"mp3Start": "31.8",
+		"mp3End": "33.1"
+	},
+	{
+		"lineNo": 6,
+		"lineEn": "Narrator: Just keep calm and say things like:",
+		"linePl": "Narrator: Po prostu zachowaj spokój i powiedz takie rzeczy jak:\r",
+		"mp3Start": "33.2",
+		"mp3End": "36.3"
+	},
+	{
+		"lineNo": 7,
+		"lineEn": "There's no need to panic.",
+		"linePl": "Nie ma powodu do paniki.\r",
+		"mp3Start": "36.3",
+		"mp3End": "38.3"
+	},
+	{
+		"lineNo": 8,
+		"lineEn": "Please leave the building and meet outside.",
+		"linePl": "Opuść budynek i spotkaj się na zewnątrz.\r",
+		"mp3Start": "39.0",
+		"mp3End": "41.9"
+	},
+	{
+		"lineNo": 9,
+		"lineEn": "Use the stairs not the lift.",
+		"linePl": "Skorzystaj ze schodów, a nie z windy.\r",
+		"mp3Start": "41.9",
+		"mp3End": "44.5"
+	},
+	{
+		"lineNo": 10,
+		"lineEn": "And when you're outside, you could say: is anybody missing?",
+		"linePl": "A kiedy jesteś na zewnątrz, możesz powiedzieć: czy kogoś brakuje?\r",
+		"mp3Start": "44.5",
+		"mp3End": "49.0"
+	},
+	{
+		"lineNo": 11,
+		"lineEn": "Anna: OK, thanks, but I hope I'll never need to use them.",
+		"linePl": "Anna: OK, dziękuję, ale mam nadzieję, że nigdy nie będę musiała ich używać.\r",
+		"mp3Start": "49.8",
+		"mp3End": "53.6"
+	},
+	{
+		"lineNo": 12,
+		"lineEn": "Paul: Well done everyone. Hopefully you all know what to do in the unlikely event of a real fire. ",
+		"linePl": "Paul: Dobra robota wszystkim. Mam nadzieję, że wszyscy wiecie, co robić w mało prawdopodobnym przypadku prawdziwego pożaru. \n",
+		"mp3Start": "53.6",
+		"mp3End": "60.1"
+	},
+	{
+		"linePl": "Teraz, aby to uczcić, wyskoczę kupić naprawdę fajne ciastka dla nas wszystkich - no wiesz, te specjalne podwójne czekoladki. Wszyscy wracają do pracy.",
+		"lineEn": "Now, to celebrate, I'm off to buy some really nice biscuits for all of us – you know, those special double-choc ones. Back to work everyone.",
+		"lineNo": 13,
+		"mp3Start": "60.2",
+		"mp3End": "70.0"
+	},
+	{
+		"lineNo": 14,
+		"lineEn": "Back in the office",
+		"linePl": "Z powrotem w biurze\r",
+		"mp3Start": "72.8",
+		"mp3End": "74.2"
+	},
+	{
+		"lineNo": 15,
+		"lineEn": "Denise: Honestly! I was in the middle of an important call.",
+		"linePl": "Denise: Szczerze! Byłem w trakcie ważnej rozmowy.\r",
+		"mp3Start": "74.1",
+		"mp3End": "78.6"
+	},
+	{
+		"lineNo": 16,
+		"lineEn": "Tom: Yeah, and you never got to see those firemen in action, did you Denise?",
+		"linePl": "Tom: Tak, i nigdy nie widziałeś strażaków w akcji, prawda Denise?\r",
+		"mp3Start": "78.7",
+		"mp3End": "82.5"
+	},
+	{
+		"lineNo": 17,
+		"lineEn": "Anna: Look at the time.  I really need to get on with my work.",
+		"linePl": "Anna: Spójrz na czas. Naprawdę muszę kontynuować swoją pracę.\r",
+		"mp3Start": "83.4",
+		"mp3End": "87.8"
+	},
+	{
+		"lineNo": 18,
+		"lineEn": "Tom: Yeah, and I've got to check up on the latest football… I mean share prices. Hold on, can anyone smell smoke?",
+		"linePl": "Tom: Tak, i muszę sprawdzić najnowszą piłkę nożną… Mam na myśli ceny akcji. Poczekaj, czy ktoś może poczuć dym?\r",
+		"mp3Start": "88",
+		"mp3End": "95.7"
+	},
+	{
+		"lineNo": 19,
+		"lineEn": "Fire alarm",
+		"linePl": "Alarm przeciwpożarowy\r",
+		"mp3Start": "96.4",
+		"mp3End": "97.3"
+	},
+	{
+		"lineNo": 20,
+		"lineEn": "Denise: (On phone) I don't believe it! The fire alarm's gone off again. I'll call you back Marge. (Hangs up) ",
+		"linePl": "Denise: (przez telefon) Nie wierzę! Alarm pożarowy znowu się włączył. Oddzwonię do Marge. (Rozłącza się) \n",
+		"mp3Start": "97.3",
+		"mp3End": "103.0"
+	},
+	{
+		"linePl": "Oh, gdzie jest Paul, kiedy go potrzebujesz? Anna, będziesz musiał przejąć dowodzenie.",
+		"lineEn": "Oh, where's Paul when you need him? Anna, you're going to have to take charge.",
+		"lineNo": 21,
+		"mp3Start": "103.3",
+		"mp3End": "107.6"
+	},
+	{
+		"lineNo": 22,
+		"lineEn": "Anna: Me? What about Tom?",
+		"linePl": "Anna: Ja? Co z Tomem?\r",
+		"mp3Start": "107.5",
+		"mp3End": "110"
+	},
+	{
+		"lineNo": 23,
+		"lineEn": "Denise: It looks like Tom has gone already.",
+		"linePl": "Denise: Wygląda na to, że Tom już odszedł.\r",
+		"mp3Start": "110",
+		"mp3End": "111.7"
+	},
+	{
+		"lineNo": 24,
+		"lineEn": "Narrator: Remember Anna, use those phrases to keep everyone calm and informed about what to do.",
+		"linePl": "Narrator: Pamiętaj Anno, użyj tych zwrotów, aby wszyscy byli spokojni i informowani o tym, co robić.\n",
+		"mp3Start": "112.8",
+		"mp3End": "118.0"
+	},
+	{
+		"lineNo": 25,
+		"lineEn": "Anna: OK. Err… there's no need to panic. Please leave the building and meet outside.",
+		"linePl": "Anna: OK. Eee… nie ma powodu do paniki. Opuść budynek i spotkaj się na zewnątrz.\r",
+		"mp3Start": "118.8",
+		"mp3End": "125.6"
+	},
+	{
+		"lineNo": 26,
+		"lineEn": "Denise: Hold on, I just need to grab my elephant dung notepad and red pen. Come on then Anna, into the lift.",
+		"linePl": "Denise: Poczekaj, muszę tylko chwycić mój słoniowy notatnik i czerwony długopis. W takim razie Anna, do windy.\n",
+		"mp3Start": "125.9",
+		"mp3End": "133.1"
+	},
+	{
+		"lineNo": 27,
+		"lineEn": "Anna:  No Denise. We must use the stairs not the lift.",
+		"linePl": "Anna: Bez Denise. Musimy korzystać ze schodów, a nie z windy.\r",
+		"mp3Start": "133.2",
+		"mp3End": "136.8"
+	},
+	{
+		"lineNo": 28,
+		"lineEn": "Denise: Oh, with my knees!",
+		"linePl": "Denise: Och, z moimi kolanami!\n",
+		"mp3Start": "136.8",
+		"mp3End": "138.7"
+	},
+	{
+		"lineNo": 29,
+		"lineEn": "Anna: Jump up Denise, I'll carry you.",
+		"linePl": "Anna: Wskakuj Denise, ja cię poniosę.\n",
+		"mp3Start": "138.8",
+		"mp3End": "140.3"
+	},
+	{
+		"lineNo": 30,
+		"lineEn": "Outside",
+		"linePl": "Na zewnątrz\r",
+		"mp3Start": "140.9",
+		"mp3End": "142.1"
+	},
+	{
+		"lineNo": 31,
+		"lineEn": "Anna: (Quietly) Could I have your attention please.",
+		"linePl": "Anna: (cicho) Czy mogę prosić o uwagę.\r",
+		"mp3Start": "144.6",
+		"mp3End": "148.0"
+	},
+	{
+		"lineNo": 32,
+		"lineEn": "Narrator: Louder Anna. This is urgent!",
+		"linePl": "Narrator: Louder Anna. To jest pilne!\r",
+		"mp3Start": "148.0",
+		"mp3End": "150.6"
+	},
+	{
+		"lineNo": 33,
+		"lineEn": "Anna: (Loudly) Could I have your attention please! I need your full attention. Please stay calm. I'm sure there's not a fire, just a bit of smoke. Is there anybody missing?",
+		"linePl": "Anna: (głośno) Czy mogę prosić o uwagę! Potrzebuję twojej pełnej uwagi. Proszę, zachowaj spokój. Jestem pewien, że nie ma ognia, tylko trochę dymu. Czy kogoś brakuje?\r",
+		"mp3Start": "150.6",
+		"mp3End": "164.1"
+	},
+	{
+		"lineNo": 34,
+		"lineEn": "Denise: Well, there's no smoke without fire, hey Tom! Tom? Tom? Has anyone seen Tom?",
+		"linePl": "Denise: Cóż, nie ma dymu bez ognia, hej Tom! Tom? Tom? Czy ktoś widział Toma?\n",
+		"mp3Start": "164.1",
+		"mp3End": "170.6"
+	},
+	{
+		"lineNo": 35,
+		"lineEn": "That's Tom coming out of the building and he's carrying someone on his shoulder!",
+		"linePl": "To Tom wychodzi z budynku i niesie kogoś na ramieniu!\r",
+		"mp3Start": "170.9",
+		"mp3End": "177.2"
+	},
+	{
+		"lineNo": 36,
+		"lineEn": "Anna: It's Mr Ingle from the warehouse!",
+		"linePl": "Anna: To pan Ingle z magazynu!\r",
+		"mp3Start": "177.4",
+		"mp3End": "180.4"
+	},
+	{
+		"lineNo": 37,
+		"lineEn": "Tom: (Out of breath and coughing) It's OK everyone… I've put the fire out… it was in the warehouse. Mr Ingle had been smoking.",
+		"linePl": "Tom: (Zadyszka i kaszel) Wszyscy są w porządku… Zgasiłem ogień… był w magazynie. Pan Ingle palił.\r",
+		"mp3Start": "180.4",
+		"mp3End": "192.6"
+	},
+	{
+		"lineNo": 38,
+		"lineEn": "Anna: Mr Ingle! Mr Ingle: Err… yeah… sorry.",
+		"linePl": "Anna: Panie Ingle!\r Pan Ingle: Err… tak… przepraszam.\r",
+		"mp3Start": "192.7",
+		"mp3End": "197.5"
+	},
+	{
+		"lineNo": 39,
+		"lineEn": "Narrator:  Sorry indeed! Mr Ingle's in serious trouble now. ",
+		"linePl": "Narrator: Zaiste przepraszam! Pan Ingle ma teraz poważne kłopoty. ",
+		"mp3Start": "199.2",
+		"mp3End": "203.2"
+	},
+	{
+		"linePl": "Ale dobrze zrobiona Anno za poradzenie sobie z tą sytuacją kryzysową i wyprowadzenie wszystkich z budynku. ",
+		"lineEn": "But well done Anna for dealing with that emergency and getting everyone out of the building. ",
+		"lineNo": 40,
+		"mp3Start": "203.4",
+		"mp3End": "208.5"
+	},
+	{
+		"linePl": "Oto niektóre z wyrażeń, których użyła:\n",
+		"lineEn": "Here are some of the phrases she used:",
+		"lineNo": 41,
+		"mp3Start": "209.0",
+		"mp3End": "211.2"
+	},
+	{
+		"lineNo": 42,
+		"lineEn": "There's no need to panic.",
+		"linePl": "Nie ma powodu do paniki.\r",
+		"mp3Start": "211.6",
+		"mp3End": "213.4"
+	},
+	{
+		"lineNo": 43,
+		"lineEn": "Please leave the building and meet outside.",
+		"linePl": "Opuść budynek i spotkaj się na zewnątrz.\r",
+		"mp3Start": "213.4",
+		"mp3End": "216.5"
+	},
+	{
+		"lineNo": 44,
+		"lineEn": "Use the stairs not the lift.",
+		"linePl": "Skorzystaj ze schodów, a nie z windy.\r",
+		"mp3Start": "216.5",
+		"mp3End": "219"
+	},
+	{
+		"lineNo": 45,
+		"lineEn": "And when you're outside, you could say:",
+		"linePl": "A kiedy jesteś na zewnątrz, możesz powiedzieć:\r",
+		"mp3Start": "219",
+		"mp3End": "221.9"
+	},
+	{
+		"lineNo": 46,
+		"lineEn": "Is anybody missing?",
+		"linePl": "Czy kogoś brakuje?\r",
+		"mp3Start": "221.8",
+		"mp3End": "223.3"
+	},
+	{
+		"lineNo": 47,
+		"lineEn": "Seems like Tom is a bit of a hero. He has his uses! But hold on, who's this?",
+		"linePl": "Wygląda na to, że Tom jest trochę bohaterem. Ma swoje zastosowania! Ale trzymaj się, kto to jest?\r",
+		"mp3Start": "224.9",
+		"mp3End": "231.5"
+	},
+	{
+		"lineNo": 48,
+		"lineEn": "Mr Socrates: Say Honey, looks like I've come at a good time. Have you seen a guy called Paul round here?",
+		"linePl": "Pan Socrates: Powiedz kochanie, wygląda na to, że przyszedłem w dobrym momencie. Widziałeś tu faceta o imieniu Paul?\r",
+		"mp3Start": "232.2",
+		"mp3End": "237.6"
+	},
+	{
+		"lineNo": 49,
+		"lineEn": "Anna: He's not here, he's gone to buy some… err… biscuits. Can I help?",
+		"linePl": "Anna: Nie ma go tu, poszedł kupić… er… herbatniki. Czy mogę pomóc?\n",
+		"mp3Start": "237.6",
+		"mp3End": "242.5"
+	},
+	{
+		"lineNo": 50,
+		"lineEn": "Mr Socrates: Yeah sugar. I'm Mr Socrates, Paul's boss and I've come to sort this business out.",
+		"linePl": "Pan Sokrates: Tak, słodka. Jestem Pan Socrates, szef Paula i przybyłem uporządkować ten biznes.\n",
+		"mp3Start": "242.7",
+		"mp3End": "247.8"
+	},
+	{
+		"lineNo": 51,
+		"lineEn": "Tom & Denise: Mr Socrates!",
+		"linePl": "Tom & Denise: Mr Socrates!\r",
+		"mp3Start": "247.8",
+		"mp3End": "250.3"
+	},
+	{
+		"lineNo": 52,
+		"lineEn": "Narrator: Oh no! The head of the company's in town. This means trouble. See you next time.",
+		"linePl": "Narrator: O nie! Szef firmy w mieście. To oznacza kłopoty. Do zobaczenia następnym razem.\r",
+		"mp3Start": "250.3",
+		"mp3End": "258.2"
+	},
+	{
+		"lineNo": 53,
+		"lineEn": "• Listening Challenge:",
+		"linePl": "• Wyzwanie słuchania:\r",
+		"mp3Start": "",
+		"mp3End": ""
+	},
+	{
+		"lineNo": 54,
+		"lineEn": "Who does Tom carry out of the building on his shoulders?",
+		"linePl": "Kto Tom wykonuje z budynku na swoich ramionach?\r",
+		"mp3Start": "",
+		"mp3End": ""
+	},
+	{
+		"lineNo": 55,
+		"lineEn": "Answer: Mr Ingle",
+		"linePl": "Odpowiedź: Pan Ingle ",
+		"mp3Start": "",
+		"mp3End": ""
+	}
+]

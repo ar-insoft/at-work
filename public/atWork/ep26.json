@@ -1,0 +1,450 @@
+[
+	{
+		"lineNo": 1,
+		"lineEn": "Narrator: Welcome back to Tip Top Trading where everyone seems a bit flustered.",
+		"linePl": "Narrator: Witamy z powrotem w Tip Top Trading, gdzie wszyscy wydają się trochę skołowani.\n",
+		"mp3Start": "3.9",
+		"mp3End": "8.4"
+	},
+	{
+		"lineNo": 2,
+		"lineEn": "Paul: …and we really need the best biscuits there are.",
+		"linePl": "Paul:… i naprawdę potrzebujemy najlepszych herbatników.\r",
+		"mp3Start": "8.4",
+		"mp3End": "11.6"
+	},
+	{
+		"lineNo": 3,
+		"lineEn": "Denise: Yes, and I’ve made sure there’s tea and coffee…",
+		"linePl": "Denise: Tak i upewniłem się, że jest herbata i kawa…\r",
+		"mp3Start": "11.7",
+		"mp3End": "15.6"
+	},
+	{
+		"lineNo": 4,
+		"lineEn": "Paul: …and the carpets? Denise: Uh?",
+		"linePl": "Paul:… i dywany?\r Denise: Uh?\r",
+		"mp3Start": "15.8",
+		"mp3End": "17.7"
+	},
+	{
+		"lineNo": 5,
+		"lineEn": "Paul: …have they been cleaned.",
+		"linePl": "Paul:… czy zostały oczyszczone?\r",
+		"mp3Start": "17.7",
+		"mp3End": "19.6"
+	},
+	{
+		"lineNo": 6,
+		"lineEn": "Denise: Don’t panic Paul, all taken care of.",
+		"linePl": "Denise: Nie panikuj, Paul, wszystko załatwione.\r",
+		"mp3Start": "19.7",
+		"mp3End": "23.7"
+	},
+	{
+		"lineNo": 7,
+		"lineEn": "Narrator: You see, the big boss from America, Mr Socrates, is in town and everything must be just right. What’s he like Anna?",
+		"linePl": "Narrator: Widzisz, wielki szef z Ameryki, pan Socrates, jest w mieście i wszystko musi być w porządku. Jaki on jest jak Anna?\r",
+		"mp3Start": "23.7",
+		"mp3End": "31.7"
+	},
+	{
+		"lineNo": 8,
+		"lineEn": "Anna: Well, so far he seems OK. A bit bossy, quite short and… a bit smelly!",
+		"linePl": "Anna: Jak dotąd wydaje się OK. Trochę apodyktyczny, dość niski i… trochę śmierdzący!\n",
+		"mp3Start": "31.7",
+		"mp3End": "41.5"
+	},
+	{
+		"lineNo": 9,
+		"lineEn": "Narrator: Well, he did just fly in from the States. But you booked him into a good hotel so hopefully he’s had a chance to clean up.",
+		"linePl": "Narrator: Cóż, właśnie przyleciał ze Stanów. Ale zarezerwowałeś go w dobrym hotelu, więc mam nadzieję, że miał szansę posprzątać.\r",
+		"mp3Start": "41.7",
+		"mp3End": "49.7"
+	},
+	{
+		"lineNo": 10,
+		"lineEn": "Anna: I hope so!",
+		"linePl": "Anna: Mam taką nadzieję!\r",
+		"mp3Start": "49.9",
+		"mp3End": "51.3"
+	},
+	{
+		"lineNo": 11,
+		"lineEn": "(Phone rings) Oh, I had better get that. Hello? Ah hello Mr Socrates, did you sleep well? Oh! I see… I see… erm… well… oh, I don’t know… Tom said it was five-star… well… OK… goodb- Oh, he’s hung up.",
+		"linePl": "(Dzwoni telefon) Och, lepiej to zrozumiem. Cześć? Ach, cześć panie Sokrates, dobrze spałeś? O! Rozumiem… Rozumiem… eee… cóż… och, nie wiem… Tom powiedział, że to pięciogwiazdkowa… cóż… OK… goodb- Och, rozłączył się.\r",
+		"mp3Start": "52.4",
+		"mp3End": "78.7"
+	},
+	{
+		"lineNo": 12,
+		"lineEn": "Paul: Everything OK Anna? You look a bit pale.",
+		"linePl": "Paul: Wszystko w porządku Anna? Wyglądasz trochę blado.\r",
+		"mp3Start": "79.0",
+		"mp3End": "82.4"
+	},
+	{
+		"lineNo": 13,
+		"lineEn": "Anna: It was Mr Socrates. He’s not happy.",
+		"linePl": "Anna: To był pan Socrates. On nie jest szczęśliwy.\r",
+		"mp3Start": "82.4",
+		"mp3End": "86.3"
+	},
+	{
+		"lineNo": 14,
+		"lineEn": "Paul: Golly gosh, oh dear. What’s the matter?",
+		"linePl": "Paul: Golly, Boże, kochanie. O co chodzi?\r",
+		"mp3Start": "86.3",
+		"mp3End": "89.7"
+	},
+	{
+		"lineNo": 15,
+		"lineEn": "Anna: It’s his hotel room. He doesn’t like it. The bed’s too soft, too small and it’s a single room not a twin room.",
+		"linePl": "Anna: To jego pokój hotelowy. Nie podoba mu się to. Łóżko jest zbyt miękkie, zbyt małe i jest to pokój jednoosobowy, a nie pokój typu twin.\r",
+		"mp3Start": "89.7",
+		"mp3End": "98.8"
+	},
+	{
+		"lineNo": 16,
+		"lineEn": "Paul: Oh yes, he likes to have two beds in the room for some reason.",
+		"linePl": "Paul: O tak, z jakiegoś powodu lubi mieć dwa łóżka w pokoju.\r",
+		"mp3Start": "98.9",
+		"mp3End": "102.4"
+	},
+	{
+		"lineNo": 17,
+		"lineEn": "Anna: But Tom said he only likes a single bed in the room.",
+		"linePl": "Anna: Ale Tom powiedział, że lubi tylko pojedyncze łóżko w pokoju.\r",
+		"mp3Start": "102.6",
+		"mp3End": "105.8"
+	},
+	{
+		"lineNo": 18,
+		"lineEn": "Paul: Really? Oh no, he insists on a twin – something to do with business partners he says. Anything else?",
+		"linePl": "Paul: Naprawdę? O nie, nalega na twin - mówi coś wspólnego z partnerami biznesowymi. Coś jeszcze?\n",
+		"mp3Start": "105.8",
+		"mp3End": "113.7"
+	},
+	{
+		"lineNo": 19,
+		"lineEn": "Anna: Yes. He says he wanted freshly squeezed orange juice for breakfast, not the stuff out of a carton.",
+		"linePl": "Anna: Tak. Mówi, że chciał świeżo wyciśnięty sok pomarańczowy na śniadanie, a nie rzeczy z kartonu.\r",
+		"mp3Start": "113.7",
+		"mp3End": "121"
+	},
+	{
+		"lineNo": 20,
+		"lineEn": "Denise: Anything else?! A view of Mount Everest perhaps?",
+		"linePl": "Denise: Coś jeszcze ?! Może widok na Mount Everest?\r",
+		"mp3Start": "121",
+		"mp3End": "125.1"
+	},
+	{
+		"lineNo": 21,
+		"lineEn": "Paul: Yes, thank you Denise. Well, we really must sort this out. We can’t afford to upset Mr Socrates.  ",
+		"linePl": "Paul: Tak, dziękuję Denise. Cóż, naprawdę musimy to rozwiązać. Nie możemy sobie pozwolić na zdenerwowanie pana Sokratesa. ",
+		"mp3Start": "125.1",
+		"mp3End": "132.1"
+	},
+	{
+		"lineNo": 22,
+		"lineEn": "Now Anna, you chose this hotel, I really think you need to sort out this mess. Anna: It was Tom’s suggestion…",
+		"linePl": "Teraz, Anna, wybrałaś ten hotel, naprawdę myślę, że musisz rozwiązać ten bałagan.\n Anna: To była sugestia Toma…\n",
+		"mp3Start": "132.1",
+		"mp3End": "138.9"
+	},
+	{
+		"lineNo": 23,
+		"lineEn": "Paul: Just sort it, quickly. Oh golly golly gosh.",
+		"linePl": "Paul: Po prostu to napraw, szybko. Och, golly golly gosh.\n",
+		"mp3Start": "139",
+		"mp3End": "142.5"
+	},
+	{
+		"lineNo": 24,
+		"lineEn": "Narrator: Uh oh Anna. Time to do some complaining. What are you going to say?",
+		"linePl": "Narrator: Uh oh Anna. Czas na narzekanie. Co powiesz\r",
+		"mp3Start": "143.3",
+		"mp3End": "148.4"
+	},
+	{
+		"lineNo": 25,
+		"lineEn": "Anna: Oh... I don’t know. I’m not very good at complaining.",
+		"linePl": "Anna: Oh ... nie wiem. Nie jestem zbyt dobry w narzekaniu.\r",
+		"mp3Start": "148.4",
+		"mp3End": "153.1"
+	},
+	{
+		"lineNo": 26,
+		"lineEn": "Narrator: Well, Anna. Keep your cool and politely tell the hotel why you’re not happy. You could say:",
+		"linePl": "Narrator: Cóż, Anna. Zachowaj spokój i uprzejmie powiedz hotelowi, dlaczego nie jesteś szczęśliwy. Można powiedzieć:\r",
+		"mp3Start": "153.1",
+		"mp3End": "159.7"
+	},
+	{
+		"lineNo": 27,
+		"lineEn": "I’m very disappointed with your service.",
+		"linePl": "Jestem bardzo rozczarowany twoją usługą.\r",
+		"mp3Start": "159.7",
+		"mp3End": "163"
+	},
+	{
+		"lineNo": 28,
+		"lineEn": "The standard of service is not good enough.",
+		"linePl": "Standard obsługi nie jest wystarczająco dobry.\r",
+		"mp3Start": "163",
+		"mp3End": "166.7"
+	},
+	{
+		"lineNo": 29,
+		"lineEn": "The room I booked did not meet my expectations",
+		"linePl": "Pokój, który zarezerwowałem, nie spełnił moich oczekiwań\r",
+		"mp3Start": "166.7",
+		"mp3End": "171.2"
+	},
+	{
+		"lineNo": 30,
+		"lineEn": "Good luck Anna!",
+		"linePl": "Powodzenia, Anno!\r",
+		"mp3Start": "171.2",
+		"mp3End": "172.6"
+	},
+	{
+		"lineNo": 31,
+		"lineEn": "Anna: OK. Here goes. (Dialling phone and ringing)",
+		"linePl": "Anna: OK. Tutaj idzie. (Wybieranie numeru telefonu i dzwonienie)\r",
+		"mp3Start": "173.4",
+		"mp3End": "176.4"
+	},
+	{
+		"lineNo": 32,
+		"lineEn": "Receptionist:  Hello. Royal Imperial Hotel.",
+		"linePl": "Recepcjonista: Cześć. Royal Imperial Hotel.\r",
+		"mp3Start": "181.9",
+		"mp3End": "185.4"
+	},
+	{
+		"lineNo": 33,
+		"lineEn": "Anna: Erm... hello… I want to… I want to complain.",
+		"linePl": "Anna: Eee ... cześć ... chcę ... chcę narzekać.\r",
+		"mp3Start": "185.4",
+		"mp3End": "190.3"
+	},
+	{
+		"lineNo": 34,
+		"lineEn": "Receptionist: Really? About what exactly?",
+		"linePl": "Recepcjonista: Naprawdę? O czym dokładnie?\r",
+		"mp3Start": "190.3",
+		"mp3End": "193.2"
+	},
+	{
+		"lineNo": 35,
+		"lineEn": "Anna: Your hotel… Well, I mean, a room I booked for my boss. Room 101. I’m very disappointed with your service.",
+		"linePl": "Anna: Twój hotel… Mam na myśli pokój zarezerwowany dla mojego szefa. Pokój 101. Jestem bardzo rozczarowany twoją obsługą.\r",
+		"mp3Start": "193.2",
+		"mp3End": "202.7"
+	},
+	{
+		"lineNo": 36,
+		"lineEn": "Receptionist: And why’s that then?",
+		"linePl": "Recepcjonista: I dlaczego tak jest?\r",
+		"mp3Start": "203.0",
+		"mp3End": "205"
+	},
+	{
+		"lineNo": 37,
+		"lineEn": "Anna: Well, the room isn’t like the one I booked. It’s just not good enough.",
+		"linePl": "Anna: Cóż, pokój nie jest taki jak ten, który zarezerwowałem. Jest po prostu niewystarczająco dobry.\n",
+		"mp3Start": "205",
+		"mp3End": "210"
+	},
+	{
+		"lineNo": 38,
+		"lineEn": "Receptionist:  Hmm. Let’s have a look at the booking… well your boss got a bed… and breakfast too… a continental breakfast in fact.",
+		"linePl": "Recepcjonista: Hmm. Rzućmy okiem na rezerwację ... no cóż, szef ma łóżko ... i śniadanie też ... śniadanie kontynentalne.\r",
+		"mp3Start": "210",
+		"mp3End": "220.4"
+	},
+	{
+		"lineNo": 39,
+		"lineEn": "Anna: But the room just didn’t meet his expectations… hello?",
+		"linePl": "Anna: Ale pokój po prostu nie spełnił jego oczekiwań… cześć?\r",
+		"mp3Start": "220.6",
+		"mp3End": "226.1"
+	},
+	{
+		"lineNo": 40,
+		"lineEn": "Denise: Give me the phone Anna, I’ll deal with this. Now hello Miss…?",
+		"linePl": "Denise: Daj mi telefon Anno, zajmę się tym. Cześć, panno…?\r",
+		"mp3Start": "226.1",
+		"mp3End": "231.3"
+	},
+	{
+		"lineNo": 41,
+		"lineEn": "Receptionist: Miss Fit.",
+		"linePl": "Recepcjonistka: Miss Fit.\r",
+		"mp3Start": "231.3",
+		"mp3End": "232.4"
+	},
+	{
+		"lineNo": 42,
+		"lineEn": "Denise: Miss Fit? This is the office assis- I mean Manager here. This isn’t good enough. ",
+		"linePl": "Denise: Miss Fit? To jest asystent biurowy - mam tu na myśli Managera. Nie jest za dobrze.",
+		"mp3Start": "232.6",
+		"mp3End": "239.7"
+	},
+	{
+		"linePl": " Mój kolega wyraźnie stwierdził, że pokój nie spełniają nasze wymagania i chciałbym, abyście rozwiązali tę sprawę tak szybko, jak to możliwe, inaczej będę musiał anulować naszą rezerwację.\n",
+		"lineEn": "My colleague has made it quite clear that the room did not meet our requirements and I would like you to resolve this matter as quickly as possible or I will have to cancel our reservation.",
+		"lineNo": 43,
+		"mp3Start": "239.5",
+		"mp3End": "251.4"
+	},
+	{
+		"lineNo": 44,
+		"lineEn": "Receptionist: Sadly, we have no other twin rooms available and anyway…",
+		"linePl": "Recepcjonista: Niestety nie mamy innych pokoi typu twin, a poza tym…\r",
+		"mp3Start": "251.4",
+		"mp3End": "255.0"
+	},
+	{
+		"lineNo": 45,
+		"lineEn": "Denise: Alright, I’d like to speak to your manager please. Really!",
+		"linePl": "Denise: Dobra, chciałbym porozmawiać z twoim przełożonym. Naprawdę!\r",
+		"mp3Start": "255.0",
+		"mp3End": "260"
+	},
+	{
+		"lineNo": 46,
+		"lineEn": "Narrator: Good old Denise. I can tell she’s done this before but will talking to the manager really sort things out? ",
+		"linePl": "Narrator: Dobra stara Denise. Rzekł bym, że już to robiła, ale czy rozmowa z menedżerem naprawdę to rozwiąże? ",
+		"mp3Start": "264.2",
+		"mp3End": "271.4"
+	},
+	{
+		"linePl": "Przypomnijmy sobie niektóre z wyrażeń, których możesz użyć, gdy chcesz złożyć skargę:\n",
+		"lineEn": "Let’s remind ourselves of some of the phrases you can use when you need to complain:",
+		"lineNo": 47,
+		"mp3Start": "271.2",
+		"mp3End": "276.4"
+	},
+	{
+		"lineNo": 48,
+		"lineEn": "I’m very disappointed with your service.",
+		"linePl": "Jestem bardzo rozczarowany twoją usługą.\r",
+		"mp3Start": "276.6",
+		"mp3End": "279.9"
+	},
+	{
+		"lineNo": 49,
+		"lineEn": "The standard of service is not good enough.",
+		"linePl": "Standard obsługi nie jest wystarczająco dobry.\r",
+		"mp3Start": "280.0",
+		"mp3End": "283.1"
+	},
+	{
+		"lineNo": 50,
+		"lineEn": "The room I booked did not meet my expectations.",
+		"linePl": "Pokój, który zarezerwowałem, nie spełnił moich oczekiwań.\r",
+		"mp3Start": "283.1",
+		"mp3End": "287.5"
+	},
+	{
+		"lineNo": 51,
+		"lineEn": "And to get things sorted you could say:",
+		"linePl": "Aby uporządkować rzeczy, możesz powiedzieć:\r",
+		"mp3Start": "287.5",
+		"mp3End": "290.5"
+	},
+	{
+		"lineNo": 52,
+		"lineEn": "I would like this matter resolved as quickly as possible.",
+		"linePl": "Chciałbym, aby ta sprawa została rozwiązana tak szybko, jak to możliwe.\r",
+		"mp3Start": "290.8",
+		"mp3End": "294.8"
+	},
+	{
+		"lineNo": 53,
+		"lineEn": "Or:",
+		"linePl": "Lub:\r",
+		"mp3Start": "295.0",
+		"mp3End": "296.5"
+	},
+	{
+		"lineNo": 54,
+		"lineEn": "I would like to cancel my reservation and get a full refund.",
+		"linePl": "Chciałbym anulować rezerwację i uzyskać pełny zwrot pieniędzy.\r",
+		"mp3Start": "296.5",
+		"mp3End": "300.1"
+	},
+	{
+		"lineNo": 55,
+		"lineEn": "Let’s see if Denise has sorted things out?",
+		"linePl": "Zobaczmy, czy Denise załatwiła sprawę?\r",
+		"mp3Start": "301.4",
+		"mp3End": "304.5"
+	},
+	{
+		"lineNo": 56,
+		"lineEn": "Paul: So have you managed to sort out Mr Socrates?",
+		"linePl": "Paul: Udało ci się rozwiązać pana Sokratesa?\r",
+		"mp3Start": "304.5",
+		"mp3End": "308.4"
+	},
+	{
+		"lineNo": 57,
+		"lineEn": "Denise: Oh yes, Anna’s got him a new room.",
+		"linePl": "Denise: O tak, Anna ma dla niego nowy pokój.\r",
+		"mp3Start": "308.6",
+		"mp3End": "311.8"
+	},
+	{
+		"lineNo": 58,
+		"lineEn": "Paul: Thanks Anna, I’ll let him know. And what about the orange juice? Anna: Errr…",
+		"linePl": "Paul: Dzięki Anno, dam mu znać. A co z sokiem pomarańczowym?\r Anna: Errr…\r",
+		"mp3Start": "311.8",
+		"mp3End": "317.4"
+	},
+	{
+		"lineNo": 59,
+		"lineEn": "Denise: Freshly squeezed, every morning!",
+		"linePl": "Denise: Świeżo wyciśnięta każdego ranka!\r",
+		"mp3Start": "317.4",
+		"mp3End": "320.3"
+	},
+	{
+		"lineNo": 60,
+		"lineEn": "Paul: Oh golly gosh, that reminds me, we need some here in the office. ",
+		"linePl": "Paul: O cholera, to przypomina mi, że potrzebujemy trochę tutaj w biurze. ",
+		"mp3Start": "320.5",
+		"mp3End": "324.5"
+	},
+	{
+		"linePl": "Będzie tu za chwilę i mówi, że ma dla nas ważne wieści.\n",
+		"lineEn": "He’s going to be here any minute and he says he’s got some important news for us.",
+		"lineNo": 61,
+		"mp3Start": "324.5",
+		"mp3End": "329.8"
+	},
+	{
+		"lineNo": 62,
+		"lineEn": "• Listening Challenge",
+		"linePl": "• Wyzwanie słuchania\r",
+		"mp3Start": "",
+		"mp3End": ""
+	},
+	{
+		"lineNo": 63,
+		"lineEn": "What type of hotel room did Mr Socrates really want?",
+		"linePl": "Jakiego rodzaju pokoju hotelowego naprawdę chciał Pan Socrates?\r",
+		"mp3Start": "",
+		"mp3End": ""
+	},
+	{
+		"lineNo": 64,
+		"lineEn": "Answer: a twin room",
+		"linePl": "Odpowiedź: pokój dwuosobowy ",
+		"mp3Start": "",
+		"mp3End": ""
+	}
+]

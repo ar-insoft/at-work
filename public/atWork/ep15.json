@@ -1,58 +1,51 @@
 [
 	{
-		"lineNo": 0,
+		"lineNo": 1,
 		"lineEn": "Anna:  (answering the phone) Yes?",
 		"linePl": "Anna: (odbiera telefon) Tak?\r",
-		"mp3Start": "1.5",
+		"mp3Start": "11.6",
 		"mp3End": "14.5"
 	},
 	{
-		"lineNo": 1,
+		"lineNo": 2,
 		"lineEn": "Denise: Stop! That's all wrong. I'm going to call you again. This time…",
 		"linePl": "Denise: Stop! To wszystko źle. Zadzwonię do ciebie ponownie. Tym razem…\r",
 		"mp3Start": "14.5",
-		"mp3End": "20.7"
-	},
-	{
-		"lineNo": 2,
-		"lineEn": "Narrator: Hello. Here we are in the middle of a telephone training session with Denise and Anna. What fun!",
-		"linePl": "Narrator: Cześć. Jesteśmy w trakcie sesji telefonicznej z Denise i Anną. Co za zabawa!\r",
-		"mp3Start": "20.7",
-		"mp3End": "27"
+		"mp3End": "20.5"
 	},
 	{
 		"lineNo": 3,
+		"lineEn": "Narrator: Hello. Here we are in the middle of a telephone training session with Denise and Anna. What fun!",
+		"linePl": "Narrator: Cześć. Jesteśmy w trakcie treningowej sesji telefonicznej z Denise i Anną. Co za zabawa!\n",
+		"mp3Start": "21.0",
+		"mp3End": "27"
+	},
+	{
+		"lineNo": 4,
 		"lineEn": "Denise: …this time, you don't say 'yes' when you answer, it's rude. Call me and I'll show you how it's done.",
 		"linePl": "Denise:… tym razem nie mówisz „tak”, kiedy odpowiadasz, to niegrzeczne. Zadzwoń do mnie, a pokażę ci, jak to się robi.\r",
 		"mp3Start": "27",
 		"mp3End": "34.9"
 	},
 	{
-		"lineNo": 4,
-		"lineEn": "(sound of 4-digit dialling, then phone rings)",
-		"linePl": "(dźwięk 4-cyfrowego wybierania, a następnie dzwonków telefonu)\r",
-		"mp3Start": "34.9",
-		"mp3End": "39"
-	},
-	{
 		"lineNo": 5,
-		"lineEn": "Hello? Tip Top Trading. Anna:  Wow, that’s good.",
-		"linePl": "Dzień dobry? Tip Top Trading.\r Anna: Wow, to dobrze.\r",
-		"mp3Start": "39",
+		"lineEn": "(sound of 4-digit dialling, then phone rings) Hello? Tip Top Trading. Anna:  Wow, that’s good.",
+		"linePl": "(dźwięk 4-cyfrowego wybierania, a następnie dzwonków telefonu)\r Dzień dobry? Tip Top Trading.\r Anna: Wow, to dobrze.\r",
+		"mp3Start": "42.4",
 		"mp3End": "50.5"
 	},
 	{
 		"lineNo": 6,
-		"lineEn": "Denise: And, you can say your name. Hello? Tip Top Trading. Denise speaking. Try it. (dialling, then ring) Anna:  Hello? Tip Top Trading. Denise speaking.",
-		"linePl": "Denise: I możesz powiedzieć swoje imię. Dzień dobry? Tip Top Trading. Denise mówi. Spróbuj.\r (wybieranie numeru, a następnie dzwonek)\r Anna: Cześć? Tip Top Trading. Denise mówi.\r",
+		"lineEn": "Denise: And, you can say your name. Hello? Tip Top Trading. Denise speaking. Try it. ",
+		"linePl": "Denise: I możesz powiedzieć swoje imię. Dzień dobry? Tip Top Trading. Denise mówi. Spróbuj.\n",
 		"mp3Start": "50.5",
-		"mp3End": "72.6"
+		"mp3End": "58.7"
 	},
 	{
 		"lineNo": 7,
-		"lineEn": "Denise: No! Anna:  What? Denise: Say: \"Anna speaking!\"",
-		"linePl": "Denise: Nie!\r Anna: Co?\r Denise: Powiedz: „Anna mówi!”\r",
-		"mp3Start": "72.6",
+		"lineEn": "(dialling, then ring) Anna:  Hello? Tip Top Trading. Denise speaking.\nDenise: No! Anna:  What? Denise: Say: \"Anna speaking!\"",
+		"linePl": " (wybieranie numeru, a następnie dzwonek)\n Anna: Cześć? Tip Top Trading. Denise mówi.\nDenise: Nie!  Anna: Co? Denise: Powiedz: „Anna mówi!”\n",
+		"mp3Start": "66.9",
 		"mp3End": "76.7"
 	},
 	{
@@ -99,286 +92,258 @@
 	},
 	{
 		"lineNo": 14,
-		"lineEn": "Anna:  Okay.",
-		"linePl": "Anna: Dobra.\r",
+		"lineEn": "Anna:  Okay. Denise: And, to end a conversation, you can say: \"Thank you for calling, goodbye.\" Let's do another practice!",
+		"linePl": "Anna: Dobra.\r Denise: Aby zakończyć rozmowę, możesz powiedzieć: „Dziękuję za telefon, do widzenia”. Zróbmy kolejną praktykę!\r",
 		"mp3Start": "127.8",
-		"mp3End": "129.9"
-	},
-	{
-		"lineNo": 15,
-		"lineEn": "Denise: And, to end a conversation, you can say: \"Thank you for calling, goodbye.\" Let's do another practice!",
-		"linePl": "Denise: Aby zakończyć rozmowę, możesz powiedzieć: „Dziękuję za telefon, do widzenia”. Zróbmy kolejną praktykę!\r",
-		"mp3Start": "129.9",
 		"mp3End": "137.8"
 	},
 	{
-		"lineNo": 16,
-		"lineEn": "(phone rings)",
-		"linePl": "(telefon dzwoni)\r",
-		"mp3Start": "137.8",
-		"mp3End": "140.9"
-	},
-	{
-		"lineNo": 17,
-		"lineEn": "Anna:  Hello? Tip Top Trading.",
-		"linePl": "Anna: Cześć? Tip Top Trading.\r",
-		"mp3Start": "140.9",
+		"lineNo": 15,
+		"lineEn": "(phone rings) Anna:  Hello? Tip Top Trading.",
+		"linePl": "(telefon dzwoni)\r Anna: Cześć? Tip Top Trading.\r",
+		"mp3Start": "144.1",
 		"mp3End": "150.5"
 	},
 	{
-		"lineNo": 18,
+		"lineNo": 16,
 		"lineEn": "Denise:  Hello, this is Mrs Smith.",
 		"linePl": "Denise: Cześć, to jest pani Smith.\r",
 		"mp3Start": "150.5",
 		"mp3End": "153.9"
 	},
 	{
-		"lineNo": 19,
+		"lineNo": 17,
 		"lineEn": "Anna:  Hello Mrs Smith, how can I help you?",
 		"linePl": "Anna: Cześć pani Smith, jak mogę ci pomóc?\r",
 		"mp3Start": "153.9",
 		"mp3End": "156.8"
 	},
 	{
-		"lineNo": 20,
+		"lineNo": 18,
 		"lineEn": "Denise: I'd like to speak to Tom please.",
 		"linePl": "Denise: Chciałbym porozmawiać z Tomem.\r",
 		"mp3Start": "156.8",
 		"mp3End": "159.2"
 	},
 	{
-		"lineNo": 21,
+		"lineNo": 19,
 		"lineEn": "Anna:  I'm really sorry, he's not available at the moment. Can I take a message?",
 		"linePl": "Anna: Naprawdę przepraszam, nie jest w tej chwili dostępny. Czy mogę odebrać wiadomość?\r",
 		"mp3Start": "159.2",
 		"mp3End": "164.3"
 	},
 	{
-		"lineNo": 22,
+		"lineNo": 20,
 		"lineEn": "Denise: That's okay, I'll try again later.",
 		"linePl": "Denise: W porządku, spróbuję ponownie później.\r",
 		"mp3Start": "164.3",
 		"mp3End": "167.2"
 	},
 	{
-		"lineNo": 23,
+		"lineNo": 21,
 		"lineEn": "Anna:  Okay. Thank you for calling, goodbye.",
 		"linePl": "Anna: Dobra. Dziękuję za telefon, do widzenia.\r",
 		"mp3Start": "167.2",
 		"mp3End": "170.2"
 	},
 	{
-		"lineNo": 24,
+		"lineNo": 22,
 		"lineEn": "Denise: Excellent! (phone rings) Oh!",
-		"linePl": "Denise: Świetnie!\r (telefon dzwoni)\r O!\r",
+		"linePl": "Denise: Świetnie!\n (telefon dzwoni)  O!\n",
 		"mp3Start": "170.2",
 		"mp3End": "173.8"
 	},
 	{
-		"lineNo": 25,
+		"lineNo": 23,
 		"lineEn": "Anna:  How did you call me without dialling?",
 		"linePl": "Anna: Jak zadzwoniłeś do mnie bez wybierania numeru?\r",
 		"mp3Start": "173.8",
-		"mp3End": "176"
+		"mp3End": "175.5"
 	},
 	{
-		"lineNo": 26,
+		"lineNo": 24,
 		"lineEn": "Denise: I didn't, that's a real call!",
-		"linePl": "Denise: Nie, to prawdziwy telefon!\r",
-		"mp3Start": "176",
-		"mp3End": "178.5"
+		"linePl": "Denise: To nie ja, to prawdziwy telefon!\n",
+		"mp3Start": "175.8",
+		"mp3End": "178.4"
 	},
 	{
-		"lineNo": 27,
+		"lineNo": 25,
 		"lineEn": "Anna:  Oh no, I'm all nervous now. Hello? Tip Top Trading. This is Anna speaking.",
 		"linePl": "Anna: Oh nie, jestem teraz zdenerwowana. Dzień dobry? Tip Top Trading. To mówi Anna.\r",
 		"mp3Start": "178.5",
 		"mp3End": "184.9"
 	},
 	{
-		"lineNo": 28,
-		"lineEn": "Mr Lime: Hello Anna, this is Seb Lime.",
-		"linePl": "Mr Lime: Witaj Anno, to jest Seb Lime.\r",
+		"lineNo": 26,
+		"lineEn": "Mr Lime: Hello Anna, this is Seb Lime. Anna:  Sublime?",
+		"linePl": "Mr Lime: Witaj Anno, to jest Seb Lime.\r Anna: Sublime?\r",
 		"mp3Start": "184.9",
-		"mp3End": "188.3"
-	},
-	{
-		"lineNo": 29,
-		"lineEn": "Anna:  Sublime?",
-		"linePl": "Anna: Sublime?\r",
-		"mp3Start": "188.3",
 		"mp3End": "189.9"
 	},
 	{
-		"lineNo": 30,
+		"lineNo": 27,
 		"lineEn": "Mr Lime: Mr Lime from Citrus Ventures. But I think we should be on first name terms now, so call me Seb.",
-		"linePl": "Mr Lime: Mr Lime z Citrus Ventures. Ale myślę, że powinniśmy być teraz na warunkach imion, więc nazwij mnie Seb.\r",
+		"linePl": "Mr Lime: Mr Lime z Citrus Ventures. Ale myślę, że powinniśmy przejść na imiona, więc mów mi Seb.\n",
 		"mp3Start": "189.9",
 		"mp3End": "197.2"
 	},
 	{
-		"lineNo": 31,
+		"lineNo": 28,
 		"lineEn": "Anna:  Okay, er, Seb. How can I help you?",
 		"linePl": "Anna: Dobra, er, Seb. Jak mogę ci pomóc?\r",
 		"mp3Start": "197.2",
 		"mp3End": "201.2"
 	},
 	{
-		"lineNo": 32,
+		"lineNo": 29,
 		"lineEn": "Mr Lime: I just wanted to say again that your Imperial Lemon is fantastic... and I was wondering if you'd like to do lunch with me sometime?",
 		"linePl": "Pan Lime: Chciałem tylko powtórzyć, że twoja Imperial Lemon jest fantastyczna ... i zastanawiałem się, czy nie chciałbyś kiedyś zjeść ze mną lunchu?\r",
 		"mp3Start": "201.2",
 		"mp3End": "210.5"
 	},
 	{
-		"lineNo": 33,
+		"lineNo": 30,
 		"lineEn": "Anna:  Lunch? Er...",
 		"linePl": "Anna: Lunch? Er ...\r",
 		"mp3Start": "210.5",
-		"mp3End": "212"
+		"mp3End": "212.5"
+	},
+	{
+		"lineNo": 31,
+		"lineEn": "Narrator: I knew it! Mr Lime is interested in more than just your lemons!",
+		"linePl": "Narrator: Wiedziałem! Pan Lime interesuje się czymś więcej niż tylko twoimi cytrynami!\n",
+		"mp3Start": "213.5",
+		"mp3End": "218.5"
+	},
+	{
+		"lineNo": 32,
+		"lineEn": "Anna:  Would you like to discuss the Imperial Lemon?",
+		"linePl": "Anna: Czy chciałbyś porozmawiać o Imperial Lemon?\r",
+		"mp3Start": "219.2",
+		"mp3End": "221.4"
+	},
+	{
+		"lineNo": 33,
+		"lineEn": "Mr Lime: Forget the lemons Anna! The reason I want to see you is more of a personal nature.",
+		"linePl": "Mr Lime: Zapomnij o cytrynach Anna! Powód, dla którego chcę cię zobaczyć, ma bardziej osobisty charakter.\r",
+		"mp3Start": "221.6",
+		"mp3End": "227.0"
 	},
 	{
 		"lineNo": 34,
-		"lineEn": "Narrator: I knew it! Mr Lime is interested in more than just your lemons!",
-		"linePl": "Narrator: Wiedziałem! Pan Lime interesuje się czymś więcej niż tylko cytrynami!\r",
-		"mp3Start": "212",
-		"mp3End": "218.6"
-	},
-	{
-		"lineNo": 35,
-		"lineEn": "Anna:  Would you like to discuss the Imperial Lemon?",
-		"linePl": "Anna: Czy chciałbyś porozmawiać o Imperial Lemon?\r",
-		"mp3Start": "218.6",
-		"mp3End": "221.7"
-	},
-	{
-		"lineNo": 36,
-		"lineEn": "Mr Lime: Forget the lemons Anna! The reason I want to see you is more of a personal nature.",
-		"linePl": "Mr Lime: Zapomnij o cytrynach Anna! Powód, dla którego chcę cię zobaczyć, ma bardziej osobisty charakter.\r",
-		"mp3Start": "221.7",
-		"mp3End": "226.9"
-	},
-	{
-		"lineNo": 37,
 		"lineEn": "Anna: Personnel?  Er...  Can I call you back? I'm afraid I'm a bit busy at the moment...",
 		"linePl": "Anna: Personel? Eee ... Czy mogę do ciebie oddzwonić? Obawiam się, że w tej chwili jestem trochę zajęty ...\r",
 		"mp3Start": "226.9",
 		"mp3End": "233.1"
 	},
 	{
-		"lineNo": 38,
+		"lineNo": 35,
 		"lineEn": "Mr Lime: …bbbut…",
 		"linePl": "Mr Lime:… bbbut…\r",
 		"mp3Start": "233.1",
 		"mp3End": "234.5"
 	},
 	{
-		"lineNo": 39,
+		"lineNo": 36,
 		"lineEn": "Denise: Well Anna! Mr Lime eh?",
 		"linePl": "Denise: Cóż, Anna! Pan Lime eh?\r",
 		"mp3Start": "234.5",
 		"mp3End": "238.9"
 	},
 	{
-		"lineNo": 40,
+		"lineNo": 37,
 		"lineEn": "Anna: Oh dear Denise, I think I need a bit more help from you. He wants to talk about personnel…people, staffing…",
 		"linePl": "Anna: Ojej Denise, myślę, że potrzebuję trochę więcej pomocy od ciebie. Chce rozmawiać o personelu… ludziach, obsadzie…\r",
 		"mp3Start": "238.9",
 		"mp3End": "246.7"
 	},
 	{
-		"lineNo": 41,
-		"lineEn": "Denise: Are you sure? I think he means a personal nature, not personnel! That Mr Lime!",
-		"linePl": "Denise: Jesteś pewien? Myślę, że ma na myśli osobistą naturę, a nie personel! Ten Pan Wapno!\r",
+		"lineNo": 38,
+		"lineEn": "Denise: Are you sure? I think he means a personal nature, not personnel! That Mr Lime! Anna: Oh!",
+		"linePl": "Denise: Jesteś pewien? Myślę, że ma na myśli osobistą naturę, a nie personel! Ten Pan Wapno!\r Anna: Oh!\r",
 		"mp3Start": "246.7",
-		"mp3End": "254.7"
+		"mp3End": "255.3"
 	},
 	{
-		"lineNo": 42,
-		"lineEn": "Anna: Oh!",
-		"linePl": "Anna: Oh!\r",
-		"mp3Start": "254.7",
-		"mp3End": "256"
-	},
-	{
-		"lineNo": 43,
+		"lineNo": 39,
 		"lineEn": "Narrator: Mr Lime indeed. Anyway, Anna had an excellent phone manner. Let's hear those phrases again:",
 		"linePl": "Narrator: Rzeczywiście, panie Lime. W każdym razie Anna miała doskonały sposób na telefon. Usłyszmy te zwroty jeszcze raz:\r",
-		"mp3Start": "256",
+		"mp3Start": "257.4",
 		"mp3End": "264.4"
 	},
 	{
-		"lineNo": 44,
+		"lineNo": 40,
 		"lineEn": "Hello? Tip Top Trading. This is Anna speaking.",
 		"linePl": "Dzień dobry? Tip Top Trading. To mówi Anna.\r",
-		"mp3Start": "264.4",
+		"mp3Start": "267.2",
 		"mp3End": "271.3"
 	},
 	{
-		"lineNo": 45,
+		"lineNo": 41,
 		"lineEn": "Hello? Anna speaking.",
 		"linePl": "Dzień dobry? Anna mówi.\r",
 		"mp3Start": "271.3",
 		"mp3End": "273.2"
 	},
 	{
-		"lineNo": 46,
+		"lineNo": 42,
 		"lineEn": "Hello Mrs Smith, how can I help you?",
 		"linePl": "Witaj, pani Smith, jak mogę ci pomóc?\r",
 		"mp3Start": "273.2",
 		"mp3End": "277.1"
 	},
 	{
-		"lineNo": 47,
+		"lineNo": 43,
 		"lineEn": "Hello Mrs Smith, how are you?",
 		"linePl": "Cześć pani Smith, jak się masz?\r",
 		"mp3Start": "277.1",
 		"mp3End": "279.9"
 	},
 	{
-		"lineNo": 48,
+		"lineNo": 44,
 		"lineEn": "I'm really sorry, he's not available at the moment. Can I take a message?",
 		"linePl": "Naprawdę przepraszam, nie jest w tej chwili dostępny. Czy mogę odebrać wiadomość?\r",
 		"mp3Start": "279.9",
 		"mp3End": "286.5"
 	},
 	{
-		"lineNo": 49,
+		"lineNo": 45,
 		"lineEn": "I'm afraid he's busy – shall I ask him to call you back?",
 		"linePl": "Obawiam się, że jest zajęty - czy powinienem go poprosić, żeby oddzwonił?\r",
 		"mp3Start": "286.5",
 		"mp3End": "291.4"
 	},
 	{
-		"lineNo": 50,
+		"lineNo": 46,
 		"lineEn": "Thank you for calling, goodbye.",
 		"linePl": "Dziękuję za telefon, do widzenia.\r",
 		"mp3Start": "291.4",
 		"mp3End": "294.1"
 	},
 	{
-		"lineNo": 51,
+		"lineNo": 47,
 		"lineEn": "But how is Anna going to handle Mr Lime's request? I can't wait till next time! Bye!",
 		"linePl": "Ale w jaki sposób Anna poradzi sobie z prośbą pana Lime? Nie mogę się doczekać następnego razu! PA!\r",
-		"mp3Start": "294.1",
-		"mp3End": "301.7"
+		"mp3Start": "294.3",
+		"mp3End": "301.3"
 	},
 	{
-		"lineNo": 52,
+		"lineNo": 48,
 		"lineEn": " Listening Challenge",
 		"linePl": "• Wyzwanie słuchania\r",
 		"mp3Start": "",
 		"mp3End": ""
 	},
 	{
-		"lineNo": 53,
+		"lineNo": 49,
 		"lineEn": "What does Seb Lime want Anna to do?",
-		"linePl": "Co Seb Lime chce zrobić Anna?\r",
+		"linePl": "Co Seb Lime chce zrobić z Anna?\n",
 		"mp3Start": "",
 		"mp3End": ""
 	},
 	{
-		"lineNo": 54,
+		"lineNo": 50,
 		"lineEn": "(Answer: To go for lunch with him)",
 		"linePl": "(Odpowiedź: iść z nim na lunch) ",
 		"mp3Start": "",
