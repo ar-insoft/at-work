@@ -1,65 +1,58 @@
 [
 	{
-		"lineNo": 0,
+		"lineNo": 1,
 		"lineEn": "Narrator: Hello, welcome to the offices of Citrus Ventures! It's a big day for Anna, she's about to present Tip Top Trading's new Imperial Lemon to Mr Lime and his colleagues. This must not go wrong.",
 		"linePl": "Narrator: Witaj, witaj w biurach Citrus Ventures! To wielki dzień dla Anny, ma zamiar przedstawić nową Tip Top Trading Cesarską Cytrynę Panu Limie i jego kolegom. To nie może pójść źle.\r",
-		"mp3Start": "1.5",
+		"mp3Start": "2.2",
 		"mp3End": "16.5"
 	},
 	{
-		"lineNo": 1,
+		"lineNo": 2,
 		"lineEn": "Anna:  …revoltionary laser-curve.... revolUtionary laser-curve... revol-",
 		"linePl": "Anna:… rewolucyjna krzywa lasera .... rewolucyjna krzywa laserowa ... \r",
 		"mp3Start": "16.5",
-		"mp3End": "23.5"
-	},
-	{
-		"lineNo": 2,
-		"lineEn": "Narrator: How are you feeling today Anna?",
-		"linePl": "Narrator: Jak się dzisiaj czujesz Anna?\r",
-		"mp3Start": "23.5",
-		"mp3End": "29.2"
+		"mp3End": "26.3"
 	},
 	{
 		"lineNo": 3,
-		"lineEn": "Anna:   Scared! I want to do really well. If I mess up and Citrus Ventures doesn't place an order, I'll be so upset.",
-		"linePl": "Anna: Przestraszona! Chcę robić naprawdę dobrze. Jeśli zepsuję, a Citrus Ventures nie złóży zamówienia, będę taki zdenerwowany.\r",
-		"mp3Start": "29.2",
-		"mp3End": "38.6"
+		"lineEn": "Narrator: How are you feeling today Anna?",
+		"linePl": "Narrator: Jak się dzisiaj czujesz Anna?\r",
+		"mp3Start": "26.9",
+		"mp3End": "28.5"
 	},
 	{
 		"lineNo": 4,
+		"lineEn": "Anna:   Scared! I want to do really well. If I mess up and Citrus Ventures doesn't place an order, I'll be so upset.",
+		"linePl": "Anna: Przestraszona! Chcę robić naprawdę dobrze. Jeśli zepsuję, a Citrus Ventures nie złóży zamówienia, będę taki zdenerwowany.\r",
+		"mp3Start": "29.0",
+		"mp3End": "38.4"
+	},
+	{
+		"lineNo": 5,
 		"lineEn": "Narrator: You're well prepared, that's the main thing. Remember that the beginning of your presentation is especially important. Explain clearly how your presentation will be organised.",
 		"linePl": "Narrator: Jesteś dobrze przygotowany, to jest najważniejsze. Pamiętaj, że to początek twojej prezentacji jest szczególnie ważne. Wyjaśnij wyraźnie, jak zorganizowana zostanie prezentacja.\r",
 		"mp3Start": "38.6",
 		"mp3End": "46.8"
 	},
 	{
-		"lineNo": 5,
+		"lineNo": 6,
 		"lineEn": "Anna:   OK. Oh dear, I didn't think of the very beginning. Can you give me examples of what I should say?",
 		"linePl": "Anna: OK. Ojej, nie myślałem o samym początku. Czy możesz mi dać przykłady tego, co powinienem powiedzieć?\r",
 		"mp3Start": "46.8",
 		"mp3End": "52.9"
 	},
 	{
-		"lineNo": 6,
+		"lineNo": 7,
 		"lineEn": "Narrator: After you've introduced yourself, you could say:",
 		"linePl": "Narrator: Po przedstawieniu się możesz powiedzieć:\r",
 		"mp3Start": "52.9",
 		"mp3End": "56.1"
 	},
 	{
-		"lineNo": 7,
-		"lineEn": "Today I'm going to... and explain. Then say:",
-		"linePl": "Dzisiaj zamierzam ... i wyjaśnić. Następnie powiedz:\r",
-		"mp3Start": "56.1",
-		"mp3End": "60.8"
-	},
-	{
 		"lineNo": 8,
-		"lineEn": "I'll start by...",
-		"linePl": "Zacznę od ...\r",
-		"mp3Start": "60.8",
+		"lineEn": "Today I'm going to... and explain. Then say: I'll start by...",
+		"linePl": "Dzisiaj zamierzam ... i wyjaśnić. Następnie powiedz:\r Zacznę od ...\r",
+		"mp3Start": "56.1",
 		"mp3End": "62.2"
 	},
 	{
@@ -130,13 +123,13 @@
 		"lineEn": "Mr Lime: Anna! Anna: Mr Lime!",
 		"linePl": "Mr Lime: Anna!\r Anna: Panie Lime!\r",
 		"mp3Start": "88.7",
-		"mp3End": "92.7"
+		"mp3End": "90.6"
 	},
 	{
 		"lineNo": 19,
 		"lineEn": "Mr Lime: How lovely to see you. You look absolutely... I've been looking forward to this for days!  Everyone is waiting in the meeting room. Come this way....",
 		"linePl": "Mr Lime: Jak miło cię widzieć. Wyglądasz absolutnie ... Nie mogę się doczekać to przez wiele dni! Wszyscy czekają w sali konferencyjnej. Chodź tędy....\r",
-		"mp3Start": "92.7",
+		"mp3Start": "91.0",
 		"mp3End": "103.7"
 	},
 	{
@@ -149,8 +142,8 @@
 	{
 		"lineNo": 21,
 		"lineEn": "Mr Lime: Everyone in Citrus Ventures is very excited about this new Imperial Lemon, so I allowed a few extras to come and watch, I hope you don't mind. All your equipment has been set up so you can begin!",
-		"linePl": "Mr Lime: Wszyscy w Citrus Ventures są bardzo podekscytowani tym nowym Imperial Lemon, więc pozwoliłem przyjść kilka dodatków i oglądać, mam nadzieję, że nie masz nic przeciwko. Wszystko Twój sprzęt został skonfigurowany, abyś mógł zacząć!\r",
-		"mp3Start": "109.8",
+		"linePl": "Mr Lime: Wszyscy w Citrus Ventures są bardzo podekscytowani tym nowym Imperial Lemon, więc pozwoliłem przyjść i oglądać kilku dodatkowo, mam nadzieję, że nie masz nic przeciwko. Cały twój sprzęt został skonfigurowany, więc możesz zaczynać!\n",
+		"mp3Start": "109.1",
 		"mp3End": "124.5"
 	},
 	{

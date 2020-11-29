@@ -1,79 +1,72 @@
 [
 	{
-		"lineNo": 0,
-		"lineEn": "Narrator: Hello, welcome back to Tip Top Trading where Anna is going downstairs to speak to warehouse manager, Mr Ingle. You’re looking a bit nervous…",
-		"linePl": "Narrator: Witaj, witaj ponownie w Tip Top Trading, gdzie Anna schodzi na dół\r porozmawiaj z kierownikiem magazynu, panem Ingle. Trochę się denerwujesz…\r",
-		"mp3Start": "1.5",
-		"mp3End": "13.9"
-	},
-	{
 		"lineNo": 1,
-		"lineEn": "Anna: I am. Denise says if I speak to him in the wrong way, he might bite my head off!",
-		"linePl": "Anna: Jestem. Denise mówi, że jeśli przemówię do niego w niewłaściwy sposób, może mnie ugryźć\r ruszajcie!\r",
-		"mp3Start": "13.9",
-		"mp3End": "20"
+		"lineEn": "Narrator: Hello, welcome back to Tip Top Trading where Anna is going downstairs to speak to warehouse manager, Mr Ingle. ",
+		"linePl": "Narrator: Witaj, witaj ponownie w Tip Top Trading, gdzie Anna schodzi na dół\n porozmawiaj z kierownikiem magazynu, panem Ingle. \n",
+		"mp3Start": "4.1",
+		"mp3End": "11.5"
 	},
 	{
+		"linePl": "Wyglądasz na trochę zdenerwowaną…",
+		"lineEn": "You’re looking a bit nervous…",
 		"lineNo": 2,
-		"lineEn": "Narrator: Relax Anna. It’s just an expression to mean he might be a bit aggressive.",
-		"linePl": "Narrator: Relax Anna. To tylko wyrażenie, które oznacza, że ​​może być nieco agresywny.\r",
-		"mp3Start": "20",
-		"mp3End": "24.8"
+		"mp3Start": "12.1",
+		"mp3End": "13.5"
 	},
 	{
 		"lineNo": 3,
-		"lineEn": "Anna: Oh!",
-		"linePl": "Anna: Oh!\r",
-		"mp3Start": "24.8",
-		"mp3End": "26"
+		"lineEn": "Anna: I am. Denise says if I speak to him in the wrong way, he might bite my head off!",
+		"linePl": "Anna: Jestem. Denise mówi, że jeśli przemówię do niego w niewłaściwy sposób, może odgryźć mi głowę!\n",
+		"mp3Start": "13.9",
+		"mp3End": "19.4"
 	},
 	{
 		"lineNo": 4,
-		"lineEn": "Narrator: You’ll be fine, just use the right polite phrases… oh, and smile!",
-		"linePl": "Narrator: Wszystko będzie dobrze, wystarczy użyć odpowiednich grzecznych zwrotów ... och, i uśmiechaj się!\r",
-		"mp3Start": "26",
-		"mp3End": "31.3"
+		"lineEn": "Narrator: Relax Anna. It’s just an expression to mean he might be a bit aggressive. Anna: Oh!",
+		"linePl": "Narrator: Relax Anna. To tylko wyrażenie, które oznacza, że ​​może być nieco agresywny.\r Anna: Oh!\r",
+		"mp3Start": "19.8",
+		"mp3End": "25.3"
 	},
 	{
 		"lineNo": 5,
-		"lineEn": "Anna: OK, I will. Oh look I’m here now…",
-		"linePl": "Anna: OK, zrobię to. Och, spójrz, jestem tu teraz…\r",
-		"mp3Start": "31.3",
-		"mp3End": "35"
+		"lineEn": "Narrator: You’ll be fine, just use the right polite phrases… oh, and smile!",
+		"linePl": "Narrator: Wszystko będzie dobrze, wystarczy użyć odpowiednich grzecznych zwrotów ... och, i uśmiechaj się!\r",
+		"mp3Start": "26",
+		"mp3End": "30.7"
 	},
 	{
 		"lineNo": 6,
+		"lineEn": "Anna: OK, I will. Oh look here I’m now…",
+		"linePl": "Anna: OK, zrobię to. Och, spójrz, jestem tu teraz…\r",
+		"mp3Start": "31.2",
+		"mp3End": "35"
+	},
+	{
+		"lineNo": 7,
 		"lineEn": "(Warehouse door opens)",
 		"linePl": "(Drzwi magazynu się otwierają)\r",
 		"mp3Start": "35",
 		"mp3End": "40.1"
 	},
 	{
-		"lineNo": 7,
+		"lineNo": 8,
 		"lineEn": "Anna: Mr Ingle, are you there? I’d be most grateful if you could give me some… oh, what’s that smell… and smoke… Mr Ingle!",
 		"linePl": "Anna: Panie Ingle, jesteś tam? Byłbym bardzo wdzięczny, gdybyś mógł dać mi ...\r o, co to za zapach… i dym… Panie Ingle!\r",
-		"mp3Start": "40.1",
-		"mp3End": "52.1"
-	},
-	{
-		"lineNo": 8,
-		"lineEn": "Mr Ingle: Oh, oh (coughs)",
-		"linePl": "Pan Ingle: Och, och (kaszle)\r",
-		"mp3Start": "52.1",
-		"mp3End": "53.9"
+		"mp3Start": "38.7",
+		"mp3End": "51.6"
 	},
 	{
 		"lineNo": 9,
-		"lineEn": "Anna: Mr Ingle. You’re smoking!",
-		"linePl": "Anna: Pan Ingle. Ty palisz!\r",
-		"mp3Start": "53.9",
-		"mp3End": "56.6"
+		"lineEn": "Mr Ingle: Oh, oh (coughs) Anna: Mr Ingle. You’re smoking!",
+		"linePl": "Pan Ingle: Och, och (kaszle)\r Anna: Pan Ingle. Ty palisz!\r",
+		"mp3Start": "51.6",
+		"mp3End": "56.1"
 	},
 	{
 		"lineNo": 10,
-		"lineEn": "Mr Ingle: Well… it’s my lunch break… so I’m allowed a cigarette, aren’t I?",
+		"lineEn": "Mr Ingle: Well… it’s my lunch break… so I’m allowed smoke a cigarette, aren’t I?",
 		"linePl": "Pan Ingle: Cóż ... to moja przerwa na lunch ... więc wolno mi papierosa, prawda?\r",
-		"mp3Start": "56.6",
+		"mp3Start": "56.1",
 		"mp3End": "60.3"
 	},
 	{
@@ -81,97 +74,97 @@
 		"lineEn": "Anna: Really? Are you sure?",
 		"linePl": "Anna: Naprawdę? Jesteś pewny?\r",
 		"mp3Start": "60.3",
-		"mp3End": "63.1"
+		"mp3End": "62.6"
 	},
 	{
 		"lineNo": 12,
-		"lineEn": "Narrator: No, he’s not Anna!  Smoking in a public place is illegal – it’s against the law. It’s dangerous too - you’ve got to do something about this.",
-		"linePl": "Narrator: Nie, on nie jest Anną! Palenie w miejscu publicznym jest nielegalne - jest przeciwko\r prawo. Jest to również niebezpieczne - musisz coś z tym zrobić.\r",
-		"mp3Start": "63.1",
-		"mp3End": "74.4"
+		"lineEn": "Narrator: No, he’s not Anna!  Smoking inside a public building is illegal – it’s against the law. It’s dangerous too - you’ve got to do something about this.",
+		"linePl": "Narrator: Nie, on nie jest Anną! Palenie wewnątrz budynków publicznych jest nielegalne - jest przeciwko\n prawu. Jest to również niebezpieczne - musisz coś z tym zrobić.\n",
+		"mp3Start": "64.0",
+		"mp3End": "74.1"
 	},
 	{
 		"lineNo": 13,
 		"lineEn": "Anna: Oh right. Mmm, er, Mr Ingle, you mustn’t smoke… it’s wrong.",
-		"linePl": "Anna: Oh racja. Mmm, panie Ingle, nie wolno palić ... to źle.\r",
+		"linePl": "Anna: Oh racja. Mmm, panie Ingle, nie wolno panu palić ... to nie w porządku.\n",
 		"mp3Start": "74.4",
-		"mp3End": "81.6"
+		"mp3End": "81.4"
 	},
 	{
 		"lineNo": 14,
 		"lineEn": "Mr Ingle: Says who? Anna: Err, Me?",
 		"linePl": "Pan Ingle: Mówi kto?\r Anna: Err, ja?\r",
 		"mp3Start": "81.6",
-		"mp3End": "85"
+		"mp3End": "84.3"
 	},
 	{
 		"lineNo": 15,
 		"lineEn": "Narrator: Anna. You’ll have to do better than that. Be polite, but be firm too. Try saying, ‘would you mind not doing that please?’",
-		"linePl": "Narrator: Anna. Musisz to zrobić lepiej. Bądź uprzejmy, ale też stanowczy. Próbować\r mówiąc: „czy nie masz nic przeciwko temu?”\r",
-		"mp3Start": "85",
+		"linePl": "Narrator: Anna. Musisz to zrobić lepiej. Bądź uprzejma, ale też stanowcza. Spróbuj\n mówiąc: „czy mógłbyś tego nie robić?”\n",
+		"mp3Start": "84.6",
 		"mp3End": "93.7"
 	},
 	{
 		"lineNo": 16,
 		"lineEn": "Anna: I’ll try. Mr Ingle, would you mind not doing that please?",
-		"linePl": "Anna: Spróbuję. Panie Ingle, czy nie miałby pan nic przeciwko temu?\r",
+		"linePl": "Anna: Spróbuję. Panie Ingle, czy mógłbyś tego nie robić?\n",
 		"mp3Start": "93.7",
-		"mp3End": "99.7"
+		"mp3End": "99.1"
 	},
 	{
 		"lineNo": 17,
 		"lineEn": "Mr Ingle: Why’s that then?",
 		"linePl": "Pan Ingle: Dlaczego tak jest?\r",
-		"mp3Start": "99.7",
-		"mp3End": "101.7"
+		"mp3Start": "99.6",
+		"mp3End": "100.7"
 	},
 	{
 		"lineNo": 18,
 		"lineEn": "Narrator: He’s not being very nice is he?  You need to give your reasons. Say, ‘I’m afraid it’s against company policy’… go on you can do it.",
-		"linePl": "Narrator: Nie jest zbyt miły, prawda? Musisz podać swoje powody. Powiedz: „Jestem”\r obawiam się, że jest to niezgodne z polityką firmy… dalej możesz to zrobić.\r",
-		"mp3Start": "101.7",
+		"linePl": "Narrator: Nie jest zbyt miły, prawda? Musisz podać swoje powody. Powiedz: obawiam się, że jest to niezgodne z polityką firmy… dalej Możesz to zrobić.",
+		"mp3Start": "100.9",
 		"mp3End": "110.9"
 	},
 	{
 		"lineNo": 19,
 		"lineEn": "Anna: Mr Ingle… I’m afraid it’s against company policy. And… it is actually against the law to smoke here… and… it’s not a nice smell, is it?",
-		"linePl": "Anna: Panie Ingle… Obawiam się, że jest to niezgodne z polityką firmy. I… to w rzeczywistości jest przeciwko\r prawo do palenia tutaj… i… to nie jest przyjemny zapach, prawda?\r",
+		"linePl": "Anna: Panie Ingle… Obawiam się, że jest to niezgodne z polityką firmy. I… właściwie jest to przeciwko  prawu palenie tutaj… i… to nie jest przyjemny zapach, prawda?\n",
 		"mp3Start": "110.9",
-		"mp3End": "123.6"
+		"mp3End": "123.4"
 	},
 	{
 		"lineNo": 20,
-		"lineEn": "Mr Ingle: It smells OK to me.",
-		"linePl": "Pan Ingle: Pachnie mi to.\r",
+		"lineEn": "Mr Ingle: Well It smells OK to me.",
+		"linePl": "Pan Ingle: No Mi to pachnie.\n",
 		"mp3Start": "123.6",
 		"mp3End": "126"
 	},
 	{
 		"lineNo": 21,
 		"lineEn": "Anna: Well, I’m sorry to have to ask you this but you need to put it out.",
-		"linePl": "Anna: Przykro mi, że muszę o to zapytać, ale musisz to zgasić.\r",
+		"linePl": "Anna: Przykro mi, że muszę o to prosić, ale musisz to zgasić.\n",
 		"mp3Start": "126",
 		"mp3End": "131.1"
 	},
 	{
 		"lineNo": 22,
 		"lineEn": "Mr Ingle: Put what out – the cat?!",
-		"linePl": "Pan Ingle: Zgasić - kot ?!\r",
+		"linePl": "Pan Ingle: Zgasić co - kota ?!\n",
 		"mp3Start": "131.1",
-		"mp3End": "133"
+		"mp3End": "133.3"
 	},
 	{
 		"lineNo": 23,
 		"lineEn": "Anna: No. You need to extinguish your cigarette… please.",
 		"linePl": "Anna: Nie. Musisz zgasić papierosa… proszę.\r",
-		"mp3Start": "133",
-		"mp3End": "137.8"
+		"mp3Start": "133.6",
+		"mp3End": "137.5"
 	},
 	{
 		"lineNo": 24,
 		"lineEn": "Mr Ingle: Says who?",
 		"linePl": "Pan Ingle: Mówi kto?\r",
-		"mp3Start": "137.8",
+		"mp3Start": "137.6",
 		"mp3End": "139.1"
 	},
 	{
@@ -179,34 +172,34 @@
 		"lineEn": "Anna: Well, I’m sure your team wouldn’t like to see you breaking the law and besides, it could cause a fire. That would be awful.",
 		"linePl": "Anna: Cóż, jestem pewien, że twój zespół nie chciałby widzieć, jak łamiesz prawo i\r poza tym może spowodować pożar. To byłoby okropne.\r",
 		"mp3Start": "139.1",
-		"mp3End": "147.8"
+		"mp3End": "147.4"
 	},
 	{
 		"lineNo": 26,
 		"lineEn": "Mr Ingle: Yeah, I suppose it would.",
-		"linePl": "Pan Ingle: Tak, chyba tak.\r",
+		"linePl": "Pan Ingle: Tak, chyba byłoby.\n",
 		"mp3Start": "147.8",
 		"mp3End": "150.5"
 	},
 	{
 		"lineNo": 27,
 		"lineEn": "Anna: I could get you some nicotine gum if you like?",
-		"linePl": "Anna: Mogę ci podać gumę nikotynową, jeśli chcesz?\r",
+		"linePl": "Anna: Mogę ci zdobyć gumę nikotynową, jeśli chcesz?\n",
 		"mp3Start": "150.5",
-		"mp3End": "153.3"
+		"mp3End": "152.7"
 	},
 	{
 		"lineNo": 28,
 		"lineEn": "Mr Ingle: No, it’s OK. I’ll stub it out… as you asked so nicely.",
-		"linePl": "Pan Ingle: Nie, w porządku. Wyrzucę to… tak ładnie prosiłeś.\r",
-		"mp3Start": "153.3",
-		"mp3End": "158.8"
+		"linePl": "Pan Ingle: Nie, w porządku. Zagaszę go… tak ładnie prosiłeś.\n",
+		"mp3Start": "153.1",
+		"mp3End": "158.4"
 	},
 	{
 		"lineNo": 29,
 		"lineEn": "Anna: Thank you Mr Ingle. We’ll keep it a secret this time, but please don’t do it again. I’m afraid it’s just not permitted on company premises.",
 		"linePl": "Anna: Dziękuję, panie Ingle. Tym razem utrzymamy to w tajemnicy, ale proszę nie rób tego\r jeszcze raz. Obawiam się, że nie jest to dozwolone w siedzibie firmy.\r",
-		"mp3Start": "158.8",
+		"mp3Start": "158.6",
 		"mp3End": "168"
 	},
 	{
@@ -226,7 +219,7 @@
 	{
 		"lineNo": 32,
 		"lineEn": "Narrator: Nice one Anna. You dealt with Mr Ingle really well. You kept your cool and explained the reasons why he shouldn’t smoke. Let’s hope he doesn’t do it again Anna.",
-		"linePl": "Narrator: Niezła Anna. Naprawdę dobrze poradziłeś sobie z panem Ingle. Zachowałeś spokój i\r wyjaśnił powody, dla których nie powinien palić. Miejmy nadzieję, że tego nie zrobi\r znowu Anna.\r",
+		"linePl": "Narrator: Niezła Anna. Naprawdę dobrze poradziłeś sobie z panem Ingle. Zachowałeś spokój i  wyjaśnił powody, dla których nie powinien palić. Miejmy nadzieję, że tego nie zrobi znowu Anna.",
 		"mp3Start": "173.5",
 		"mp3End": "187.4"
 	},

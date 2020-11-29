@@ -32,14 +32,14 @@
 		"lineEn": "Thank you for coming. There are five items on the agenda today.",
 		"linePl": "Dziękuję za przybycie. Dziś jest pięć punktów porządku obrad.",
 		"mp3Start": "26.2",
-		"mp3End": "31.2"
+		"mp3End": "30.8"
 	},
 	{
 		"lineNo": 6,
 		"lineEn": "Anna: Items?",
 		"linePl": "Anna: Przedmioty?",
-		"mp3Start": "31.2",
-		"mp3End": "32.3"
+		"mp3Start": "31.0",
+		"mp3End": "32.2"
 	},
 	{
 		"lineNo": 7,
@@ -186,27 +186,27 @@
 		"lineEn": "(quiet murmur of surprise)",
 		"linePl": "(cichy pomruk zaskoczenia)",
 		"mp3Start": "145.1",
-		"mp3End": "147.8"
+		"mp3End": "147.3"
 	},
 	{
 		"lineNo": 28,
 		"lineEn": "Anna: Me? You want me to be in charge of the stock management systems?",
 		"linePl": "Anna: Ja? Chcesz, żebym była odpowiedzialna za systemy zarządzania zapasami?",
-		"mp3Start": "147.8",
-		"mp3End": "152.0"
+		"mp3Start": "147.5",
+		"mp3End": "151.8"
 	},
 	{
 		"lineNo": 29,
 		"lineEn": "Paul: Anna's had some excellent ideas already and I think she'll do a great job.",
 		"linePl": "Paul: Anna ma już świetne pomysły i myślę, że wykona świetną robotę.",
-		"mp3Start": "152.0",
-		"mp3End": "157"
+		"mp3Start": "151.9",
+		"mp3End": "156.4"
 	},
 	{
 		"lineNo": 30,
 		"lineEn": "For these new fruits, stock control will be key to supplying our customers with laser-curve oranges, laser-curve lemons, laser-curve…",
 		"linePl": "W przypadku tych nowych owoców kontrola zapasów będzie kluczem do zaopatrzenia naszych klientów z pomarańczowymi krzywymi laserowymi, cytrynowymi krzywymi laserowymi, krzywymi laserowymi…",
-		"mp3Start": "157",
+		"mp3Start": "156.6",
 		"mp3End": "166.8"
 	},
 	{
@@ -256,14 +256,14 @@
 		"lineEn": "And then we can wrap up.",
 		"linePl": "A potem możemy zakończyć.",
 		"mp3Start": "195.7",
-		"mp3End": "198.4"
+		"mp3End": "197.6"
 	},
 	{
 		"lineNo": 38,
 		"lineEn": "Narrator: There’s only one problem for Anna now, winning over Mr Ingle the warehouse manager – that won’t be easy. Well, time for me to wrap up now. See you soon! Bye!",
 		"linePl": "Narrator: Teraz jest tylko jeden problem dla Anny, przekonanie z pana Ingle kierownika magazynu - to nie będzie łatwe. Czas na podsumowanie teraz. Do zobaczenia wkrótce! PA!",
-		"mp3Start": "198.4",
-		"mp3End": "210.4"
+		"mp3Start": "198.9",
+		"mp3End": "210.0"
 	},
 	{
 		"lineNo": 39,

@@ -107,7 +107,7 @@
 	{
 		"lineNo": 16,
 		"lineEn": "Tom: Yeah, and you never got to see those firemen in action, did you Denise?",
-		"linePl": "Tom: Tak, i nigdy nie widziałeś strażaków w akcji, prawda Denise?\r",
+		"linePl": "Tom: Tak, i nigdy nie miałaś okazji zobaczyć strażaków w akcji, prawda Denise?\n",
 		"mp3Start": "78.7",
 		"mp3End": "82.5"
 	},
@@ -184,7 +184,7 @@
 	{
 		"lineNo": 27,
 		"lineEn": "Anna:  No Denise. We must use the stairs not the lift.",
-		"linePl": "Anna: Bez Denise. Musimy korzystać ze schodów, a nie z windy.\r",
+		"linePl": "Anna: Nie Denise. Musimy korzystać ze schodów, a nie z windy.\n",
 		"mp3Start": "133.2",
 		"mp3End": "136.8"
 	},
@@ -373,7 +373,7 @@
 	{
 		"lineNo": 54,
 		"lineEn": "Who does Tom carry out of the building on his shoulders?",
-		"linePl": "Kto Tom wykonuje z budynku na swoich ramionach?\r",
+		"linePl": "Kogo Tom wynosi z budynku na swoich ramionach?\n",
 		"mp3Start": "",
 		"mp3End": ""
 	},
