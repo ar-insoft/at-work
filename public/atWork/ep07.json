@@ -275,14 +275,14 @@
 	{
 		"lineNo": 40,
 		"lineEn": "Anna: You would be the first to see it!",
-		"linePl": "Anna: Najpierw to zobaczysz!\r",
+		"linePl": "Anna: Możesz być pierwszym, który to zobaczy!\n",
 		"mp3Start": "184.4",
 		"mp3End": "186.5"
 	},
 	{
 		"lineNo": 41,
 		"lineEn": "Mr Lime: Excellent. Thank you, er... Anna, isn't it?",
-		"linePl": "Mr Lime: Excellent. Dziękuję, eee ... Anna, prawda?\r",
+		"linePl": "Mr Lime: Świetnie! Dziękuję, eee ... Anna, prawda?\n",
 		"mp3Start": "186.7",
 		"mp3End": "191.5"
 	},
@@ -338,7 +338,7 @@
 	{
 		"lineNo": 49,
 		"lineEn": "Narrator: What a success! Mr Lime has come away a very happy customer! Here are the phrases Anna used while apologising:",
-		"linePl": "Narrator: Co za sukces! Pan Lime odszedł z bardzo szczęśliwym klientem! Tu są zwroty, których użyła Anna podczas przeprosin:\r",
+		"linePl": "Narrator: Co za sukces! Pan Lime odszedł bardzo szczęśliwym klientem! Tu są zwroty, których użyła Anna podczas przeprosin:\n",
 		"mp3Start": "213.0",
 		"mp3End": "222.2"
 	},

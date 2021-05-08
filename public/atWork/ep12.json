@@ -150,7 +150,7 @@
 		"lineNo": 22,
 		"lineEn": "Anna: Hello, I'm Anna of Top Tip Trading… I mean, Tip Top Trading, sorry! I'm very unhappy to be here.",
 		"linePl": "Anna: Cześć, jestem Anna z Top Tip Trading… To znaczy, Tip Top Trading, przepraszam! Jestem bardzo nieszczęśliwy, że tu jestem.\r",
-		"mp3Start": "124.5",
+		"mp3Start": "128.0",
 		"mp3End": "141.5"
 	},
 	{
@@ -158,55 +158,55 @@
 		"lineEn": "Narrator: Anna- focus!",
 		"linePl": "Narrator: Anna - skup się!\r",
 		"mp3Start": "141.5",
-		"mp3End": "143.9"
+		"mp3End": "143.6"
 	},
 	{
 		"lineNo": 24,
 		"lineEn": "Anna:   I mean, I'm very happy to be here.",
 		"linePl": "Anna: To znaczy, jestem bardzo szczęśliwa, że tu jestem.\r",
-		"mp3Start": "143.9",
-		"mp3End": "147.2"
+		"mp3Start": "143.7",
+		"mp3End": "146.9"
 	},
 	{
 		"lineNo": 25,
-		"lineEn": "Narrator: Anna, breathe deeply, then say:",
-		"linePl": "Narrator: Anna, oddychaj głęboko, a potem powiedz:\r",
-		"mp3Start": "147.2",
-		"mp3End": "150.2"
-	},
-	{
-		"lineNo": 26,
-		"lineEn": "Today I'm going to...",
-		"linePl": "Dzisiaj zamierzam ...\r",
-		"mp3Start": "150.2",
+		"lineEn": "Narrator: Anna, breathe deeply, then say: Today I'm going to...",
+		"linePl": "Narrator: Anna, oddychaj głęboko, a potem powiedz:\r Dzisiaj zamierzam ...\r",
+		"mp3Start": "146.8",
 		"mp3End": "152.8"
 	},
 	{
-		"lineNo": 27,
-		"lineEn": "Anna:   Today I'm going to... Today I'm going to present our revolutionary, new Imperial Lemon. I'll start by telling you a bit about Tip Top Trading and some of the exciting new developments at our company. And then…I’m going to move on to explain how the Imperial Lemon is designed and what makes it so revolutionary. And finally, you will all have a chance to see it close up for yourselves and ask questions.",
-		"linePl": "Anna: Dzisiaj zamierzam ... Dzisiaj przedstawię nasz rewolucyjny, nowy Imperial Lemon. Zacznę od opowiedzenia trochę o Tip Top Trading i niektóre z ekscytujących nowych wydarzeń w naszej firmie. A potem… Jestem przejdę do wyjaśnienia, w jaki sposób zaprojektowano Imperial Lemon i co czyni to tak rewolucyjnym. I wreszcie, wszyscy będą mieli okazję to zobaczyć zamknijcie się i zadajcie pytania.\r",
+		"lineNo": 26,
+		"lineEn": "Anna:   Today I'm going to... Today I'm going to present our revolutionary, new Imperial Lemon. I'll start by telling you a bit about Tip Top Trading and some of the exciting new developments at our company. ",
+		"linePl": "Anna: Dzisiaj zamierzam ... Dzisiaj przedstawię nasz rewolucyjny, nowy Imperial Lemon. Zacznę od opowiedzenia trochę o Tip Top Trading i niektóre z ekscytujących nowych wydarzeń w naszej firmie.",
 		"mp3Start": "152.8",
-		"mp3End": "187.5"
+		"mp3End": "171.3"
+	},
+	{
+		"linePl": " A potem… Jestem przejdę do wyjaśnienia, w jaki sposób zaprojektowano Imperial Lemon i co czyni to tak rewolucyjnym. I wreszcie, wszyscy będą mieli okazję to zobaczyć zamknijcie się i zadajcie pytania.",
+		"lineEn": "And then…I’m going to move on to explain how the Imperial Lemon is designed and what makes it so revolutionary. And finally, you will all have a chance to see it close up for yourselves and ask questions.",
+		"lineNo": 27,
+		"mp3Start": "171.9",
+		"mp3End": "187.3"
 	},
 	{
 		"lineNo": 28,
 		"lineEn": "So, let's begin. This picture shows...",
 		"linePl": "Zacznijmy więc. Ten obraz przedstawia...\r",
 		"mp3Start": "187.5",
-		"mp3End": "191.9"
+		"mp3End": "191.8"
 	},
 	{
 		"lineNo": 29,
 		"lineEn": "Narrator: Well, as usual, Anna seems to be turning a difficult situation into a success. She used the phrases we discussed, which made her opening clear and well-structured. She said:",
 		"linePl": "Narrator: Cóż, jak zwykle, Anna wydaje się zmieniać trudną sytuację w sukces. Użyła zwrotów, o których mówiliśmy, co sprawiło, że jej otwarcie było jasne i dobrze skonstruowany. Powiedziała:\r",
-		"mp3Start": "191.9",
+		"mp3Start": "194.0",
 		"mp3End": "206.9"
 	},
 	{
 		"lineNo": 30,
 		"lineEn": "Today I'm going to...",
 		"linePl": "Dzisiaj zamierzam ...\r",
-		"mp3Start": "206.9",
+		"mp3Start": "207.4",
 		"mp3End": "209.4"
 	},
 	{
@@ -228,13 +228,13 @@
 		"lineEn": "And finally...",
 		"linePl": "I w końcu...\r",
 		"mp3Start": "215.3",
-		"mp3End": "217"
+		"mp3End": "216.8"
 	},
 	{
 		"lineNo": 34,
 		"lineEn": "But that's just the beginning, now she's got to get through the rest of the pitch – how will that go?",
 		"linePl": "Ale to dopiero początek, teraz musi przejść przez resztę\r pitch - jak to pójdzie?\r",
-		"mp3Start": "217",
+		"mp3Start": "217.3",
 		"mp3End": "224.7"
 	},
 	{

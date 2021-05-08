@@ -200,136 +200,115 @@
 		"lineEn": "Anna: Thank you Mr Ingle. We’ll keep it a secret this time, but please don’t do it again. I’m afraid it’s just not permitted on company premises.",
 		"linePl": "Anna: Dziękuję, panie Ingle. Tym razem utrzymamy to w tajemnicy, ale proszę nie rób tego\r jeszcze raz. Obawiam się, że nie jest to dozwolone w siedzibie firmy.\r",
 		"mp3Start": "158.6",
-		"mp3End": "168"
+		"mp3End": "167.4"
 	},
 	{
 		"lineNo": 30,
-		"lineEn": "Mr Ingle: Whatever!",
-		"linePl": "Pan Ingle: Cokolwiek!\r",
-		"mp3Start": "168",
-		"mp3End": "169.7"
+		"lineEn": "Mr Ingle: Whatever! Anna: Oh and Mr Ingle, I still really like your overalls. Bye!",
+		"linePl": "Pan Ingle: Cokolwiek!\r Anna: Oh i panie Ingle, nadal bardzo lubię pański kombinezon. PA!\r",
+		"mp3Start": "167.8",
+		"mp3End": "173.3"
 	},
 	{
 		"lineNo": 31,
-		"lineEn": "Anna: Oh and Mr Ingle, I still really like your overalls. Bye!",
-		"linePl": "Anna: Oh i panie Ingle, nadal bardzo lubię pański kombinezon. PA!\r",
-		"mp3Start": "169.7",
-		"mp3End": "173.5"
+		"lineEn": "Narrator: Nice one Anna. You dealt with Mr Ingle really well. You kept your cool and explained the reasons why he shouldn’t smoke. Let’s hope he doesn’t do it again Anna.",
+		"linePl": "Narrator: Niezła Anna. Naprawdę dobrze poradziłeś sobie z panem Ingle. Zachowałeś spokój i  wyjaśnił powody, dla których nie powinien palić. Miejmy nadzieję, że tego nie zrobi znowu Anna.",
+		"mp3Start": "176.5",
+		"mp3End": "186.8"
 	},
 	{
 		"lineNo": 32,
-		"lineEn": "Narrator: Nice one Anna. You dealt with Mr Ingle really well. You kept your cool and explained the reasons why he shouldn’t smoke. Let’s hope he doesn’t do it again Anna.",
-		"linePl": "Narrator: Niezła Anna. Naprawdę dobrze poradziłeś sobie z panem Ingle. Zachowałeś spokój i  wyjaśnił powody, dla których nie powinien palić. Miejmy nadzieję, że tego nie zrobi znowu Anna.",
-		"mp3Start": "173.5",
-		"mp3End": "187.4"
+		"lineEn": "Anna: I hope not. I hate the smell of cigarette smoke. But I never got to ask him about stock management.",
+		"linePl": "Anna: Mam nadzieję, że nie. Nienawidzę zapachu dymu papierosowego. Ale nie miałam okazji go pytać\n o zarządzanie zapasami.\n",
+		"mp3Start": "187.2",
+		"mp3End": "193.8"
 	},
 	{
 		"lineNo": 33,
-		"lineEn": "Anna: I hope not. I hate the smell of cigarette smoke. But I never got to ask him about stock management.",
-		"linePl": "Anna: Mam nadzieję, że nie. Nienawidzę zapachu dymu papierosowego. Ale nigdy nie musiałem go pytać\r o zarządzaniu zapasami.\r",
-		"mp3Start": "187.4",
-		"mp3End": "194"
-	},
-	{
-		"lineNo": 34,
 		"lineEn": "Narrator: Well, maybe it’s best to leave it for another time?",
 		"linePl": "Narrator: Może najlepiej zostawić to na inny czas?\r",
 		"mp3Start": "194",
 		"mp3End": "196.9"
 	},
 	{
-		"lineNo": 35,
+		"lineNo": 34,
 		"lineEn": "Anna’s had a tricky day so far dealing with Mr Ingle but she was firm and fair in the language she used. Here’s a reminder of the phrases she used:",
-		"linePl": "Anna miała jak dotąd trudny dzień z panem Ingle, ale była stanowcza i\r uczciwy w języku, którego używała. Oto przypomnienie używanych przez nią zwrotów:\r",
-		"mp3Start": "196.9",
-		"mp3End": "208.2"
+		"linePl": "Anna miała jak dotąd trudny dzień z panem Ingle, ale była stanowcza i\n uczciwa w języku, którego używała. Oto przypomnienie używanych przez nią zwrotów:\n",
+		"mp3Start": "198.3",
+		"mp3End": "208.0"
 	},
 	{
-		"lineNo": 36,
+		"lineNo": 35,
 		"lineEn": "Would you mind not doing that please?",
-		"linePl": "Czy nie masz nic przeciwko temu?\r",
-		"mp3Start": "208.2",
+		"linePl": "Czy mógłbyś tego nie robić, proszę?\n",
+		"mp3Start": "208.1",
 		"mp3End": "210.6"
 	},
 	{
-		"lineNo": 37,
+		"lineNo": 36,
 		"lineEn": "I’m afraid it’s against company policy.",
 		"linePl": "Obawiam się, że jest to niezgodne z polityką firmy.\r",
 		"mp3Start": "210.6",
-		"mp3End": "213.9"
+		"mp3End": "213.7"
 	},
 	{
-		"lineNo": 38,
+		"lineNo": 37,
 		"lineEn": "I’m afraid it’s not permitted.",
 		"linePl": "Obawiam się, że to niedozwolone.\r",
-		"mp3Start": "213.9",
+		"mp3Start": "213.8",
 		"mp3End": "215.9"
 	},
 	{
-		"lineNo": 39,
+		"lineNo": 38,
 		"lineEn": "Sorry to have to ask you this but…",
 		"linePl": "Przepraszam, że muszę o to zapytać, ale…\r",
 		"mp3Start": "215.9",
-		"mp3End": "218.2"
+		"mp3End": "218.1"
+	},
+	{
+		"lineNo": 39,
+		"lineEn": "Paul: Ah Anna, there you are…. (sniffing) Have you been smoking? Anna: No!",
+		"linePl": "Paul: Ach Anno, jesteś… (pociągając nosem) Czy paliłeś?\r Anna: Nie!\r",
+		"mp3Start": "223.2",
+		"mp3End": "228.4"
 	},
 	{
 		"lineNo": 40,
-		"lineEn": "Paul: Ah Anna, there you are…. (sniffing) Have you been smoking?",
-		"linePl": "Paul: Ach Anno, jesteś… (pociągając nosem) Czy paliłeś?\r",
-		"mp3Start": "218.2",
-		"mp3End": "227.6"
+		"lineEn": "Paul: You smell of cigarette smoke. Look, I know you’re under pressure – but smoking in the building is not permitted. Anna: Bbbut…",
+		"linePl": "Paul: Pachniesz dymem papierosowym. Słuchaj, wiem, że jesteś pod presją - ale palenie w budynku jest zabronione.  Anna: Bbbut…\n",
+		"mp3Start": "228.5",
+		"mp3End": "234.9"
 	},
 	{
 		"lineNo": 41,
-		"lineEn": "Anna: No!",
-		"linePl": "Anna: Nie!\r",
-		"mp3Start": "227.6",
-		"mp3End": "228.6"
+		"lineEn": "Paul: We take this very seriously. You had better step in to my office and we’ll talk about this.",
+		"linePl": "Paul: Traktujemy to bardzo poważnie. Lepiej wejdź do mojego biura, a my mówić o tym.\n",
+		"mp3Start": "235.3",
+		"mp3End": "240.2"
 	},
 	{
 		"lineNo": 42,
-		"lineEn": "Paul: You smell of cigarette smoke. Look, I know you’re under pressure – but smoking in the building is not permitted.",
-		"linePl": "Paul: Pachniesz dymem papierosowym. Słuchaj, wiem, że jesteś pod presją - ale\r palenie w budynku jest zabronione.\r",
-		"mp3Start": "228.6",
-		"mp3End": "235"
+		"lineEn": "Narrator: Oh dear! Anna’s in trouble for no reason. Let’s hope she explains the mix- up, but that means telling Paul about Mr Ingle smoking. This is going to be difficult. Until next time, bye!",
+		"linePl": "Narrator: Och kochanie! Anna ma kłopoty bez powodu. Miejmy nadzieję, że wyjaśni mix- ale oznacza to mówienie Paulowi o paleniu pana Ingle. To będzie trudny. Do następnego razu, pa!\n",
+		"mp3Start": "240.3",
+		"mp3End": "252.7"
 	},
 	{
 		"lineNo": 43,
-		"lineEn": "Anna: Bbbut…",
-		"linePl": "Anna: Bbbut…\r",
-		"mp3Start": "235",
-		"mp3End": "236.1"
-	},
-	{
-		"lineNo": 44,
-		"lineEn": "Paul: We take this very seriously. You had better step in to my office and we’ll talk about this.",
-		"linePl": "Paul: Traktujemy to bardzo poważnie. Lepiej wejdź do mojego biura, a my\r mówić o tym.\r",
-		"mp3Start": "236.1",
-		"mp3End": "240.6"
-	},
-	{
-		"lineNo": 45,
-		"lineEn": "Narrator: Oh dear! Anna’s in trouble for no reason. Let’s hope she explains the mix- up, but that means telling Paul about Mr Ingle smoking. This is going to be difficult. Until next time, bye!",
-		"linePl": "Narrator: Och kochanie! Anna ma kłopoty bez powodu. Miejmy nadzieję, że wyjaśni mix-\r ale oznacza to mówienie Paulowi o paleniu pana Ingle. To będzie\r trudny. Do następnego razu, pa!\r",
-		"mp3Start": "240.6",
-		"mp3End": "253.4"
-	},
-	{
-		"lineNo": 46,
 		"lineEn": " Listening Challenge",
 		"linePl": " Wyzwanie słuchania\r",
 		"mp3Start": "",
 		"mp3End": ""
 	},
 	{
-		"lineNo": 47,
+		"lineNo": 44,
 		"lineEn": "What other word does Anna use to mean ‘put out your cigarette’?",
 		"linePl": "Jakiego innego słowa Anna używa na określenie „zgasić papierosa”?\r",
 		"mp3Start": "",
 		"mp3End": ""
 	},
 	{
-		"lineNo": 48,
+		"lineNo": 45,
 		"lineEn": "(Answer: To extinguish)",
 		"linePl": "(Odpowiedź: Aby ugasić) ",
 		"mp3Start": "",
