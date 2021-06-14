@@ -1,0 +1,415 @@
+[
+	{
+		"lineNo": 0,
+		"lineEn": "Denise: Morning everyone. How did you get on at the conference?",
+		"linePl": "Denise: Dzień dobry wszystkim. Jak ci poszło na konferencji?\r",
+		"mp3Start": "1.5",
+		"mp3End": "8.3"
+	},
+	{
+		"lineNo": 1,
+		"lineEn": "Tom: Oh hi Denise. Yeah it was… it was OK.",
+		"linePl": "Tom: O cześć Denise. Tak, było… było OK.\r",
+		"mp3Start": "8.3",
+		"mp3End": "11.1"
+	},
+	{
+		"lineNo": 2,
+		"lineEn": "Anna: What do you mean ‘OK’?  It was great. We made some new contacts and we won an award – Best Plastic Innovation of the Year, for our Imperial Lemon.",
+		"linePl": "Anna: Co masz na myśli mówiąc „OK”? To było wspaniałe. Nawiązaliśmy kilka nowych kontaktów i\r zdobyliśmy nagrodę - Najlepsza Innowacja Plastikowa Roku dla naszego Imperiala\r Cytrynowy.\r",
+		"mp3Start": "11.1",
+		"mp3End": "22.7"
+	},
+	{
+		"lineNo": 3,
+		"lineEn": "Denise: Oh that’s wonderful. Wish I’d been there.",
+		"linePl": "Denise: Och, to wspaniale. Chciałabym tam być.\r",
+		"mp3Start": "22.7",
+		"mp3End": "29"
+	},
+	{
+		"lineNo": 4,
+		"lineEn": "Tom: Maybe next year eh?",
+		"linePl": "Tom: Może w przyszłym roku, co?\r",
+		"mp3Start": "29",
+		"mp3End": "30.8"
+	},
+	{
+		"lineNo": 5,
+		"lineEn": "Narrator: Maybe? Welcome back to the offices of Tip Top Trading where everyone is catching up on yesterday’s good news. But today it’s bad news that everyone is going to hear following Paul’s chat with the big boss, Mr Socrates. But how bad is it? Let’s find out.",
+		"linePl": "Narrator: Może? Witamy z powrotem w biurach Tip Top Trading, w których są wszyscy\r zapoznanie się z wczorajszymi dobrymi wiadomościami. Ale dzisiaj to zła wiadomość\r wszyscy usłyszą po rozmowie Paula z wielkim szefem, Mr.\r Sokrates. Ale czy to jest złe? Dowiedzmy Się.\r",
+		"mp3Start": "30.8",
+		"mp3End": "49.7"
+	},
+	{
+		"lineNo": 6,
+		"lineEn": "Paul: Morning everyone.",
+		"linePl": "Paul: Dzień dobry wszystkim.\r",
+		"mp3Start": "49.7",
+		"mp3End": "52.7"
+	},
+	{
+		"lineNo": 7,
+		"lineEn": "Anna: Hi Paul. Everything OK?",
+		"linePl": "Anna: Cześć Paul. Wszystko w porządku?\r",
+		"mp3Start": "52.7",
+		"mp3End": "54.9"
+	},
+	{
+		"lineNo": 8,
+		"lineEn": "Paul: Yes, fine. Well done for winning Employee of the Year – I hope you can continue to be a great employee. Excuse me.",
+		"linePl": "Paul: Tak, dobrze. Gratulacje za zdobycie tytułu Pracownika Roku - mam nadzieję, że tak\r nadal być wspaniałym pracownikiem. Przepraszam.\r",
+		"mp3Start": "54.9",
+		"mp3End": "64.7"
+	},
+	{
+		"lineNo": 9,
+		"lineEn": "Denise: Hmm, he sounded odd. What did he mean?",
+		"linePl": "Denise: Hmm, brzmiał dziwnie. Co on miał na myśli?\r",
+		"mp3Start": "64.7",
+		"mp3End": "69.7"
+	},
+	{
+		"lineNo": 10,
+		"lineEn": "Tom: Probably run out of biscuits!",
+		"linePl": "Tom: Prawdopodobnie skończą się ciastka!\r",
+		"mp3Start": "69.7",
+		"mp3End": "72.5"
+	},
+	{
+		"lineNo": 11,
+		"lineEn": "Anna: He’s obviously got something on his mind.",
+		"linePl": "Anna: Najwyraźniej ma coś na głowie.\r",
+		"mp3Start": "72.5",
+		"mp3End": "76.5"
+	},
+	{
+		"lineNo": 12,
+		"lineEn": "Paul: Denise, could I have a word with you in my office please?",
+		"linePl": "Paul: Denise, czy mógłbym porozmawiać z tobą w moim biurze?\r",
+		"mp3Start": "76.5",
+		"mp3End": "82"
+	},
+	{
+		"lineNo": 13,
+		"lineEn": "Denise: Of course. I’ll bring my notepad and pen shall I?",
+		"linePl": "Denise: Oczywiście. Przyniosę notatnik i długopis, prawda?\r",
+		"mp3Start": "82",
+		"mp3End": "85.6"
+	},
+	{
+		"lineNo": 14,
+		"lineEn": "Tom: What’s that all about? Anyway, now we’re alone, I wanted to see what you’re doing tonight… are you free?",
+		"linePl": "TOM: O co w tym wszystkim chodzi? W każdym razie, teraz jesteśmy sami, chciałem zobaczyć co\r robisz dziś wieczorem… czy jesteś wolny?\r",
+		"mp3Start": "85.6",
+		"mp3End": "95.1"
+	},
+	{
+		"lineNo": 15,
+		"lineEn": "Anna: Sorry Tom, I’m seeing Dave tonight. He’s offered to fix something on my computer at home.",
+		"linePl": "Anna: Przepraszam Tom, spotykam się dzisiaj z Dave'em. Zaproponowano, że naprawi coś na moim\r komputer w domu.\r",
+		"mp3Start": "95.1",
+		"mp3End": "100.5"
+	},
+	{
+		"lineNo": 16,
+		"lineEn": "Tom: Oh, has he now?",
+		"linePl": "Tom: Oh, czy on teraz?\r",
+		"mp3Start": "100.5",
+		"mp3End": "102.2"
+	},
+	{
+		"lineNo": 17,
+		"lineEn": "(Denise goes into Paul's office and comes out a few minutes later)",
+		"linePl": "(Denise wchodzi do gabinetu Paula i wychodzi kilka minut później)\r",
+		"mp3Start": "102.2",
+		"mp3End": "105"
+	},
+	{
+		"lineNo": 18,
+		"lineEn": "Denise: All the years I’ve worked here – why me? Why now?",
+		"linePl": "Denise: Wszystkie lata, kiedy tu pracowałem - dlaczego ja? Dlaczego teraz?\r",
+		"mp3Start": "105",
+		"mp3End": "110.2"
+	},
+	{
+		"lineNo": 19,
+		"lineEn": "Anna: Denise, what’s up?",
+		"linePl": "Anna: Denise, co słychać?\r",
+		"mp3Start": "110.2",
+		"mp3End": "112.1"
+	},
+	{
+		"lineNo": 20,
+		"lineEn": "Denise: Paul says he needs to move the furniture around and he has to let me go.",
+		"linePl": "Denise: Paul mówi, że musi przestawić meble i pozwolić mi odejść.\r",
+		"mp3Start": "112.1",
+		"mp3End": "118.4"
+	},
+	{
+		"lineNo": 21,
+		"lineEn": "He says he can’t afford me anymore.",
+		"linePl": "Mówi, że nie stać go już na mnie.\r",
+		"mp3Start": "118.4",
+		"mp3End": "123"
+	},
+	{
+		"lineNo": 22,
+		"lineEn": "Anna: That’s terrible… but where’s he letting you go to? And what furniture is he moving?",
+		"linePl": "Anna: To okropne… ale gdzie on pozwala ci iść? A jakie on meble\r w ruchu?\r",
+		"mp3Start": "123",
+		"mp3End": "129.1"
+	},
+	{
+		"lineNo": 23,
+		"lineEn": "Narrator: No Anna! If someone says they are ‘moving the furniture’ they really mean they are restructuring or changing the business. And if they say ‘they have to let you go’, it means they are sacking you or in other words, ending your job.",
+		"linePl": "Narrator: Nie, Anna! Jeśli ktoś mówi, że „przenosi meble”, to naprawdę ma na myśli\r restrukturyzują lub zmieniają biznes. A jeśli powiedzą, że mają\r pozwolić ci odejść ”, to znaczy, że cię zwalniają lub innymi słowy, kończą twoje\r praca.\r",
+		"mp3Start": "129.1",
+		"mp3End": "145.4"
+	},
+	{
+		"lineNo": 24,
+		"lineEn": "Anna: Sacking you? Oh, that is serious. (To Denise) Denise, I’m really sorry to hear this. But why does Paul want to ‘move the furniture’ around?",
+		"linePl": "Anna: Wywalili cię? Och, to jest poważne. (Do Denise) Denise, bardzo mi przykro\r usłysz to. Ale dlaczego Paweł chce „przestawiać meble”?\r",
+		"mp3Start": "145.4",
+		"mp3End": "156.7"
+	},
+	{
+		"lineNo": 25,
+		"lineEn": "Denise: He says it’s because of the tough economic situation. My role is no longer needed.",
+		"linePl": "Denise: Mówi, że to z powodu trudnej sytuacji ekonomicznej. Moja rola już nie jest\r potrzebne.\r",
+		"mp3Start": "156.7",
+		"mp3End": "165.5"
+	},
+	{
+		"lineNo": 26,
+		"lineEn": "Tom: Hey, that’s not true. You make a great cup of tea Denise. I’ve got a good mind to smash Paul’s bourbons into tiny crumbs. Grrr.",
+		"linePl": "Tom: Hej, to nieprawda. Robisz świetną filiżankę herbaty Denise. Mam dobry\r umysł, by rozbić burbonki Paula na drobne okruchy. Grrr.\r",
+		"mp3Start": "165.5",
+		"mp3End": "174.9"
+	},
+	{
+		"lineNo": 27,
+		"lineEn": "Anna:  Calm down Tom. Now Denise, when did Paul say you had to go?",
+		"linePl": "Anna: Uspokój się Tom. Teraz Denise, kiedy Paul powiedział, że musisz iść?\r",
+		"mp3Start": "174.9",
+		"mp3End": "181.5"
+	},
+	{
+		"lineNo": 28,
+		"lineEn": "Denise: He’s given me seven days’ notice.",
+		"linePl": "Denise: Dał mi siedem dni wypowiedzenia.\r",
+		"mp3Start": "181.5",
+		"mp3End": "185.5"
+	},
+	{
+		"lineNo": 29,
+		"lineEn": "Narrator: A ‘notice period’ is an amount of time an employer must give an employee if they plan to terminate their employment.",
+		"linePl": "Narrator: „Okres wypowiedzenia” to czas, który pracodawca musi wyznaczyć pracownikowi\r jeśli planują zakończyć pracę.\r",
+		"mp3Start": "185.5",
+		"mp3End": "195.4"
+	},
+	{
+		"lineNo": 30,
+		"lineEn": "Denise: I never thought I would be facing redundancy… not now… not at my age.",
+		"linePl": "Denise: Nigdy nie myślałem, że będę musiał stawić czoła zwolnieniu… nie teraz… nie w moim wieku.\r",
+		"mp3Start": "195.4",
+		"mp3End": "202.4"
+	},
+	{
+		"lineNo": 31,
+		"lineEn": "Anna:  Redundancy?",
+		"linePl": "Anna: Nadmiarowość?\r",
+		"mp3Start": "202.4",
+		"mp3End": "203.7"
+	},
+	{
+		"lineNo": 32,
+		"lineEn": "Narrator: Yes, if someone says ‘they are facing redundancy’, it’s another way of saying they are losing their job. Hmm, I think Denise needs a shoulder to cry on.",
+		"linePl": "Narrator: Tak, jeśli ktoś mówi „grozi mu zwolnienie”, jest to inny sposób\r mówiąc, że tracą pracę. Hmm, myślę, że Denise potrzebuje ramienia\r płacz dalej.\r",
+		"mp3Start": "203.7",
+		"mp3End": "214.1"
+	},
+	{
+		"lineNo": 33,
+		"lineEn": "Anna: Yes. Denise, do you want my shoulder to cry on?",
+		"linePl": "Anna: Tak. Denise, chcesz, żeby moje ramię płakało?\r",
+		"mp3Start": "214.1",
+		"mp3End": "218.8"
+	},
+	{
+		"lineNo": 34,
+		"lineEn": "Denise: Oh thanks.",
+		"linePl": "Denise: Oh dzięki.\r",
+		"mp3Start": "218.8",
+		"mp3End": "221.3"
+	},
+	{
+		"lineNo": 35,
+		"lineEn": "Tom: Urgh! Erm… Denise, I’ve just made some tea would you like a cup?",
+		"linePl": "Tom: Urgh! Eee… Denise, właśnie zrobiłem herbatę, czy chcesz filiżankę?\r",
+		"mp3Start": "221.3",
+		"mp3End": "228.3"
+	},
+	{
+		"lineNo": 36,
+		"lineEn": "Denise: Oh yes please.",
+		"linePl": "Denise: O tak, proszę.\r",
+		"mp3Start": "228.3",
+		"mp3End": "230.6"
+	},
+	{
+		"lineNo": 37,
+		"lineEn": "Tom: There you go. You know Denise, you’ve got to think positively. You’ll get another job… and let’s face it you didn’t like working here anyway… you always looked so miserable.",
+		"linePl": "TOM: No proszę. Znasz Denise, musisz myśleć pozytywnie. Dostaniesz\r inna praca… i spójrzmy prawdzie w oczy, i tak nie lubiłaś tu pracować… Ciebie\r zawsze wyglądał tak nieszczęśliwie.\r",
+		"mp3Start": "230.6",
+		"mp3End": "243.2"
+	},
+	{
+		"lineNo": 38,
+		"lineEn": "Narrator: I don’t think Tom’s attempts to cheer Denise up are going to work! Losing your job can be a traumatic experience. It can come as a surprise and a shock. Let’s hear the phrases Paul used to break the news to Denise:",
+		"linePl": "Narrator: Nie sądzę, aby próby Toma rozweselić Denise się powiodły! Przegrywający\r Twoja praca może być traumatycznym doświadczeniem. Może to być niespodzianka i\r zaszokować. Posłuchajmy wyrażeń, których Paul użył, by przekazać Denise wiadomość:\r",
+		"mp3Start": "243.2",
+		"mp3End": "260.7"
+	},
+	{
+		"lineNo": 39,
+		"lineEn": "We’ve got to move the furniture around.",
+		"linePl": "Musimy przestawiać meble.\r",
+		"mp3Start": "260.7",
+		"mp3End": "264.1"
+	},
+	{
+		"lineNo": 40,
+		"lineEn": "I’m afraid I’ve got to let you go.",
+		"linePl": "Obawiam się, że muszę cię puścić.\r",
+		"mp3Start": "264.1",
+		"mp3End": "267.7"
+	},
+	{
+		"lineNo": 41,
+		"lineEn": "I’m giving you seven days’ notice.",
+		"linePl": "Daję ci siedem dni wypowiedzenia.\r",
+		"mp3Start": "267.7",
+		"mp3End": "272.1"
+	},
+	{
+		"lineNo": 42,
+		"lineEn": "Narrator: And here are some other expressions you may hear in connection with losing your job:",
+		"linePl": "Narrator: A oto kilka innych wyrażeń, które możesz usłyszeć w związku\r utrata pracy:\r",
+		"mp3Start": "272.1",
+		"mp3End": "278.3"
+	},
+	{
+		"lineNo": 43,
+		"lineEn": "Facing redundancy",
+		"linePl": "W obliczu nadmiarowości\r",
+		"mp3Start": "278.3",
+		"mp3End": "280.4"
+	},
+	{
+		"lineNo": 44,
+		"lineEn": "Getting the sack",
+		"linePl": "Dostać worek\r",
+		"mp3Start": "280.4",
+		"mp3End": "283.2"
+	},
+	{
+		"lineNo": 45,
+		"lineEn": "Terminating your employment",
+		"linePl": "Wypowiedzenie zatrudnienia\r",
+		"mp3Start": "283.2",
+		"mp3End": "287.4"
+	},
+	{
+		"lineNo": 46,
+		"lineEn": "Leaving the company",
+		"linePl": "Opuszczenie firmy\r",
+		"mp3Start": "287.4",
+		"mp3End": "290"
+	},
+	{
+		"lineNo": 47,
+		"lineEn": "Denise: Right, well, I might as well start clearing out my desk.",
+		"linePl": "Denise: No cóż, równie dobrze mogę zacząć sprzątać biurko.\r",
+		"mp3Start": "290",
+		"mp3End": "300.1"
+	},
+	{
+		"lineNo": 48,
+		"lineEn": "Tom: Yeah it’s a real shame. Any chance I could have your stapler?",
+		"linePl": "Tom: Tak, to prawdziwy wstyd. Jest jakaś szansa, żebym miał twój zszywacz?\r",
+		"mp3Start": "300.1",
+		"mp3End": "305.3"
+	},
+	{
+		"lineNo": 49,
+		"lineEn": "Anna: (Whispering) Tom, you could be a bit more sympathetic.",
+		"linePl": "Anna: (szeptem) Tom, mógłbyś być trochę bardziej współczujący.\r",
+		"mp3Start": "305.3",
+		"mp3End": "308.2"
+	},
+	{
+		"lineNo": 50,
+		"lineEn": "Tom: Oh right.",
+		"linePl": "TOM: O racja.\r",
+		"mp3Start": "308.2",
+		"mp3End": "309.4"
+	},
+	{
+		"lineNo": 51,
+		"lineEn": "(Door opens)",
+		"linePl": "(Drzwi się otwierają)\r",
+		"mp3Start": "309.4",
+		"mp3End": "310.7"
+	},
+	{
+		"lineNo": 52,
+		"lineEn": "Paul: Tom, Anna. Could I have a word in my office please?",
+		"linePl": "Paul: Tom, Anna. Czy mogę prosić o słowo w moim biurze?\r",
+		"mp3Start": "310.7",
+		"mp3End": "314.5"
+	},
+	{
+		"lineNo": 53,
+		"lineEn": "Tom: Oh no. This is it. It’s my turn to get the chop!",
+		"linePl": "TOM: O nie. To jest to. Teraz moja kolej, żeby dostać kotleta!\r",
+		"mp3Start": "314.5",
+		"mp3End": "319.6"
+	},
+	{
+		"lineNo": 54,
+		"lineEn": "Denise: Ha, You might not need my stapler after all!",
+		"linePl": "Denise: Ha, w końcu możesz nie potrzebować mojego zszywacza!\r",
+		"mp3Start": "319.6",
+		"mp3End": "323.1"
+	},
+	{
+		"lineNo": 55,
+		"lineEn": "Narrator: Crikey! Things aren’t looking good at Tip Top Trading. Are Tom and Anna getting the chop… I mean, the sack?  Join us again next time on English at Work.",
+		"linePl": "Narrator: Crikey! W Tip Top Trading sytuacja nie wygląda dobrze. Czy Tom i Anna\r dostać kotleta… mam na myśli worek? Dołącz do nas następnym razem w języku angielskim o godz\r Praca.\r",
+		"mp3Start": "323.1",
+		"mp3End": "334"
+	},
+	{
+		"lineNo": 56,
+		"lineEn": "Listening Challenge",
+		"linePl": "Słuchanie Challenge\r",
+		"mp3Start": "",
+		"mp3End": ""
+	},
+	{
+		"lineNo": 57,
+		"lineEn": "What does Anna offer Denise to cry on?",
+		"linePl": "Co Anna proponuje Denise do płaczu?\r",
+		"mp3Start": "",
+		"mp3End": ""
+	},
+	{
+		"lineNo": 58,
+		"lineEn": "(Answer: Her shoulder!)",
+		"linePl": "(Odpowiedź: Jej ramię!) ",
+		"mp3Start": "",
+		"mp3End": ""
+	}
+]

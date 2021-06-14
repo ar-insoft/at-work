@@ -1,0 +1,408 @@
+[
+	{
+		"lineNo": 0,
+		"lineEn": "Narrator: Welcome back to the chaotic offices of Tip Top Trading. Now Denise has left the company, the place is a mess and important phone messages are being lost.  What can be done to make things better?  I think we know the answer!",
+		"linePl": "Narrator: Witamy ponownie w chaotycznych biurach Tip Top Trading. Teraz Denise wyszła\r firma, w miejscu panuje bałagan i pojawiają się ważne wiadomości telefoniczne\r Stracony. Co można zrobić, aby było lepiej? Myślę, że znamy\r odpowiedź!\r",
+		"mp3Start": "1.5",
+		"mp3End": "20"
+	},
+	{
+		"lineNo": 1,
+		"lineEn": "(Door opens)",
+		"linePl": "(Drzwi się otwierają)\r",
+		"mp3Start": "20",
+		"mp3End": "21.1"
+	},
+	{
+		"lineNo": 2,
+		"lineEn": "Paul: Hi. Did anyone take a message for me while I was out?  I'm expecting an important call.",
+		"linePl": "Paul: Cześć. Czy ktoś przyniósł mi wiadomość, kiedy mnie nie było? Spodziewam się\r ważne wezwanie.\r",
+		"mp3Start": "21.1",
+		"mp3End": "26.4"
+	},
+	{
+		"lineNo": 3,
+		"lineEn": "Tom: Err… no!",
+		"linePl": "TOM: Eee… nie!\r",
+		"mp3Start": "26.4",
+		"mp3End": "27.8"
+	},
+	{
+		"lineNo": 4,
+		"lineEn": "Anna: Actually yes Paul. I wrote it on Tom's hand but he washed it off.",
+		"linePl": "Anna: Właściwie tak Paul. Napisałem to na dłoni Toma, ale on to zmył.\r",
+		"mp3Start": "27.8",
+		"mp3End": "32.9"
+	},
+	{
+		"lineNo": 5,
+		"lineEn": "Tom: Look, good hygiene's very important to me.",
+		"linePl": "Tom: Słuchaj, dobra higiena jest dla mnie bardzo ważna.\r",
+		"mp3Start": "32.9",
+		"mp3End": "35.5"
+	},
+	{
+		"lineNo": 6,
+		"lineEn": "Paul: Hmm. That's not very good is it? What's wrong with writing on a piece of paper?",
+		"linePl": "Paul: Hmm. To nie jest zbyt dobre, prawda? Co jest złego w pisaniu po kawałku\r papier?\r",
+		"mp3Start": "35.5",
+		"mp3End": "40.4"
+	},
+	{
+		"lineNo": 7,
+		"lineEn": "Anna: We've run out of paper… and pens.",
+		"linePl": "Anna: Zabrakło nam papieru… i długopisów.\r",
+		"mp3Start": "40.4",
+		"mp3End": "44.8"
+	},
+	{
+		"lineNo": 8,
+		"lineEn": "Tom: Everything really. Nobody's ordered any stationery or tidied up the office.",
+		"linePl": "Tom: Naprawdę wszystko. Nikt nie zamówił żadnych artykułów papierniczych ani nie posprzątał biura.\r",
+		"mp3Start": "44.8",
+		"mp3End": "50"
+	},
+	{
+		"lineNo": 9,
+		"lineEn": "Anna: It's since Denise left.",
+		"linePl": "Anna: To było odkąd Denise odeszła.\r",
+		"mp3Start": "50",
+		"mp3End": "51.7"
+	},
+	{
+		"lineNo": 10,
+		"lineEn": "Paul: Yes, maybe I was a bit hasty getting rid of her. It was really just to save money.",
+		"linePl": "Paul: Tak, może trochę pośpiesznie się jej pozbyłem. Tak naprawdę chodziło tylko o to, żeby uratować\r pieniądze.\r",
+		"mp3Start": "51.7",
+		"mp3End": "58.4"
+	},
+	{
+		"lineNo": 11,
+		"lineEn": "Tom: Yeah, but look, if we can't take messages from possible clients we're going to lose even more money.",
+		"linePl": "Tom: Tak, ale spójrz, jeśli nie możemy odbierać wiadomości od potencjalnych klientów, jedziemy\r stracić jeszcze więcej pieniędzy.\r",
+		"mp3Start": "58.4",
+		"mp3End": "64.4"
+	},
+	{
+		"lineNo": 12,
+		"lineEn": "Paul: Yes… I suppose you have a point. Maybe I will to have reinstate her.",
+		"linePl": "Paul: Tak… przypuszczam, że masz rację. Może będę ją przywracał.\r",
+		"mp3Start": "64.4",
+		"mp3End": "70.7"
+	},
+	{
+		"lineNo": 13,
+		"lineEn": "Anna: You mean, get her back?",
+		"linePl": "Anna: Masz na myśli, odzyskać ją?\r",
+		"mp3Start": "70.7",
+		"mp3End": "73.2"
+	},
+	{
+		"lineNo": 14,
+		"lineEn": "Narrator: Yes Anna, he does. Another way of saying reinstate is he's got to 'reverse his decision'. It means Paul has got to make an awkward call to Denise.",
+		"linePl": "Narrator: Tak, Anna, on. Innym sposobem na powiedzenie przywrócenia na stanowisko jest to, że musi „cofnąć”\r jego decyzja ”. To znaczy, że Paul musi wykonać niezręczny telefon do Denise.\r",
+		"mp3Start": "73.2",
+		"mp3End": "85.3"
+	},
+	{
+		"lineNo": 15,
+		"lineEn": "Tom: Look Paul, you're going to have to call her and tell her you've made an error… a huge one actually.",
+		"linePl": "Tom: Słuchaj Paul, będziesz musiał do niej zadzwonić i powiedzieć jej, że zrobiłeś\r błąd… właściwie ogromny.\r",
+		"mp3Start": "85.3",
+		"mp3End": "91.7"
+	},
+	{
+		"lineNo": 16,
+		"lineEn": "Paul: It wasn't that huge? Actually… Anna, you're her good friend, would you like to call her?",
+		"linePl": "Paul: To nie było takie ogromne? Właściwie… Anna, jesteś jej dobrą przyjaciółką, chcesz\r zadzwonić do niej?\r",
+		"mp3Start": "91.7",
+		"mp3End": "98"
+	},
+	{
+		"lineNo": 17,
+		"lineEn": "Anna: Me?! B-b-but I can't.",
+		"linePl": "Anna: Ja ?! A-a-ale nie mogę.\r",
+		"mp3Start": "98",
+		"mp3End": "101"
+	},
+	{
+		"lineNo": 18,
+		"lineEn": "Narrator: What a coward! I think it's time to stand your ground Anna. Tell him \"You're the boss, I think it's better coming from you\", and remind him \"it was your decision so you need to explain the situation\", and remind him \"this is your responsibility\". You could suggest he says \"I'm sorry, I made a mistake and we would love to have you back.\"",
+		"linePl": "Narrator: Co za tchórz! Myślę, że nadszedł czas, aby stanąć na ziemi, Anno. Powiedz mu\r „Ty jesteś szefem, myślę, że lepiej będzie od ciebie” i przypomnij mu „to\r to była twoja decyzja, więc musisz wyjaśnić sytuację ”i przypomnieć mu\r „to jest twoja odpowiedzialność”. Możesz zasugerować, żeby powiedział: „Przepraszam, zrobiłem\r pomyłka i chcielibyśmy, żebyś wrócił ”.\r",
+		"mp3Start": "101",
+		"mp3End": "127"
+	},
+	{
+		"lineNo": 19,
+		"lineEn": "Anna: OK. Do you know what Paul, I think the news is better coming from you… just to make it official.",
+		"linePl": "Anna: OK. Czy wiesz, co Paul, myślę, że wiadomości są lepsze od ciebie…\r żeby to było oficjalne.\r",
+		"mp3Start": "127",
+		"mp3End": "134.2"
+	},
+	{
+		"lineNo": 20,
+		"lineEn": "Tom: Yeah Paul, you are the boss after all.",
+		"linePl": "Tom: Tak Paul, w końcu jesteś szefem.\r",
+		"mp3Start": "134.2",
+		"mp3End": "136.6"
+	},
+	{
+		"lineNo": 21,
+		"lineEn": "Anna: And it was your decision in the first place so you need to explain that the situation has changed.",
+		"linePl": "Anna: I to była Twoja decyzja w pierwszej kolejności, więc musisz to wyjaśnić\r sytuacja się zmieniła.\r",
+		"mp3Start": "136.6",
+		"mp3End": "142.8"
+	},
+	{
+		"lineNo": 22,
+		"lineEn": "Paul: Well, maybe you're right but I can't tell her I'm wrong can I?",
+		"linePl": "Paul: Cóż, może masz rację, ale nie mogę jej powiedzieć, że się mylę, prawda?\r",
+		"mp3Start": "142.8",
+		"mp3End": "148.1"
+	},
+	{
+		"lineNo": 23,
+		"lineEn": "Anna: Look, just say you're sorry. Tell her you made a mistake and I would love to have you back… we all would.",
+		"linePl": "Anna: Słuchaj, po prostu powiedz, że ci przykro. Powiedz jej, że popełniłeś błąd i bardzo bym chciał\r mieć cię z powrotem… wszyscy byśmy to zrobili.\r",
+		"mp3Start": "148.1",
+		"mp3End": "156.5"
+	},
+	{
+		"lineNo": 24,
+		"lineEn": "Paul: Yes, you're right. I should do it. I'll just have a quick biscuit. Here goes",
+		"linePl": "Paul: Tak, masz rację. Powinienem to zrobić. Poproszę tylko szybkie ciastko. Tutaj idzie\r",
+		"mp3Start": "156.5",
+		"mp3End": "164.3"
+	},
+	{
+		"lineNo": 25,
+		"lineEn": "(Dials number)",
+		"linePl": "(Numer wybierania)\r",
+		"mp3Start": "164.3",
+		"mp3End": "167"
+	},
+	{
+		"lineNo": 26,
+		"lineEn": "Denise: Hello?",
+		"linePl": "Denise: Halo?\r",
+		"mp3Start": "167",
+		"mp3End": "172.5"
+	},
+	{
+		"lineNo": 27,
+		"lineEn": "Paul: Ah... h-h-h-ello Denise. It's me… Paul…your boss… your ex-boss from Tip Top Trading.",
+		"linePl": "Paul: Ah ... h-h-h-ello Denise. To ja… Paul… Twój szef… Twój były szef z Tip\r Top Trading.\r",
+		"mp3Start": "172.5",
+		"mp3End": "180.9"
+	},
+	{
+		"lineNo": 28,
+		"lineEn": "Denise: Oh.",
+		"linePl": "Denise: Och.\r",
+		"mp3Start": "180.9",
+		"mp3End": "182.1"
+	},
+	{
+		"lineNo": 29,
+		"lineEn": "Paul: How are you… getting on?",
+		"linePl": "Paul: Jak się… czujesz?\r",
+		"mp3Start": "182.1",
+		"mp3End": "184.8"
+	},
+	{
+		"lineNo": 30,
+		"lineEn": "Denise: Well…",
+		"linePl": "Denise: Cóż…\r",
+		"mp3Start": "184.8",
+		"mp3End": "186.4"
+	},
+	{
+		"lineNo": 31,
+		"lineEn": "Paul: Good, good. Actually, I've been rethinking our staffing situation in the office…",
+		"linePl": "Paul: Dobrze, dobrze. Właściwie to przemyślałem naszą sytuację kadrową w\r gabinet…\r",
+		"mp3Start": "186.4",
+		"mp3End": "192.3"
+	},
+	{
+		"lineNo": 32,
+		"lineEn": "Denise: Yes?",
+		"linePl": "Denise: Tak?\r",
+		"mp3Start": "192.3",
+		"mp3End": "194"
+	},
+	{
+		"lineNo": 33,
+		"lineEn": "Paul: And…well… I'm sorry Denise… I… miscalculated my staffing numbers.",
+		"linePl": "Paul: I… cóż… przepraszam Denise… ja… przeliczyłem liczbę pracowników.\r",
+		"mp3Start": "194",
+		"mp3End": "200.6"
+	},
+	{
+		"lineNo": 34,
+		"lineEn": "Denise: You mean you made a mistake?",
+		"linePl": "Denise: Masz na myśli, że popełniłeś błąd?\r",
+		"mp3Start": "200.6",
+		"mp3End": "212"
+	},
+	{
+		"lineNo": 35,
+		"lineEn": "Paul: Well, I suppose so. So... I would love to have you back in the office as soon as possible. What do you say?",
+		"linePl": "Paul: Cóż, tak sądzę. Więc ... Bardzo chciałbym mieć cię z powrotem w biurze jako\r możliwie najszybciej. Co mówisz?\r",
+		"mp3Start": "212",
+		"mp3End": "216.6"
+	},
+	{
+		"lineNo": 36,
+		"lineEn": "Denise: Hmm, let me think about it… hmmm… errr… well… hmmm…",
+		"linePl": "Denise: Hmm, pomyśl o tym… hmmm… eee… no… hmm…\r",
+		"mp3Start": "216.6",
+		"mp3End": "220.7"
+	},
+	{
+		"lineNo": 37,
+		"lineEn": "Narrator: What will Denise decide? It was a hard phone call for Paul to make, but not",
+		"linePl": "Narrator: Co zdecyduje Denise? To był trudny telefon dla Paula, ale tak się nie stało\r",
+		"mp3Start": "220.7",
+		"mp3End": "236.2"
+	},
+	{
+		"lineNo": 38,
+		"lineEn": "one Anna should have made as it wasn't her mistake. She stood her ground with Paul and used the following phrases:",
+		"linePl": "Anna powinna była zrobić, bo to nie był jej błąd. Stawiła ją\r uziemiony z Pawłem i użył następujących zwrotów:\r",
+		"mp3Start": "236.2",
+		"mp3End": "243.4"
+	},
+	{
+		"lineNo": 39,
+		"lineEn": "You're the boss and I think the news is better coming from you.",
+		"linePl": "Jesteś szefem i myślę, że wiadomości są lepsze od ciebie.\r",
+		"mp3Start": "243.4",
+		"mp3End": "248.1"
+	},
+	{
+		"lineNo": 40,
+		"lineEn": "It was your decision in the first place so you need to explain that the situation has changed.",
+		"linePl": "To była Twoja decyzja, więc musisz to wyjaśnić\r sytuacja się zmieniła.\r",
+		"mp3Start": "248.1",
+		"mp3End": "255.3"
+	},
+	{
+		"lineNo": 41,
+		"lineEn": "This is your responsibility.",
+		"linePl": "To twoja odpowiedzialność.\r",
+		"mp3Start": "255.3",
+		"mp3End": "258.3"
+	},
+	{
+		"lineNo": 42,
+		"lineEn": "Narrator:  And here is a reminder of the phrases Paul used to try and apologise: I've been rethinking our staffing situation in the office.",
+		"linePl": "Narrator: A oto przypomnienie wyrażeń, których Paweł użył, próbując przeprosić:\r Przemyślałem na nowo naszą sytuację kadrową w biurze.\r",
+		"mp3Start": "258.3",
+		"mp3End": "265.3"
+	},
+	{
+		"lineNo": 43,
+		"lineEn": "Sorry, I made a mistake. I miscalculated my staffing numbers.",
+		"linePl": "Przepraszam popełniłem błąd. Przeliczyłem liczbę pracowników.\r",
+		"mp3Start": "265.3",
+		"mp3End": "276.1"
+	},
+	{
+		"lineNo": 44,
+		"lineEn": "I would love to have you back in the office.",
+		"linePl": "Bardzo chciałbym mieć cię z powrotem w biurze.\r",
+		"mp3Start": "276.1",
+		"mp3End": "280.5"
+	},
+	{
+		"lineNo": 45,
+		"lineEn": "Denise: Hmmm… well… OK then. I'll start back tomorrow.",
+		"linePl": "Denise: Hmmm… cóż… OK. Wrócę jutro.\r",
+		"mp3Start": "280.5",
+		"mp3End": "288.8"
+	},
+	{
+		"lineNo": 46,
+		"lineEn": "Paul: Oh wonderful. I'm so pleased. We'll get your old chair back in position.",
+		"linePl": "Paul: Och, cudownie. Jestem bardzo zadowolony. Przywrócimy twoje stare krzesło na miejsce.\r",
+		"mp3Start": "288.8",
+		"mp3End": "294.5"
+	},
+	{
+		"lineNo": 47,
+		"lineEn": "Denise: Actually Paul, if you want me back I'll need a new chair… and a new phone…",
+		"linePl": "Denise: Właściwie Paul, jeśli chcesz mnie z powrotem, będę potrzebować nowego krzesła… i nowego\r telefon…\r",
+		"mp3Start": "294.5",
+		"mp3End": "301.6"
+	},
+	{
+		"lineNo": 48,
+		"lineEn": "Paul: OK Denise! See you tomorrow.",
+		"linePl": "Paul: OK Denise! Do zobaczenia jutro.\r",
+		"mp3Start": "301.6",
+		"mp3End": "304.4"
+	},
+	{
+		"lineNo": 49,
+		"lineEn": "Denise: And a pay rise!",
+		"linePl": "Denise: I podwyżka!\r",
+		"mp3Start": "304.4",
+		"mp3End": "307.1"
+	},
+	{
+		"lineNo": 50,
+		"lineEn": "Tom: So, is she coming back then?",
+		"linePl": "Tom: Więc czy ona wtedy wraca?\r",
+		"mp3Start": "307.1",
+		"mp3End": "309.4"
+	},
+	{
+		"lineNo": 51,
+		"lineEn": "Paul: Yes, first thing tomorrow.",
+		"linePl": "Paul: Tak, jutro pierwsza rzecz.\r",
+		"mp3Start": "309.4",
+		"mp3End": "311.7"
+	},
+	{
+		"lineNo": 52,
+		"lineEn": "Tom: That's good because we've just had a call from Nice'n'Cheesy – they said nobody returned their call yesterday and they if we don't contact them by the end of tomorrow they will go elsewhere for their plastic grapes.",
+		"linePl": "Tom: To dobrze, bo właśnie dostaliśmy telefon od Nice'n'Cheesy - powiedzieli\r nikt nie oddzwonił wczoraj i jeśli nie skontaktujemy się z nimi przez telefon\r pod koniec jutra pojadą gdzie indziej po plastikowe winogrona.\r",
+		"mp3Start": "311.7",
+		"mp3End": "326.1"
+	},
+	{
+		"lineNo": 53,
+		"lineEn": "Paul:  Right, we must act… and act fast.",
+		"linePl": "Paul: Racja, musimy działać… i działać szybko.\r",
+		"mp3Start": "326.1",
+		"mp3End": "329.2"
+	},
+	{
+		"lineNo": 54,
+		"lineEn": "Narrator: Let's hope they don't lose that contract. At least with Denise returning to work, things will be a little more organised but for how long? Join us again next time on English at Work. Bye!",
+		"linePl": "Narrator: Miejmy nadzieję, że nie stracą tego kontraktu. Przynajmniej z powrotem Denise\r pracy, sprawy będą trochę lepiej zorganizowane, ale na jak długo? Dołącz do nas ponownie\r następnym razem na English at Work. PA!\r",
+		"mp3Start": "329.2",
+		"mp3End": "342.9"
+	},
+	{
+		"lineNo": 55,
+		"lineEn": "Listening Challenge:",
+		"linePl": "Słuchanie Challenge:\r",
+		"mp3Start": "",
+		"mp3End": ""
+	},
+	{
+		"lineNo": 56,
+		"lineEn": "What does Paul tell Denise he has been rethinking?",
+		"linePl": "Co Paweł mówi Denise, że przemyślał?\r",
+		"mp3Start": "",
+		"mp3End": ""
+	},
+	{
+		"lineNo": 57,
+		"lineEn": "(Answer: the staffing situation/numbers)",
+		"linePl": "(Odpowiedź: sytuacja kadrowa / liczby) ",
+		"mp3Start": "",
+		"mp3End": ""
+	}
+]

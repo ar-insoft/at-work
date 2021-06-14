@@ -212,7 +212,7 @@
 	{
 		"lineNo": 31,
 		"lineEn": "Anna:  Maybe I could do a big office search for you...? I'm good at finding things.",
-		"linePl": "Anna: Może mogłabym zrobić dla ciebie duże biuro ...? Jestem dobry w znajdowaniu rzeczy.",
+		"linePl": "Anna: Może mogłabym zrobić dla ciebie duże biurowe poszukiwanie ...? Jestem dobry w znajdowaniu rzeczy.",
 		"mp3Start": "121.5",
 		"mp3End": "125.4"
 	},
@@ -275,14 +275,14 @@
 	{
 		"lineNo": 40,
 		"lineEn": "Would you like a biscuit Anna? Anna:   Thank you. Oh, what's that?",
-		"linePl": "Chcesz ciastka Anna? Anna: Dziękuję. A co to jest?",
+		"linePl": "Chcesz ciastko Anna? Anna: Dziękuję. A co to jest?",
 		"mp3Start": "164.1",
 		"mp3End": "168.9"
 	},
 	{
 		"lineNo": 41,
 		"lineEn": "Paul:   Oh golly gosh, the USB stick! It was mixed in with the plate of biscuits that Denise brought in.",
-		"linePl": "Paul: O rany, pendrive! To było zmieszane z talerzem herbatników Przyprowadziła Denise.",
+		"linePl": "Paul: O rany, pendrive! To było zmieszane z herbatnikami na talerzu który przyniosła Denise.",
 		"mp3Start": "169.1",
 		"mp3End": "176.1"
 	},
@@ -296,28 +296,28 @@
 	{
 		"lineNo": 43,
 		"lineEn": "Paul:   Yes, I think maybe I stirred my tea with it at one point. Oh well. Now, where were we...?",
-		"linePl": "Paul: Tak, myślę, że może kiedyś zamieszałem z nim herbatę. No cóż. Teraz, gdzie byliśmy...?",
+		"linePl": "Paul: Tak, myślę, że może zamieszałem nim herbatę w pewnym momencie. No cóż. Teraz, gdzie byliśmy...?",
 		"mp3Start": "177.9",
 		"mp3End": "183.6"
 	},
 	{
 		"lineNo": 44,
 		"lineEn": "My goodness, it's 11 o'clock! I have a meeting right now! I'm afraid I'm going to have to go. ",
-		"linePl": "Mój Boże, jest godzina 11! Mam teraz spotkanie! Obawiam się, że tak będę musiał iść.",
+		"linePl": "Mój Boże, jest godzina 11! Mam teraz spotkanie właśnie teraz! Obawiam się, że tak będę musiał iść.",
 		"mp3Start": "184.8",
 		"mp3End": "190.8"
 	},
 	{
 		"lineNo": 45,
 		"lineEn": "But I've made up my mind about you anyway. I suppose you'd like to know if you've got the job? Anna:  Yes please!",
-		"linePl": " Ale i tak zdecydowałem o tobie. zakładam, że chciałbyś wiedzieć, czy masz pracę? Anna: Tak, proszę!",
+		"linePl": " Ale i tak zdecydowałem o tobie. Zakładam, że chciałbyś wiedzieć, czy dostałaś pracę? Anna: Tak, proszę!",
 		"mp3Start": "191.3",
 		"mp3End": "197.3"
 	},
 	{
 		"lineNo": 46,
 		"lineEn": "Narrator: Ah - Stop right there! I'm sure everybody would like to know if Anna's got the job – but everybody's going to have to wait until we've heard her helpful phrases once again:",
-		"linePl": "Narrator: Ach - Zatrzymaj się! Jestem pewien, że każdy chciałby wiedzieć, czy Anna ma praca - ale wszyscy będą musieli poczekać, aż ją usłyszymy pomocne zwroty jeszcze raz:",
+		"linePl": "Narrator: Ach - Zatrzymajmy się tutaj! Jestem pewien, że każdy chciałby wiedzieć, czy Anna dostała pracę - ale wszyscy będą musieli poczekać, aż ją usłyszymy jej pomocne zwroty jeszcze raz:",
 		"mp3Start": "197.3",
 		"mp3End": "208.0"
 	},
@@ -372,48 +372,55 @@
 	},
 	{
 		"lineNo": 54,
-		"lineEn": "Paul:  Anna, we need someone who can think on her feet and who is a first-rate people person. Someone who sees solutions, not problems... someone like you! So if you want the job, it's yours!",
-		"linePl": "Paul: Anna, potrzebujemy kogoś, kto potrafi myśleć na nogach i który jest pierwszorzędny osoba towarzyska. Ktoś, kto widzi rozwiązania, a nie problemy ... ktoś taki jak ty! Więc jeśli chcesz tę pracę, to Twoja!",
+		"lineEn": "Paul:  Anna, we need someone who can think on her feet and who is a first-rate people person. ",
+		"linePl": "Paul: Anna, potrzebujemy kogoś, kto potrafi szybko podejmować decyzję (idiom feet) i który jest pierwszorzędny osoba towarzyska. ",
 		"mp3Start": "229.5",
-		"mp3End": "245.7"
+		"mp3End": "237.0"
 	},
 	{
+		"linePl": "Ktoś, kto widzi rozwiązania, a nie problemy ... ktoś taki jak ty! Więc jeśli chcesz tę pracę, to Twoja!",
+		"lineEn": "Someone who sees solutions, not problems... someone like you! So if you want the job, it's yours!",
 		"lineNo": 55,
+		"mp3Start": "237.2",
+		"mp3End": "245.5"
+	},
+	{
+		"lineNo": 56,
 		"lineEn": "Narrator:  Ah, now think carefully Anna – do you really want to work for these people? They seem a bit... disorganised.",
-		"linePl": "Narrator: Ach, teraz zastanów się dobrze, Anno - czy naprawdę chcesz nad tym pracować ludzie? Wydają się trochę ... zdezorganizowani.",
+		"linePl": "Narrator: Ach, teraz zastanów się dobrze, Anno - czy naprawdę chcesz pracować dla tych ludzi? Wydają się trochę ... zdezorganizowani.",
 		"mp3Start": "246.0",
 		"mp3End": "253.4"
 	},
 	{
-		"lineNo": 56,
+		"lineNo": 57,
 		"lineEn": "Anna: I would definitely like the job! Thank you!",
-		"linePl": "Anna: Na pewno polubiłabym tę pracę! Dziękuję Ci!",
+		"linePl": "Anna: Zdecydowaie chcę tą pracę! Dziękuję Ci!",
 		"mp3Start": "254.1",
 		"mp3End": "256.7"
 	},
 	{
-		"lineNo": 57,
+		"lineNo": 58,
 		"lineEn": "Narrator:  So be it. Join us again next week for Anna's first day as a sales executive at Tip Top Trading.",
 		"linePl": "Narrator: Niech tak będzie. Dołącz do nas ponownie w przyszłym tygodniu na pierwszy dzień Anny jako dyrektor sprzedaży w Tip Top Trading.",
 		"mp3Start": "258.2",
 		"mp3End": "265.3"
 	},
 	{
-		"lineNo": 58,
+		"lineNo": 59,
 		"lineEn": "• Listening comprehension question",
 		"linePl": "• Pytanie dotyczące rozumienia ze słuchu",
 		"mp3Start": "",
 		"mp3End": ""
 	},
 	{
-		"lineNo": 59,
+		"lineNo": 60,
 		"lineEn": "Why was the memory stick wet?",
 		"linePl": "Dlaczego pendrive był mokry?",
 		"mp3Start": "",
 		"mp3End": ""
 	},
 	{
-		"lineNo": 60,
+		"lineNo": 61,
 		"lineEn": "Because it had been in Paul’s tea.",
 		"linePl": "Ponieważ był w herbacie Paula. ",
 		"mp3Start": "",

@@ -1,0 +1,408 @@
+[
+	{
+		"lineNo": 0,
+		"lineEn": "Anna: (Banging on computer) It’s frozen. Nothing will work…",
+		"linePl": "Anna: (wali w komputer) Zamrożone. Nic nie zadziała…\r",
+		"mp3Start": "1.5",
+		"mp3End": "7.7"
+	},
+	{
+		"lineNo": 1,
+		"lineEn": "Tom: Yeah and all my football scores… I mean company accounts… have disappeared.",
+		"linePl": "Tom: Tak i wszystkie moje wyniki piłkarskie… mam na myśli konta firmowe… mają\r zniknął.\r",
+		"mp3Start": "7.7",
+		"mp3End": "15"
+	},
+	{
+		"lineNo": 2,
+		"lineEn": "Paul: Can anyone get their computers to work? Or is just me?",
+		"linePl": "Paul: Czy każdy może zmusić swoje komputery do pracy? Czy to tylko ja?\r",
+		"mp3Start": "15",
+		"mp3End": "20"
+	},
+	{
+		"lineNo": 3,
+		"lineEn": "Narrator: Welcome back to the offices of Tip Top Trading where, as you can hear, there appears to be a bit of computer trouble. Everyone’s work seems to have disappeared. This is serious so who can sort it out?",
+		"linePl": "Narrator: Witamy ponownie w biurach Tip Top Trading, gdzie, jak słychać,\r wygląda na to, że jest trochę problemów z komputerem. Wydaje się, że praca każdego\r zniknął. To poważna sprawa, więc kto może to rozwiązać?\r",
+		"mp3Start": "20",
+		"mp3End": "35.4"
+	},
+	{
+		"lineNo": 4,
+		"lineEn": "Denise: Leave it to me I’ll sort it out. (Pressing computer keys) You just need to switch it off… and on again … like that. (Computer noises)",
+		"linePl": "Denise: Zostaw to mnie, ja to rozwiążę. (Naciskając klawisze komputera) Po prostu musisz\r wyłącz… i włącz ponownie… w ten sposób. (Odgłosy komputera)\r",
+		"mp3Start": "35.4",
+		"mp3End": "45"
+	},
+	{
+		"lineNo": 5,
+		"lineEn": "Anna: Hold on, let’s check… Denise! All my documents have gone now!",
+		"linePl": "Anna: Poczekaj, sprawdźmy… Denise! Wszystkie moje dokumenty zniknęły teraz!\r",
+		"mp3Start": "45",
+		"mp3End": "52.2"
+	},
+	{
+		"lineNo": 6,
+		"lineEn": "Denise: Oh, sorry, I was just trying to help. You’ll just have to call I.T. Support, look, here’s their number.",
+		"linePl": "Denise: Och, przepraszam, tylko próbowałem pomóc. Musisz tylko zadzwonić do I.T. Wsparcie,\r spójrz, oto ich numer.\r",
+		"mp3Start": "52.2",
+		"mp3End": "61.8"
+	},
+	{
+		"lineNo": 7,
+		"lineEn": "Anna: ‘It’ Support?",
+		"linePl": "Anna: Wsparcie „to”?\r",
+		"mp3Start": "61.8",
+		"mp3End": "64.1"
+	},
+	{
+		"lineNo": 8,
+		"lineEn": "Narrator: No Anna not ‘it’ but I.T. Support – information technology – sometimes called Computer Support. Most big companies have them. These are the people who sort out your computer problems and get everything working again. But be careful, they might ask some tricky questions.",
+		"linePl": "Narrator: Nie, Anna, nie „to”, ale I.T. Wsparcie - technologia informacyjna - czasami\r zwany Computer Support. Ma je ​​większość dużych firm. To są\r ludzie, którzy rozwiązują problemy z komputerem i sprawiają, że wszystko działa\r jeszcze raz. Ale bądź ostrożny, mogą zadać kilka trudnych pytań.\r",
+		"mp3Start": "64.1",
+		"mp3End": "85"
+	},
+	{
+		"lineNo": 9,
+		"lineEn": "Anna: OK, thanks. But what should I say to them?",
+		"linePl": "Anna: OK, dzięki. Ale co mam im powiedzieć?\r",
+		"mp3Start": "85",
+		"mp3End": "89.7"
+	},
+	{
+		"lineNo": 10,
+		"lineEn": "Narrator: Tell them: \"I am having problems with my computer\", then say \"the screen keeps freezing\" and \"I seem to have lost some documents\". Tell them \"I have turned the computer off and on but that hasn’t fixed it\". Finally, ask if they can help – please!",
+		"linePl": "Narrator: Powiedz im: „Mam problemy z komputerem”, a następnie powiedz „ekran\r ciągle się zawiesza ”i„ Wygląda na to, że zgubiłem jakieś dokumenty ”. Powiedz im„ Ja\r wyłączył i włączył komputer, ale to nie rozwiązało problemu ”. Na koniec zapytaj, czy\r mogą pomóc - proszę!\r",
+		"mp3Start": "89.7",
+		"mp3End": "105.7"
+	},
+	{
+		"lineNo": 11,
+		"lineEn": "Anna: Well, I’ll give it a try. Here goes. (Dials number and it rings)",
+		"linePl": "Anna: Cóż, spróbuję. Tutaj idzie. (Wybiera numer i dzwoni)\r",
+		"mp3Start": "105.7",
+		"mp3End": "117.5"
+	},
+	{
+		"lineNo": 12,
+		"lineEn": "IT Man:  I.T., Dave speaking, how can I help?",
+		"linePl": "IT Man: IT, mówi Dave, jak mogę pomóc?\r",
+		"mp3Start": "117.5",
+		"mp3End": "126"
+	},
+	{
+		"lineNo": 13,
+		"lineEn": "Anna: Oh hello Dave – I’m having some computer problems – in fact everyone is here.",
+		"linePl": "Anna: O, cześć Dave - mam pewne problemy z komputerem - tak naprawdę każdy jest\r tutaj.\r",
+		"mp3Start": "126",
+		"mp3End": "131.9"
+	},
+	{
+		"lineNo": 14,
+		"lineEn": "IT Man: Right. What system are you using?",
+		"linePl": "IT Man: Tak. Z jakiego systemu korzystasz?\r",
+		"mp3Start": "131.9",
+		"mp3End": "133.6"
+	},
+	{
+		"lineNo": 15,
+		"lineEn": "Anna: What system?",
+		"linePl": "Anna: Jaki system?\r",
+		"mp3Start": "133.6",
+		"mp3End": "135.1"
+	},
+	{
+		"lineNo": 16,
+		"lineEn": "IT Man: Yeah, what are you using? PC, laptop, Windows XP?",
+		"linePl": "IT Man: Tak, czego używasz? PC, laptop, Windows XP?\r",
+		"mp3Start": "135.1",
+		"mp3End": "138.7"
+	},
+	{
+		"lineNo": 17,
+		"lineEn": "Denise: Tell him it’s Windows 7.",
+		"linePl": "Denise: Powiedz mu, że to Windows 7.\r",
+		"mp3Start": "138.7",
+		"mp3End": "144.6"
+	},
+	{
+		"lineNo": 18,
+		"lineEn": "Anna: Erm… it’s Windows 7 on a PC.",
+		"linePl": "Anna: Eee… to Windows 7 na PC.\r",
+		"mp3Start": "144.6",
+		"mp3End": "146"
+	},
+	{
+		"lineNo": 19,
+		"lineEn": "IT Man: Good, good, this should be easy. Were you using many applications when it crashed?",
+		"linePl": "IT Man: Dobrze, dobrze, to powinno być łatwe. Czy korzystałeś z wielu aplikacji, kiedy to\r rozbił się?\r",
+		"mp3Start": "146",
+		"mp3End": "150.5"
+	},
+	{
+		"lineNo": 20,
+		"lineEn": "Anna: Applications?",
+		"linePl": "Anna: Aplikacje?\r",
+		"mp3Start": "150.5",
+		"mp3End": "152.1"
+	},
+	{
+		"lineNo": 21,
+		"lineEn": "IT Man: Did you have lots of things open – documents, spreadsheets, videos, other software?",
+		"linePl": "IT Man: Czy miałeś wiele otwartych rzeczy - dokumenty, arkusze kalkulacyjne, filmy i inne\r oprogramowanie?\r",
+		"mp3Start": "152.1",
+		"mp3End": "156.7"
+	},
+	{
+		"lineNo": 22,
+		"lineEn": "Anna: Well, I suppose I did.",
+		"linePl": "Anna: Cóż, chyba tak.\r",
+		"mp3Start": "156.7",
+		"mp3End": "158.5"
+	},
+	{
+		"lineNo": 23,
+		"lineEn": "IT Man: Right, well… Anna isn’t it?",
+		"linePl": "IT Man: No cóż… Anna, prawda?\r",
+		"mp3Start": "158.5",
+		"mp3End": "161.2"
+	},
+	{
+		"lineNo": 24,
+		"lineEn": "Anna: Yes.",
+		"linePl": "Anna: Tak.\r",
+		"mp3Start": "161.2",
+		"mp3End": "162.7"
+	},
+	{
+		"lineNo": 25,
+		"lineEn": "IT Man: Right, well Anna, try pressing control, alt, delete, at the same time – after that try opening Windows again.",
+		"linePl": "IT Man: No cóż Anna, spróbuj nacisnąć control, alt, delete, w tym samym czasie - po\r które spróbuj ponownie otworzyć system Windows.\r",
+		"mp3Start": "162.7",
+		"mp3End": "167.8"
+	},
+	{
+		"lineNo": 26,
+		"lineEn": "Anna: OK. (Shouting over to Tom) Tom, could you open the windows please.",
+		"linePl": "Anna: OK. (Krzyczy do Toma) Tom, czy mógłbyś otworzyć okna, proszę.\r",
+		"mp3Start": "167.8",
+		"mp3End": "171.7"
+	},
+	{
+		"lineNo": 27,
+		"lineEn": "Tom: What eh? The windows?!",
+		"linePl": "TOM: A co? Okna?!\r",
+		"mp3Start": "171.7",
+		"mp3End": "175.4"
+	},
+	{
+		"lineNo": 28,
+		"lineEn": "Anna: Yes. Dave says so.",
+		"linePl": "Anna: Tak. Dave tak mówi.\r",
+		"mp3Start": "175.4",
+		"mp3End": "176.7"
+	},
+	{
+		"lineNo": 29,
+		"lineEn": "IT Man: No, no, no. Open Windows 7 on your computer.",
+		"linePl": "IT Man: Nie, nie, nie. Otwórz system Windows 7 na swoim komputerze.\r",
+		"mp3Start": "176.7",
+		"mp3End": "181"
+	},
+	{
+		"lineNo": 30,
+		"lineEn": "Anna: Oh, silly me! (Taps on keyboard) No, the screen just freezes. I’m a bit worried because I think I’ve lost some documents.",
+		"linePl": "Anna: Och, głupia ja! (Pukanie w klawiaturę) Nie, ekran po prostu się zawiesza. Jestem trochę\r zmartwiony, ponieważ wydaje mi się, że zgubiłem niektóre dokumenty.\r",
+		"mp3Start": "181",
+		"mp3End": "191.9"
+	},
+	{
+		"lineNo": 31,
+		"lineEn": "IT Man: Hmmm. In that case the only thing to do is reboot it.",
+		"linePl": "IT Man: Hmmm. W takim przypadku jedyną rzeczą do zrobienia jest ponowne uruchomienie.\r",
+		"mp3Start": "191.9",
+		"mp3End": "195.9"
+	},
+	{
+		"lineNo": 32,
+		"lineEn": "Anna: Reboot it? You mean kick it?!",
+		"linePl": "Anna: Zrestartować? Masz na myśli kopnięcie ?!\r",
+		"mp3Start": "195.9",
+		"mp3End": "198.9"
+	},
+	{
+		"lineNo": 33,
+		"lineEn": "Denise: No! Reboot means turn it on and off again.",
+		"linePl": "Denise: Nie! Restart oznacza włączenie i wyłączenie.\r",
+		"mp3Start": "198.9",
+		"mp3End": "203.9"
+	},
+	{
+		"lineNo": 34,
+		"lineEn": "Anna: Oh I see. No Dave, I have already tried turning it off and on again but that hasn’t fixed it. What am I going to do?",
+		"linePl": "Anna: Och, rozumiem. Nie, Dave, już próbowałem go wyłączyć i włączyć, ale to\r nie naprawił tego. Co ja mam zrobić?\r",
+		"mp3Start": "203.9",
+		"mp3End": "213.3"
+	},
+	{
+		"lineNo": 35,
+		"lineEn": "nd",
+		"linePl": "nd\r",
+		"mp3Start": "213.3",
+		"mp3End": "217.9"
+	},
+	{
+		"lineNo": 36,
+		"lineEn": "IT Man: Don’t panic! I’ll come and have a look. You’re on the 2 floor right?",
+		"linePl": "IT Man: Nie panikuj! Przyjdę i zobaczę. Jesteś na drugim piętrze, prawda?\r",
+		"mp3Start": "217.9",
+		"mp3End": "220.4"
+	},
+	{
+		"lineNo": 37,
+		"lineEn": "Narrator: Oh dear. This is a bit worrying but I’m sure Dave, the IT man, will get things sorted. Remember if you have important documents, it’s best to back them up on a memory stick just in case you have a problem like this.",
+		"linePl": "Narrator: Ojej. To trochę niepokojące, ale jestem pewien, że Dave, informatyk, zrozumie\r rzeczy posortowane. Pamiętaj, jeśli masz ważne dokumenty, najlepiej to zrobić\r zrób ich kopię zapasową na karcie pamięci na wypadek, gdybyś miał taki problem.\r",
+		"mp3Start": "220.4",
+		"mp3End": "234.8"
+	},
+	{
+		"lineNo": 38,
+		"lineEn": "Let’s remind ourselves of the phrases we might use if we have to call computer support:",
+		"linePl": "Przypomnijmy sobie wyrażenia, których moglibyśmy użyć, gdybyśmy musieli zadzwonić\r pomoc komputerowa:\r",
+		"mp3Start": "234.8",
+		"mp3End": "241"
+	},
+	{
+		"lineNo": 39,
+		"lineEn": "I am having problems with my computer",
+		"linePl": "Mam problemy z komputerem\r",
+		"mp3Start": "241",
+		"mp3End": "243.6"
+	},
+	{
+		"lineNo": 40,
+		"lineEn": "The screen keeps freezing",
+		"linePl": "Ekran ciągle się zawiesza\r",
+		"mp3Start": "243.6",
+		"mp3End": "247.5"
+	},
+	{
+		"lineNo": 41,
+		"lineEn": "I seem to have lost some documents",
+		"linePl": "Wydaje mi się, że zgubiłem jakieś dokumenty\r",
+		"mp3Start": "247.5",
+		"mp3End": "251"
+	},
+	{
+		"lineNo": 42,
+		"lineEn": "I have turned the computer off and on but that hasn’t fixed it",
+		"linePl": "Wyłączyłem i włączyłem komputer, ale to nie rozwiązało problemu\r",
+		"mp3Start": "251",
+		"mp3End": "256"
+	},
+	{
+		"lineNo": 43,
+		"lineEn": "Can you help, please?",
+		"linePl": "Czy możesz pomóc, proszę?\r",
+		"mp3Start": "256",
+		"mp3End": "258.2"
+	},
+	{
+		"lineNo": 44,
+		"lineEn": "(Lift doors open)",
+		"linePl": "(Podnieś drzwi otwarte)\r",
+		"mp3Start": "258.2",
+		"mp3End": "265.6"
+	},
+	{
+		"lineNo": 45,
+		"lineEn": "IT Man: Oh hi. Is Anna here?",
+		"linePl": "IT Man: O cześć. Jest Anna?\r",
+		"mp3Start": "265.6",
+		"mp3End": "269.1"
+	},
+	{
+		"lineNo": 46,
+		"lineEn": "Denise: She’s over there.",
+		"linePl": "Denise: Jest tam.\r",
+		"mp3Start": "269.1",
+		"mp3End": "271"
+	},
+	{
+		"lineNo": 47,
+		"lineEn": "Tom: (Under the desk) So Anna, I’m just going to unplug the screen and put the wire back in here…",
+		"linePl": "Tom: (pod biurkiem) A więc Anna, zamierzam tylko odłączyć ekran i włożyć\r kabel z powrotem tutaj…\r",
+		"mp3Start": "271",
+		"mp3End": "276.7"
+	},
+	{
+		"lineNo": 48,
+		"lineEn": "Anna: OK Tom but are you OK down there? Mind your head.",
+		"linePl": "Anna: OK Tom, ale czy wszystko w porządku na dole? Uważaj na głowę.\r",
+		"mp3Start": "276.7",
+		"mp3End": "280.5"
+	},
+	{
+		"lineNo": 49,
+		"lineEn": "IT Man: Excuse me, are you Anna? I’ve come to fix your… computer.",
+		"linePl": "IT Man: Przepraszam, jesteś Anna? Przyszedłem naprawić twój… komputer.\r",
+		"mp3Start": "280.5",
+		"mp3End": "286.8"
+	},
+	{
+		"lineNo": 50,
+		"lineEn": "Anna: Oh, hello… you must be… Dave. I really like your hair.",
+		"linePl": "Anna: Och, cześć… musisz być… Dave. Bardzo lubię twoje włosy.\r",
+		"mp3Start": "286.8",
+		"mp3End": "295.9"
+	},
+	{
+		"lineNo": 51,
+		"lineEn": "Tom: (Hits head on table) Ow!",
+		"linePl": "Tom: (Uderza głową w stół) Ow!\r",
+		"mp3Start": "295.9",
+		"mp3End": "297.9"
+	},
+	{
+		"lineNo": 52,
+		"lineEn": "IT Man: Thanks. You look rather lovely. I’d better take a look at your computer.",
+		"linePl": "IT Man: Dzięki. Wyglądasz raczej ślicznie. Lepiej spojrzę na twój komputer.\r",
+		"mp3Start": "297.9",
+		"mp3End": "305"
+	},
+	{
+		"lineNo": 53,
+		"lineEn": "Tom: Don’t worry, it’s OK, I think I’ve fixed it!",
+		"linePl": "Tom: Nie martw się, jest OK, myślę, że naprawiłem to!\r",
+		"mp3Start": "305",
+		"mp3End": "310.1"
+	},
+	{
+		"lineNo": 54,
+		"lineEn": "Narrator: Looks like Tom has a rival. Is Anna going to fall for the charms of Dave, the IT man, or is he just going to upgrade her software? This could get very interesting – but there’s still work to be done – so join us again soon for",
+		"linePl": "Narrator: Wygląda na to, że Tom ma rywala. Czy Anna zakocha się w urokach Dave'a?\r Informatyk, czy po prostu zamierza zaktualizować jej oprogramowanie? To może być bardzo\r interesujące - ale wciąż jest wiele do zrobienia - więc dołącz do nas wkrótce ponownie\r",
+		"mp3Start": "310.1",
+		"mp3End": "328.3"
+	},
+	{
+		"lineNo": 55,
+		"lineEn": "Listening Challenge:",
+		"linePl": "Słuchanie Challenge:\r",
+		"mp3Start": "",
+		"mp3End": ""
+	},
+	{
+		"lineNo": 56,
+		"lineEn": "What is the technical term for turning the computer off and on again?",
+		"linePl": "Jaki jest termin techniczny określający wyłączanie i ponowne włączanie komputera?\r",
+		"mp3Start": "",
+		"mp3End": ""
+	},
+	{
+		"lineNo": 57,
+		"lineEn": "Answer: To reboot the computer",
+		"linePl": "Odpowiedź: Aby ponownie uruchomić komputer ",
+		"mp3Start": "",
+		"mp3End": ""
+	}
+]
