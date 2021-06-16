@@ -1,286 +1,293 @@
 [
 	{
-		"lineNo": 0,
-		"lineEn": "Narrator: It's late at the offices of Tip Top Trading. Anna is alone, working. Again. She's been doing this all week, she wants her presentation to Mr Lime to be perfect so she's been spending hours and hours on it. Anna?",
-		"linePl": "Narrator: Jest późno w biurach Tip Top Trading. Anna jest sama, pracuje. Jeszcze raz. Robi to cały tydzień, chce, aby prezentacja dla pana Lime była doskonała, więc spędza godziny na tym. Anna?\r",
-		"mp3Start": "1.5",
-		"mp3End": "32.8"
-	},
-	{
 		"lineNo": 1,
-		"lineEn": "Anna:   Don't interrupt! I'm busy.",
-		"linePl": "Anna: Nie przerywaj! Jestem zajęta.\r",
-		"mp3Start": "32.8",
-		"mp3End": "35.1"
+		"lineEn": "Narrator: It's late at the offices of Tip Top Trading. Anna is alone, working. Again. ",
+		"linePl": "Narrator: Jest późno w biurach Tip Top Trading. Anna jest sama, pracuje. Jeszcze raz. \n",
+		"mp3Start": "15.0",
+		"mp3End": "22.2"
 	},
 	{
+		"linePl": "Robi to cały tydzień, chce, aby prezentacja dla pana Lime była doskonała, więc spędza godziny na tym.",
+		"lineEn": "She's been doing this all week, she wants her presentation to Mr Lime to be perfect so she's been spending hours and hours on it. ",
 		"lineNo": 2,
-		"lineEn": "Narrator: Woah! Anna:   Sorry.",
-		"linePl": "Narrator: Woah!\r Anna: Sorry.\r",
-		"mp3Start": "35.1",
-		"mp3End": "37"
+		"mp3Start": "22.5",
+		"mp3End": "31.4"
 	},
 	{
 		"lineNo": 3,
-		"lineEn": "Narrator:  Anna, you're really burning the candle at both ends.",
-		"linePl": "Narrator: Anna, naprawdę wypalasz świecę na obu końcach.\r",
-		"mp3Start": "37",
-		"mp3End": "39.7"
+		"lineEn": "Anna? Anna:   Don't interrupt! I'm busy.",
+		"linePl": " Anna? Anna: Nie przerywaj! Jestem zajęta.\n",
+		"mp3Start": "31.5",
+		"mp3End": "35.1"
 	},
 	{
 		"lineNo": 4,
+		"lineEn": "Narrator: Woah! Anna:   Sorry.",
+		"linePl": "Narrator: Woah!\r Anna: Sorry.\r",
+		"mp3Start": "35.1",
+		"mp3End": "36.8"
+	},
+	{
+		"lineNo": 5,
+		"lineEn": "Narrator:  Anna, you're really burning the candle at both ends.",
+		"linePl": "Narrator: Anna, naprawdę wypalasz świecę na obu końcach.\r",
+		"mp3Start": "36.8",
+		"mp3End": "39.7"
+	},
+	{
+		"lineNo": 6,
 		"lineEn": "Anna:  What?",
 		"linePl": "Anna: Co?\r",
 		"mp3Start": "39.7",
 		"mp3End": "40.5"
 	},
 	{
-		"lineNo": 5,
+		"lineNo": 7,
 		"lineEn": "Narrator: Burning the candle at both ends – it means working very hard – working late and getting up early to work all the time.",
 		"linePl": "Narrator: Wypalanie świecy na obu końcach - oznacza to, że pracuje bardzo ciężko, pracuje do późna i wstawać wcześnie, pracować przez cały czas.\r",
 		"mp3Start": "40.5",
 		"mp3End": "48.9"
 	},
 	{
-		"lineNo": 6,
+		"lineNo": 8,
 		"lineEn": "Anna:  Oh. I didn't know that expression.",
 		"linePl": "Anna: Oh. Nie znałem tego wyrazu.\r",
 		"mp3Start": "48.9",
 		"mp3End": "51"
 	},
 	{
-		"lineNo": 7,
+		"lineNo": 9,
 		"lineEn": "Narrator: Well here are some more:",
 		"linePl": "Narrator: Oto kilka:\r",
 		"mp3Start": "51",
 		"mp3End": "52.7"
 	},
 	{
-		"lineNo": 8,
+		"lineNo": 10,
 		"lineEn": "You're doing overtime; which means you're working longer than office hours.",
 		"linePl": "Robisz nadgodziny; co oznacza, że pracujesz dłużej niż biura godziny.\r",
 		"mp3Start": "52.7",
 		"mp3End": "57.7"
 	},
 	{
-		"lineNo": 9,
+		"lineNo": 11,
 		"lineEn": "You're putting in the hours; which means you are spending all the time needed to achieve something.",
 		"linePl": "Odkładasz godziny; co oznacza, że spędzasz cały czas potrzebne do osiągnięcia czegoś.\r",
 		"mp3Start": "57.7",
 		"mp3End": "63.9"
 	},
 	{
-		"lineNo": 10,
+		"lineNo": 12,
 		"lineEn": "Anna:  Yes, I'm putting in the hours to make sure my presentation is perfect.",
 		"linePl": "Anna: Tak, poświęcam godziny, aby upewnić się, że moja prezentacja jest doskonała.\r",
 		"mp3Start": "63.9",
 		"mp3End": "68.4"
 	},
 	{
-		"lineNo": 11,
+		"lineNo": 13,
 		"lineEn": "Narrator: And if you don't mind me saying so, you might burn out; which means you are working so hard that you might get very tired and run out of energy.",
 		"linePl": "Narrator: A jeśli mógłbym powiedzieć, możesz wypalić się; co oznacza pracują tak ciężko, że mogą być bardzo zmęczeni i wyczerpać energię.\r",
 		"mp3Start": "68.4",
 		"mp3End": "77.1"
 	},
 	{
-		"lineNo": 12,
+		"lineNo": 14,
 		"lineEn": "Anna:  I'm not burning out. I'm full of energy. I just need to finish this bit...",
 		"linePl": "Anna: Nie wypalam się. Jestem pełen energii. Po prostu muszę skończyć ten kawałek ...\r",
 		"mp3Start": "77.1",
 		"mp3End": "86.4"
 	},
 	{
-		"lineNo": 13,
+		"lineNo": 15,
 		"lineEn": "Denise: My goodness, nothing's locked. Do you think we've been burgled?",
 		"linePl": "Denise: moja dobroć, nic nie jest zamknięte. Czy uważasz, że byliśmy włamani?\r",
 		"mp3Start": "86.4",
 		"mp3End": "96.7"
 	},
 	{
-		"lineNo": 14,
+		"lineNo": 16,
 		"lineEn": "Tom:  Oh no! I left my lap-book and my me-pad on the desk... and my i-top – they're worth thousands! They're all the latest versions!",
 		"linePl": "Tom: Oh nie! Zostawiłem lap-book i mój me-pad na biurku ... i mój i-top - są warte tysiące! Są to najnowsza wersja!\r",
 		"mp3Start": "96.7",
 		"mp3End": "106"
 	},
 	{
-		"lineNo": 15,
+		"lineNo": 17,
 		"lineEn": "Denise: I left out my elephant mug and my lady-curve nail file. They better not have stolen them!",
 		"linePl": "Denise: Zostawiłem kubek ze słonia i mój lady-curve nail file. Lepiej nie ukradli ich!\r",
 		"mp3Start": "106",
 		"mp3End": "113"
 	},
 	{
-		"lineNo": 16,
+		"lineNo": 18,
 		"lineEn": "Anna: (Talking in her sleep) but it's premium, premium, faux-orange premium!",
 		"linePl": "Anna: (Talking in her sleep) but it's premium, premium, faux-orange premium!\r",
 		"mp3Start": "113",
 		"mp3End": "119.5"
 	},
 	{
-		"lineNo": 17,
+		"lineNo": 19,
 		"lineEn": "Tom:  Anna?",
 		"linePl": "Tom: Anna?\r",
 		"mp3Start": "119.5",
 		"mp3End": "123.3"
 	},
 	{
-		"lineNo": 18,
+		"lineNo": 20,
 		"lineEn": "Denise: It's Anna, she's asleep. Anna!",
 		"linePl": "Denise: To jest Anna, ona spała. Anna!\r",
 		"mp3Start": "123.3",
 		"mp3End": "127.6"
 	},
 	{
-		"lineNo": 19,
+		"lineNo": 21,
 		"lineEn": "Anna:  (waking up with a jump) Oh! Lemons! Denise? Tom?",
 		"linePl": "Anna: (budząc się skokiem) Oh! Cytryny! Denise? Tom?\r",
 		"mp3Start": "127.6",
 		"mp3End": "130.9"
 	},
 	{
-		"lineNo": 20,
+		"lineNo": 22,
 		"lineEn": "Tom:  Have you spent the night asleep at your desk Anna?",
 		"linePl": "Tom: Czy spędziłaś noc przy swoim biurku Anna?\r",
 		"mp3Start": "130.9",
 		"mp3End": "133.8"
 	},
 	{
-		"lineNo": 21,
+		"lineNo": 23,
 		"lineEn": "Anna:  Is it morning? Oh dear, yes I think so.",
 		"linePl": "Anna: Czy to rano? Oh, dear, tak myślę tak.\r",
 		"mp3Start": "133.8",
 		"mp3End": "138.3"
 	},
 	{
-		"lineNo": 22,
+		"lineNo": 24,
 		"lineEn": "Denise: Well, at least we haven't been burgled then.",
 		"linePl": "Denise: Cóż, przynajmniej nas nie okradli.\r",
 		"mp3Start": "138.3",
 		"mp3End": "141.8"
 	},
 	{
-		"lineNo": 23,
+		"lineNo": 25,
 		"lineEn": "Tom:  Anna, you've really been burning the candle at both ends lately.",
 		"linePl": "Tom: Anna, ostatnio wypalasz świecę na obu końcach.\r",
 		"mp3Start": "141.8",
 		"mp3End": "148"
 	},
 	{
-		"lineNo": 24,
+		"lineNo": 26,
 		"lineEn": "Denise: Yes, you've been doing hours and hours of overtime. Most people get their work done within office hours and anyway, we don't pay overtime here. You’ll never find me working late!",
 		"linePl": "Denise: Tak, robisz godziny i godziny nadgodzin. Większość ludzi robi prace w godzinach urzędowania poza tym, nie płacimy za nadgodziny tutaj. Mnie nigdy nie znajdziesz pracującej późno!\r",
 		"mp3Start": "148",
 		"mp3End": "160.4"
 	},
 	{
-		"lineNo": 25,
+		"lineNo": 27,
 		"lineEn": "Tom:  Yes, I'd noticed that Denise.",
 		"linePl": "Tom: Tak, zauważyłem Denise.\r",
 		"mp3Start": "160.4",
 		"mp3End": "162.8"
 	},
 	{
-		"lineNo": 26,
+		"lineNo": 28,
 		"lineEn": "Anna:  But this presentation must be perfect.",
 		"linePl": "Anna: Ale ta prezentacja musi być doskonała.\r",
 		"mp3Start": "162.8",
 		"mp3End": "165.4"
 	},
 	{
-		"lineNo": 27,
+		"lineNo": 29,
 		"lineEn": "Denise: If you're not careful, you'll burn out! Then you'll really be of no use to anyone. You'll be as useful as a chocolate teapot.",
 		"linePl": "Denise: Jeśli nie jesteś ostrożny, wypalisz się! Wtedy naprawdę nie będziesz w niczym użyteczna. Będziesz tak samo użyteczna, jak czajniczek czekoladowy.\r",
 		"mp3Start": "165.4",
 		"mp3End": "176.5"
 	},
 	{
-		"lineNo": 28,
+		"lineNo": 30,
 		"lineEn": "Tom:  It's good that you're putting in the hours Anna, but you should calm down. Look at me, I do very successful presentations without spending hours preparing.",
 		"linePl": "Tom: Dobrze, że pracujesz godzinami Anna, ale powinieneś się uspokoić. Spójrz na mnie, wykonuję bardzo udane prezentacje bez spędzania godzin na przygotowanie.\r",
 		"mp3Start": "176.5",
 		"mp3End": "188"
 	},
 	{
-		"lineNo": 29,
+		"lineNo": 31,
 		"lineEn": "Denise: Ha! Tom:  In my presentation to Every Apple I just swooshed in with no preparation after a night on the town. I charmed them. They loved me!",
 		"linePl": "Tom: W mojej prezentacji dla Every Apple, po prostu wpadłam na pomysł, bez żadnego przygotowania po nocy na mieście. Urzekłem ich. Kochali mnie!\r",
 		"mp3Start": "188",
 		"mp3End": "198.2"
 	},
 	{
-		"lineNo": 30,
+		"lineNo": 32,
 		"lineEn": "Narrator: Idiot. I bet he actually spent hours preparing he just can't admit it.",
 		"linePl": "Narrator: Idiota. Założę się, że rzeczywiście spędził kilka godzin przygotowania, ale po prostu nie może tego przyznać.\r",
 		"mp3Start": "198.2",
 		"mp3End": "203.7"
 	},
 	{
-		"lineNo": 31,
+		"lineNo": 33,
 		"lineEn": "Anna:  Well, maybe you're right. I can't think clearly anymore, I'm so tired. I need to sleep properly otherwise I'll end up trying to sell bananas instead of lemons.",
 		"linePl": "Anna: Cóż, może masz rację. Nie mogę już myśleć wyraźnie, jestem tak zmęczona. Potrzebuję aby spać dobrze inaczej w przeciwnym razie skończę próbować sprzedawać banany zamiast cytryny.\r",
 		"mp3Start": "203.7",
 		"mp3End": "216.3"
 	},
 	{
-		"lineNo": 32,
+		"lineNo": 34,
 		"lineEn": "Narrator: Anna has finally got the message: she's realised she's been working too much. She needs to be realistic. Here's a reminder of some of the phrases we heard to talk about how much Anna had been working:",
 		"linePl": "Narrator: Anna wreszcie dostała wiadomość: zrozumiała, że też pracuje dużo. Musi być realistyczna. Oto przypomnienie niektórych fraz słyszeliśmy, aby porozmawiać o tym, ile Anna pracowała:\r",
 		"mp3Start": "216.3",
 		"mp3End": "231.3"
 	},
 	{
-		"lineNo": 33,
+		"lineNo": 35,
 		"lineEn": "Burning the candle at both ends.",
 		"linePl": "Wypalanie świecy na obu końcach.\r",
 		"mp3Start": "231.3",
 		"mp3End": "233.7"
 	},
 	{
-		"lineNo": 34,
+		"lineNo": 36,
 		"lineEn": "Doing overtime.",
 		"linePl": "Wykonywanie nadgodzin.\r",
 		"mp3Start": "233.7",
 		"mp3End": "236.4"
 	},
 	{
-		"lineNo": 35,
+		"lineNo": 37,
 		"lineEn": "Putting in the hours.",
 		"linePl": "Po godzinach.\r",
 		"mp3Start": "236.4",
 		"mp3End": "238.7"
 	},
 	{
-		"lineNo": 36,
+		"lineNo": 38,
 		"lineEn": "Burning out.",
 		"linePl": "Wypalać.\r",
 		"mp3Start": "238.7",
 		"mp3End": "241.4"
 	},
 	{
-		"lineNo": 37,
+		"lineNo": 39,
 		"lineEn": "Let's hope she's thinking clearly by the time she has to do her presentation. Join us next time to find out! Bye.",
 		"linePl": "Miejmy nadzieję, że ona wyraźnie myśli, do czasu, kiedy musi zrobić prezentacje. Dołącz do nas następnym razem, aby się dowiedzieć! PA.\r",
 		"mp3Start": "241.4",
 		"mp3End": "251"
 	},
 	{
-		"lineNo": 38,
+		"lineNo": 40,
 		"lineEn": "Listening Challenge",
 		"linePl": "Wyzwanie słuchania\r",
 		"mp3Start": "",
 		"mp3End": ""
 	},
 	{
-		"lineNo": 39,
+		"lineNo": 41,
 		"lineEn": "What phrase does Denise use to mean Anna will be no use to anyone?",
 		"linePl": "Jaka zdanie Denise używa do oznaczania Anny nie będzie nikomu użyteczne?\r",
 		"mp3Start": "",
 		"mp3End": ""
 	},
 	{
-		"lineNo": 40,
+		"lineNo": 42,
 		"lineEn": "Answer: As useful as a chocolate teapot",
 		"linePl": "Odpowiedź: Przydatne jako czajniczek czekoladowy ",
 		"mp3Start": "",
