@@ -37,6 +37,18 @@ export const LessonEffect = ({ epNo }) => {
             
     const mp3Path = '/atWork/ep' + epNo + '.mp3'
 
+    const post = () => {
+        const file = 'ep' + epNo
+        const lessons = normalize()
+        const body = { time: new Date().toISOString(), file, lessons}
+        //body[file] = JSON.stringify(lessons)
+        //const url = 'http://localhost:3001/test'
+        const url = '/test'
+        postData(url, body)
+            .then(data => {
+                console.log(data); // JSON data parsed by `data.json()` call
+            });
+    }
     const save = () => {
         const fileName = 'ep' + epNo + '.json'
         const lessons = normalize()
@@ -53,6 +65,40 @@ export const LessonEffect = ({ epNo }) => {
         }
         setLesson(lessons)
         return lessons
+    }
+
+    async function postData(url = '', data = {default: 'test'}) {
+        // Default options are marked with *
+        const response = await fetch(url, {
+            method: 'POST', // *GET, POST, PUT, DELETE, etc.
+            //mode: 'no-cors', // no-cors, *cors, same-origin
+            //cache: 'no-cache', // *default, no-cache, reload, force-cache, only-if-cached
+            //credentials: 'omit', // include, *same-origin, omit
+            headers: {
+                'Accept': 'application/json',
+                'Content-Type': 'application/json'
+                //'Content-Type': 'application/x-www-form-urlencoded',
+            },
+            //redirect: 'follow', // manual, *follow, error
+            //referrerPolicy: 'no-referrer', // no-referrer, *no-referrer-when-downgrade, origin, origin-when-cross-origin, same-origin, strict-origin, strict-origin-when-cross-origin, unsafe-url
+            body: JSON.stringify(data) // body data type must match "Content-Type" header
+            //body: JSON.stringify({ a: 1, b: 'Textual content' })
+        });
+        console.log('postData.response', response)
+        return response.json(); // parses JSON response into native JavaScript objects
+    }
+    async function postTest() {
+        const rawResponse = await fetch('/test', {
+            method: 'POST',
+            headers: {
+                'Accept': 'application/json',
+                'Content-Type': 'application/json'
+            },
+            body: JSON.stringify({ file: 'ep_testpost', lessons: 'Test content' })
+        });
+        const content = await rawResponse.json();
+
+        console.log('postTest', content);
     }
 
     const onTimeUpdate = () => {
@@ -193,7 +239,9 @@ export const LessonEffect = ({ epNo }) => {
     return (
         <>
             <button onClick={() => setEdit(false)} className="header-button">stop edit</button>
-            <button onClick={() => save()} className="header-button">save</button>
+            <button onClick={() => save()} className="header-button">download</button>
+            <button onClick={() => post()} className="header-button">post</button>
+            <button onClick={() => postTest()} className="header-button">postTest</button>
             <audio id="track" src={mp3Path}
                 onTimeUpdate={onTimeUpdate}>
                 <p>Your browser does not support the audio element</p>
