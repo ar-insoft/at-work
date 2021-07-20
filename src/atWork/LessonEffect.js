@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { Container } from "semantic-ui-react";
+import classNames from 'classnames/bind'
 import { saveAs } from 'file-saver'
 import './LessonEffect.css';
 
@@ -12,13 +13,23 @@ export const LessonEffect = ({ epNo }) => {
     const [currentPlayingTime, setCurrentPlayingTime] = useState(null)
     const [edit, setEdit] = useState(false)
 
+    const [przerobione, setPrzerobione] = useState([])
+
+    const mp3Url = '/atWork/ep' + epNo + '.mp3'
+    const jsonUrl = '/atWork/ep' + epNo + '.json'
+    const saveLessonUrl = '/at-work/handle_save_lesson'
+    const savePrzerobioneUrl = '/at-work/handle_save_lesson/przerobione/'
+
     useEffect(() => {
         load(epNo)
     }, [epNo])
 
+    useEffect(() => {
+        setPrzerobione([])
+    }, [epNo])
+
     async function load(epNo) {
-        const jsonName = '/atWork/ep' + epNo + '.json'
-        const response = await fetch(jsonName);
+        const response = await fetch(jsonUrl);
         const contentType = response.headers.get("content-type")
         const contentTypeOk = contentType && contentType.indexOf("application/json") !== -1
         //console.log('contentType ' + epNo, contentType)
@@ -34,17 +45,13 @@ export const LessonEffect = ({ epNo }) => {
         setLesson(myJson)
         setJsonLoaded(true)
     }
-            
-    const mp3Path = '/atWork/ep' + epNo + '.mp3'
 
     const post = () => {
         const file = 'ep' + epNo
         const lessons = normalize()
         const body = { time: new Date().toISOString(), file, lessons}
         //body[file] = JSON.stringify(lessons)
-        //const url = 'http://localhost:3001/test'
-        const url = '/test'
-        postData(url, body)
+        postData(saveLessonUrl, body)
             .then(data => {
                 console.log(data); // JSON data parsed by `data.json()` call
             });
@@ -101,6 +108,29 @@ export const LessonEffect = ({ epNo }) => {
         console.log('postTest', content);
     }
 
+    const zarejestrujPrzerobienie = index => {
+        if (!przerobione.includes(index)) przerobione.push(index)
+        setPrzerobione(przerobione)
+        const toSend = { time: new Date().toISOString(), 'ep': epNo, index, przerobione }
+        postData(savePrzerobioneUrl, toSend)
+            .then(data => {
+                console.log(data); // JSON data parsed by `data.json()` call
+            });
+    }
+    async function postPrzerobione() {
+        const rawResponse = await fetch('/test', {
+            method: 'POST',
+            headers: {
+                'Accept': 'application/json',
+                'Content-Type': 'application/json'
+            },
+            body: JSON.stringify({ file: 'ep_testpost', lessons: 'Test content' })
+        });
+        const content = await rawResponse.json();
+
+        console.log('postTest', content);
+    }
+
     const onTimeUpdate = () => {
         const audio = document.getElementById('track')
         //const duration = audio.duration
@@ -122,6 +152,8 @@ export const LessonEffect = ({ epNo }) => {
         const line = lesson[index]
         setPlayingIndex(index)
         startPlayingPart(audio, line.mp3Start, line.mp3End)
+
+        zarejestrujPrzerobienie(index)
     }
     const startPlayingPart = (player, start, end) => {
         player.currentTime = start
@@ -205,7 +237,7 @@ export const LessonEffect = ({ epNo }) => {
             <button onClick={() => setEdit(true)} className="header-button"><strong>edit</strong></button> {epNo} {status}
             <Container>
             {/* epNo = {epNo} */}
-            <audio id="track" src={mp3Path}
+            <audio id="track" src={mp3Url}
                 onTimeUpdate={onTimeUpdate}>
                 <p>Your browser does not support the audio element</p>
             </audio>
@@ -221,7 +253,11 @@ export const LessonEffect = ({ epNo }) => {
                                 </div>
                             </div>
                             <div className="less_line_right">
-                                <div className="less_line_tekstEn padding" onClick={() => playPart(index)}>
+                            <div onClick={() => playPart(index)} className={classNames(
+                                'less_line_tekstEn  padding',
+                                {
+                                    'less_line_tekstEn_przerobione': przerobione.includes(index),
+                                })}>
                                     <div className="text_hidden">{linia.lineEn}</div>                                    
                                 </div>
                                 <div className="less_line_times padding">
@@ -239,10 +275,12 @@ export const LessonEffect = ({ epNo }) => {
     return (
         <>
             <button onClick={() => setEdit(false)} className="header-button">stop edit</button>
-            <button onClick={() => save()} className="header-button">download</button>
             <button onClick={() => post()} className="header-button">post</button>
-            <button onClick={() => postTest()} className="header-button">postTest</button>
-            <audio id="track" src={mp3Path}
+            <span className="debug_span">
+                <button onClick={() => save()} className="header-button">download</button>
+                <button onClick={() => postTest()} className="header-button">postTest</button>
+            </span>
+            <audio id="track" src={mp3Url}
                 onTimeUpdate={onTimeUpdate}>
                 <p>Your browser does not support the audio element</p>
             </audio>

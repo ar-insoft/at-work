@@ -5,8 +5,9 @@
 .less_line {
     width: 100%;
     display: flex;
-    border: 1px solid blue;
+    /* border: 1px solid blue; */
     background-color: #e8e8e8;
+    border: 1px solid black;
 }
 .less_line_left {
     width: 50%;
@@ -14,23 +15,26 @@
 }
 .less_line_lineNo {
     width: 150px;
-    border: 1px solid red;
+    border-right: 1px solid black;
 }
 .less_line_tekstPl {
     width: 100%;
     text-align: left;
-    border: 1px solid darkblue;
+    border-right: 1px solid black;
 }
 .less_line_right {
     width: 50%;
     display: flex;
     justify-content: flex-end;
-    border: 1px solid greenyellow;
+    /* border-right: 1px solid black; */
 }
 .less_line_tekstEn {
     width: 100%;
     text-align: left;
-    border: 1px solid lightskyblue;
+    border-right: 1px solid black;
+}
+.less_line_tekstEn_przerobione {
+    background-color: #99999923;
 }
 .text_hidden {
     display: none;
@@ -40,7 +44,15 @@
 }
 .less_line_times {
     width: 150px;
-    border: 1px solid red;
+    /* border: 1px solid red; */
+}
+
+.header-button {
+    margin-right: 10px;
+}
+
+.debug_span {
+    margin-left: 300px;
 }
 
 /* ------------------------------------ */

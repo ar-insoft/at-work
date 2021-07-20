@@ -4,7 +4,7 @@ import { Tab } from "semantic-ui-react";
 import { LessonEffect } from './LessonEffect'
 import {Boxes} from './development/Boxes'
 
-const liczbaLekcji = 59
+const liczbaLekcji = 65
 class Tabs extends Component {
     constructor(props) {
         super(props);
@@ -12,7 +12,7 @@ class Tabs extends Component {
             isLoading: false,
             tabActiveIndex: 0,
             tabLess: this.fillArrayWithNumbers(liczbaLekcji + 1),
-            saLekcje: Array(liczbaLekcji + 1).fill('_')
+            saLekcje: Array(liczbaLekcji + 1).fill('')
         }
     }
 
