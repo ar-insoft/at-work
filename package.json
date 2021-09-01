@@ -2,14 +2,17 @@
   "name": "at_work",
   "homepage": "http://ar-insoft.github.io/react/at-work",
   "proxy": "http://localhost:3001/",
-  "version": "1.0.1",
+  "version": "1.1.1",
   "private": true,
   "dependencies": {
     "classnames": "^2.3.1",
+    "dotenv": "^10.0.0",
     "file-saver": "^2.0.2",
+    "preval.macro": "^5.0.0",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
     "react-scripts": "4.0.3",
+    "rxjs": "^7.3.0",
     "semantic-ui-css": "^2.4.1",
     "semantic-ui-react": "^0.88.2"
   },
